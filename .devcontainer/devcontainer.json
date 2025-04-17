@@ -1,6 +1,6 @@
 {
   "name": "Jekyll",
-  "dockerComposeFile": "docker-compose.yml",
+  "dockerComposeFile": ".devcontainer/docker-compose.yml",
   "service": "jekyll-dev",
   "workspaceFolder": "/workspaces",
   "onCreateCommand": "git config --global --add safe.directory ${containerWorkspaceFolder}",
