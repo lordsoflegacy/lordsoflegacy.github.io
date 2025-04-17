@@ -1,8 +1,9 @@
 {
   "name": "Jekyll",
-  "image": "mcr.microsoft.com/devcontainers/jekyll:2-bullseye",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "jekyll-dev",
+  "workspaceFolder": "/workspaces",
   "onCreateCommand": "git config --global --add safe.directory ${containerWorkspaceFolder}",
-  "forwardPorts": [4000, 4000],
   "postCreateCommand": "bash .devcontainer/post-create.sh",
   "customizations": {
     "vscode": {
@@ -10,19 +11,14 @@
         "terminal.integrated.defaultProfile.linux": "zsh"
       },
       "extensions": [
-        // Liquid tags auto-complete
         "killalau.vscode-liquid-snippets",
-        // Liquid syntax highlighting and formatting
         "Shopify.theme-check-vscode",
-        // Shell
         "timonwong.shellcheck",
         "mkhl.shfmt",
-        // Common formatter
         "EditorConfig.EditorConfig",
         "esbenp.prettier-vscode",
         "stylelint.vscode-stylelint",
         "yzhang.markdown-all-in-one",
-        // Git
         "mhutchie.git-graph"
       ]
     }
