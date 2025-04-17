@@ -1,0 +1,30 @@
+---
+title: Liga Legacy <span>#1</span>
+categories: [Liga Legacy]
+tags: [meta, wyniki]
+description: Raport wyników oraz mety.
+math: true
+---
+
+Pierwszy mecz ligowy zakończył się następującymi wynikami:
+
+|  Miejsce  | Imię i nazwisko          | Wynik       | Deck               |
+|:---------:|--------------------------|-------------|--------------------|
+| $$ 1. $$  | Krzysztof Mazurek        | $$ 4-0-0 $$ | RUG Delver         |
+| $$ 2. $$  | Piotr Szejko             | $$ 3-1-1 $$ | UB Tempo           |
+| $$ 3. $$  | Dauthi Dauthi            | $$ 3-1-1 $$ | Beanstalk Miracles |
+| $$ 4. $$  | Maciek Staniszewski      | $$ 3-1-1 $$ |                    |
+| $$ 5. $$  | Mikołaj Wyspiański       | $$ 3-1-1 $$ | Jewel Copy         |
+| $$ 6. $$  | Ludwik Prezes            | $$ 2-2-0 $$ | Blue Painter       |
+| $$ 7. $$  | Arkadiusz Podgórni       | $$ 2-2-0 $$ | GW Lands           |
+| $$ 8. $$  | Jeremiasz Yerba          | $$ 2-2-0 $$ |                    |
+| $$ 9. $$  | Antoine Albert[^niewiem] | $$ 1-1-2 $$ | BW Death and Taxes |
+| $$ 10. $$ | Tomasz Dąbrowski         | $$ 1-1-1 $$ | Jeskai Wizards     |
+| $$ 11. $$ | Marcin Nowakowski        | $$ 1-2-1 $$ | Aluren             |
+| $$ 12. $$ | Filip Kwiatkowski        | $$ 1-2-1 $$ | Red Painter        |
+| $$ 13. $$ | Bartosz Litwin           | $$ 1-3-0 $$ |                    |
+| $$ 14. $$ | Filip Adamczyk           | $$ 1-3-0 $$ |                    |
+| $$ 15. $$ | Błażej Ruba              | $$ 0-3-1 $$ | Necro Midrange     |
+| $$ 16. $$ | Maciej Kołodziejak       | $$ 0-3-1 $$ |                    |
+
+[^niewiem]: Nie jestem pewien, jaka jest dalsza część nazwiska.

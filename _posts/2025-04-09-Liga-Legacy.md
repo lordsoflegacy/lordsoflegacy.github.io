@@ -1,0 +1,24 @@
+---
+title: Liga Legacy <span>#2</span>
+categories: [Liga Legacy]
+tags: [meta, wyniki]
+description: Raport wyników oraz mety.
+math: true
+---
+
+Drugi mecz ligowy zakończył się następującymi wynikami:
+
+|  Miejsce  | Imię i nazwisko     | Wynik       | Deck               |
+|:---------:|---------------------|-------------|--------------------|
+| $$ 1. $$  | Filip Kwiatkowski   | $$ 4-0-0 $$ | 8-cast             |
+| $$ 2. $$  | Filip Adamczyk      | $$ 3-1-0 $$ | Blue Painter       |
+| $$ 3. $$  | Maciek Staniszewski | $$ 2-1-1 $$ | BUG Beanstalk      |
+| $$ 4. $$  | Krzysztof Mazurek   | $$ 2-2-0 $$ | RUG Delver         |
+| $$ 5. $$  | Dauthi Dauthi       | $$ 2-2-0 $$ | 4c Rhino Cascade   |
+| $$ 6. $$  | Jeremiasz Yerba     | $$ 2-2-0 $$ | Pox                |
+| $$ 6. $$  | Filip Pawłowski     | $$ 2-2-0 $$ | 4c Beanstalk       |
+| $$ 7. $$  | Ludwik Prezes       | $$ 2-2-0 $$ | Blue Painter       |
+| $$ 8. $$  | Bartosz Litwin      | $$ 1-3-0 $$ | Infect             |
+| $$ 9. $$  | Piotr Szejko        | $$ 1-2-0 $$ | BW Death and Taxes |
+| $$ 10. $$ | Tomasz Dąbrowski    | $$ 0-2-1 $$ | Jeskai Wizards     |
+| $$ 11. $$ | Marcin Nowakowski   | $$ 0-2-1 $$ | Aluren             |
