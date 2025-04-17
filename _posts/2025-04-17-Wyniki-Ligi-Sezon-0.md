@@ -1,5 +1,6 @@
 ---
 title: Wyniki Ligi Legacy - sezon <span>#0</span>
+date: 2025-04-17 18:20:00 +0200
 categories: [Liga Legacy]
 tags: [wyniki]
 description: Raport zbiorczych wyników.
