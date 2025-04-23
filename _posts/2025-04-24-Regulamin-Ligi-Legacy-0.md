@@ -62,12 +62,12 @@ O ile sklep organizujący turniej nie wprowadzi żadnych zmian, wszystkie pairin
 
 W ramach każdego turnieju, jak i na koniec sezonu ligi (oraz ewentualnie w trakcie jej trwania), przewidziane są nagrody:
 
-1. W ramach każdego, pojedynczego turnieju dystrybuowany jest kredyt sklepowy dla najlepszych graczy. Przeważnie znaczną część otrzymuje osoba znajdująca się na pierwszym miejscu, a pozostała pula jest rozdzielana dla graczy o wynikach $$ X-1 $$.
+1. W ramach każdego, pojedynczego turnieju dystrybuowany jest kredyt sklepowy dla najlepszych graczy. Przeważnie znaczną część otrzymuje osoba znajdująca się na pierwszym miejscu, a pozostała pula jest rozdzielana dla graczy o wynikach $$ \mathbf{X}-1 $$.
 2. W ramach każdego, pojedynczego turnieju rozdawane są trzy miniboostery, z których robiony jest redraft (kolejność zgodna z rankingiem).
 3. Pod koniec sezonu, rozdawane są następujące nagrody[^gib-info]:
 4. W ramach trwania sezonu pierwsza osoba, która zdobędzie 20 punktów (lub, w przypadku remisu, pierwsza prześcignie osoby, z którymi remisowała ("_last man standing_")) zdobywa unikalną wersję karty `Surgical Extraction`.
 
-[^gib-info]: Potrzeba info od Filipa :>
+[^gib-info]: Potrzeba info od Filipa <i class="fa-solid fa-face-grin-beam-sweat"></i>
 
 # Uwagi
 
