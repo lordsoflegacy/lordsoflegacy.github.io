@@ -10,27 +10,33 @@ pin: true
 
 Obecna punktacja przedstawia się następująco:
 
-|  Miejsce  | Imię i nazwisko             | Suma punktów | [1][league-0-1] | [2][league-0-2] | [3][league-0-3] |
-|:---------:|-----------------------------|:------------:|:---------------:|:---------------:|:---------------:|
-| $$ 1. $$  | Filip Kwiatkowski           |   $$ 25 $$   |        4        |       12        |        9        |
-| $$ 2. $$  | Krzysztof Mazurek           |   $$ 25 $$   |       12        |        7        |        6        |
-| $$ 3. $$  | Piotr Szejko                |   $$ 24 $$   |        9        |        3        |       12        |
-| $$ 4. $$  | Grzegorz "Dauthi" Nieumarły |   $$ 24 $$   |        9        |        6        |        9        |
-| $$ 5. $$  | Maciej Staniszewski         |   $$ 22 $$   |        9        |        7        |        6        |
-| $$ 6. $$  | Ludwik "Prezes" Jachowicz   |   $$ 21 $$   |        6        |        6        |        9        |
-| $$ 7. $$  | Filip Adamczyk              |   $$ 18 $$   |        3        |        9        |        6        |
-| $$ 8. $$  | Jeremiasz "Yerba" Lubimow   |   $$ 15 $$   |        6        |        6        |        3        |
-| $$ 9. $$  | Tomasz Dąbrowski            |   $$ 14 $$   |        4        |        1        |        9        |
-| $$ 10. $$ | Atoine Albert               |   $$ 11 $$   |        5        |                 |        6        |
-| $$ 11. $$ | Mikołaj Wyspiański          |   $$ 9 $$    |        9        |                 |                 |
-| $$ 12. $$ | Marcin Nowakowski           |   $$ 8 $$    |        4        |        1        |        3        |
-| $$ 13. $$ | Filip Pawłowski             |   $$ 6 $$    |                 |        6        |                 |
-| $$ 14. $$ | Bartosz Litwin              |   $$ 6 $$    |        3        |        3        |        0        |
-| $$ 15. $$ | Arkadiusz Podgórni          |   $$ 6 $$    |        6        |                 |                 |
-| $$ 16. $$ | Sylwester Strużyna          |   $$ 3 $$    |        3        |                 |        3        |
-| $$ 17. $$ | Błażej Ruba                 |   $$ 1 $$    |        1        |                 |                 |
-| $$ 18. $$ | Maciej Kołodziejak          |   $$ 0 $$    |        0        |                 |                 |
+|  Miejsce  | Imię i nazwisko             | Suma punktów | [1][league-0-1] | [2][league-0-2] | [3][league-0-3] | [4][league-0-4] |
+|:---------:|-----------------------------|:------------:|:---------------:|:---------------:|:---------------:|:---------------:|
+| $$ 1. $$  | Krzysztof Mazurek           |   $$ 37 $$   |       12        |        7        |        6        |       12        |
+| $$ 2. $$  | Filip Kwiatkowski           |   $$ 34 $$   |        4        |       12        |        9        |        9        |
+| $$ 3. $$  | Piotr Szejko                |   $$ 33 $$   |        9        |        3        |       12        |        9        |
+| $$ 4. $$  | Grzegorz "Dauthi" Nieumarły |   $$ 33 $$   |        9        |        6        |        9        |        9        |
+| $$ 5. $$  | Ludwik "Prezes" Jachowicz   |   $$ 27 $$   |        6        |        6        |        9        |        6        |
+| $$ 6. $$  | Maciej Staniszewski         |   $$ 22 $$   |        9        |        7        |        6        |                 |
+| $$ 7. $$  | Filip Adamczyk              |   $$ 18 $$   |        3        |        9        |        6        |        0        |
+| $$ 8. $$  | Jeremiasz "Yerba" Lubimow   |   $$ 15 $$   |        6        |        6        |        3        |                 |
+| $$ 9. $$  | Tomasz Dąbrowski            |   $$ 14 $$   |        4        |        1        |        9        |                 |
+| $$ 10. $$ | Bartosz Litwin              |   $$ 12 $$   |        3        |        3        |        0        |        6        |
+| $$ 11. $$ | Sylwester Strużyna          |   $$ 12 $$   |        3        |                 |        3        |        6        |
+| $$ 12. $$ | Atoine Albert               |   $$ 11 $$   |        5        |                 |        6        |                 |
+| $$ 13. $$ | Mikołaj Wyspiański          |   $$ 9 $$    |        9        |                 |                 |                 |
+| $$ 14. $$ | Marcin Nowakowski           |   $$ 8 $$    |        4        |        1        |        3        |                 |
+| $$ 15. $$ | Filip Pawłowski             |   $$ 6 $$    |                 |        6        |                 |                 |
+| $$ 16. $$ | Arkadiusz Podgórni          |   $$ 6 $$    |        6        |                 |                 |                 |
+| $$ 17. $$ | Adam Kwak                   |   $$ 6 $$    |                 |                 |                 |        6        |
+| $$ 18. $$ | Ziemowit "Walenty" Strużyna |   $$ 3 $$    |                 |                 |                 |        3        |
+| $$ 19. $$ | Błażej Ruba                 |   $$ 1 $$    |        1        |                 |                 |                 |
+| $$ 20. $$ | Maciej Kołodziejak          |   $$ 0 $$    |        0        |                 |                 |                 |
+| $$ 21. $$ | Andrzej Kwas                |   $$ 0 $$    |                 |                 |                 |        0        |
+
+
 
 [league-0-1]: ../Liga-Legacy-0-1
 [league-0-2]: ../Liga-Legacy-0-2
 [league-0-3]: ../Liga-Legacy-0-3
+[league-0-4]: ../Liga-Legacy-0-4
