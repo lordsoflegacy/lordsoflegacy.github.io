@@ -8,6 +8,8 @@ math: true
 pin: true
 ---
 
+---
+
 Obecna punktacja przedstawia się następująco:
 
 |  Miejsce  | Imię i nazwisko             | Suma punktów | [1][league-0-1] | [2][league-0-2] | [3][league-0-3] | [4][league-0-4] |
@@ -34,9 +36,9 @@ Obecna punktacja przedstawia się następująco:
 | $$ 20. $$ | Maciej Kołodziejak          |   $$ 0 $$    |        0        |                 |                 |                 |
 | $$ 21. $$ | Andrzej Kwas                |   $$ 0 $$    |                 |                 |                 |        0        |
 
-
-
 [league-0-1]: ../Liga-Legacy-0-1
 [league-0-2]: ../Liga-Legacy-0-2
 [league-0-3]: ../Liga-Legacy-0-3
 [league-0-4]: ../Liga-Legacy-0-4
+
+---
