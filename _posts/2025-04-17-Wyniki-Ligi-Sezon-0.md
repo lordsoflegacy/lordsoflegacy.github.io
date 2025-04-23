@@ -25,10 +25,11 @@ Obecna punktacja przedstawia się następująco:
 | $$ 11. $$ | Mikołaj Wyspiański          |   $$ 9 $$    |        9        |                 |                 |
 | $$ 12. $$ | Marcin Nowakowski           |   $$ 8 $$    |        4        |        1        |        3        |
 | $$ 13. $$ | Filip Pawłowski             |   $$ 6 $$    |                 |        6        |                 |
-| $$ 14. $$ | Bartosz Litwin              |   $$ 6 $$    |        3        |        3        |                 |
+| $$ 14. $$ | Bartosz Litwin              |   $$ 6 $$    |        3        |        3        |        0        |
 | $$ 15. $$ | Arkadiusz Podgórni          |   $$ 6 $$    |        6        |                 |                 |
 | $$ 16. $$ | Sylwester Strużyna          |   $$ 3 $$    |        3        |                 |        3        |
 | $$ 17. $$ | Błażej Ruba                 |   $$ 1 $$    |        1        |                 |                 |
+| $$ 18. $$ | Maciej Kołodziejak          |   $$ 0 $$    |        0        |                 |                 |
 
 [league-0-1]: ../Liga-Legacy-0-1
 [league-0-2]: ../Liga-Legacy-0-2
