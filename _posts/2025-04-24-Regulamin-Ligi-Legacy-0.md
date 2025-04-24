@@ -2,7 +2,7 @@
 title: Regulamin Ligi Legacy - sezon <span>#0</span>
 categories: [Liga Legacy, Sezon 0]
 tags: [regulamin]
-description: Raport zbiorczych wyników.
+description: Regulamin Ligi Legacy dla sezonu 0.
 math: true
 pin: true
 ---
