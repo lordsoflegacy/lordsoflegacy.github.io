@@ -12,29 +12,29 @@ pin: true
 > Uwaga: Jest to jedynie draft regulaminu, który jest proponowany do zaakceptowania przez uczestników Ligi Legacy.
 {: .prompt-danger }
 
-# Wstęp
+## Wstęp
 
 Aby uniknąć nieprzyjemności związanych z potencjalnymi niejednoznacznościami sytuacji, następujące zasady zostały spisane i przyjęte w ramach zerowego sezonu Ligi Legacy. Dodatkowo przedstawiają one ogólny sposób funkcjonowania Ligi.
 
-# Punkty
+## Punkty
 
 W ramach organizowanych przez [CentrumMTG](https://www.centrum-mtg.com.pl/) turniejów Legacy (odbywających się we środy o godzinie 18:30), każdy zdobyty punkt wlicza się do rankingu ligii z danego sezonu. Punkty między sezonami nie są przenoszone. 
 
-# Sezon
+## Sezon
 
 Sezon zerowy rozpoczął się wraz z [Banned and Restricted Announcement dnia 31.03.2025](https://magic.wizards.com/en/news/announcements/banned-and-restricted-announcement-march-31-2025). Planowane zakończenie sezonu to 25.06.2025 (środa --- turniej odbywający się tego dnia **wlicza się** w punktację).
 
-# Przebieg turnieju
+## Przebieg turnieju
 
 Ostatecznym i jedynym medium informacyjnym dotyczącym zdobytych punktów w ramach danego turnieju jest panel wyników z aplikacji _Companion_. To się może zmienić jedynie po uzgodnieniu tego ze sklepem organizującym turnieje.
 
-## Zapisy
+### Zapisy
 
 Osobą zapisaną na turniej zostaje się, gdy wprowadzi się odpowiedni kod w aplikacji _Companion_. W przypadku spóźnienia na turniej należy w pierwszej kolejności zlokalizować swojego przeciwnika i rozegrać rundę, a dopiero później uiścić opłatę w sklepie[^ustalone-z-organizatorem].
 
 [^ustalone-z-organizatorem]: Takie rozwiązanie problemu zostało przedyskutowane i zaakceptowane przez CentrumMTG.
 
-## Spóźnienia
+### Spóźnienia
 
 Pomijając kwestię uiszczenia opłaty za turniej, w przypadku spóźnienia, aplikują się następujące konsekwencje[^chyba-ze-bye]:
 
@@ -51,14 +51,14 @@ Pomijając kwestię uiszczenia opłaty za turniej, w przypadku spóźnienia, apl
 [^sedzia2]: Należy poinformować sędziego.
 [^sideboard]: Natychmiast rozpoczynana jest druga gra (wynik $$1-0$$ dla osoby, która była na czas), ale bez możliwości sideboardowania się.
 
-## Pairingi
+### Pairingi
 
 O ile sklep organizujący turniej nie wprowadzi żadnych zmian, wszystkie pairingi są dystrybuowane poprzez aplikację _Companion_ oraz na monitorze w sali do grania.
 
 > W związku z tym, że każda kolejna runda musi zostać aktywowana manualnie, serdecznie prosimy wszystkich graczy o natychmiastowe raportowanie wyników w aplikacji, a w przypadku bycia ostatnią parą rozgrywającą mecz, o poinformowanie organizatora o możliwości wystartowania następnej rundy.
 {: .prompt-tip }
 
-# Nagrody
+## Nagrody
 
 W ramach każdego turnieju, jak i na koniec sezonu ligi (oraz ewentualnie w trakcie jej trwania), przewidziane są nagrody:
 
@@ -69,7 +69,7 @@ W ramach każdego turnieju, jak i na koniec sezonu ligi (oraz ewentualnie w trak
 
 [^gib-info]: Potrzeba info od Filipa <i class="fa-solid fa-face-grin-beam-sweat"></i>
 
-# Uwagi
+## Uwagi
 
 Niniejszy regulamin jest niekompletn, niepoprafny, a na dodatek źle sform<span style="position:relative;left:-1.2pt">a</span><span style="position:relative;left:1pt">t</span>ow<span style="position:relative;left:-3pt">a<span style="position:relative;bottom:0.15ex">n</span>y.</span>
 
