@@ -22,7 +22,7 @@ W ramach organizowanych przez [CentrumMTG](https://www.centrum-mtg.com.pl/) turn
 
 ## Sezon
 
-Sezon zerowy rozpoczął się wraz z [Banned and Restricted Announcement dnia 31.03.2025](https://magic.wizards.com/en/news/announcements/banned-and-restricted-announcement-march-31-2025). Planowane zakończenie sezonu to 25.06.2025 (środa --- turniej odbywający się tego dnia **wlicza się** w punktację).
+Sezon zerowy rozpoczął się wraz z [Banned and Restricted Announcement z dnia 31.03.2025](https://magic.wizards.com/en/news/announcements/banned-and-restricted-announcement-march-31-2025). Planowane zakończenie sezonu to 25.06.2025 (środa --- turniej odbywający się tego dnia **wlicza się** w punktację).
 
 ## Przebieg turnieju
 
