@@ -17,7 +17,7 @@ Obecna punktacja przedstawia się następująco:
 | $$ 1. $$  | Krzysztof Mazurek           |   $$ 37 $$   |       12        |        7        |        6        |       12        |
 | $$ 2. $$  | Filip Kwiatkowski           |   $$ 34 $$   |        4        |       12        |        9        |        9        |
 | $$ 3. $$  | Piotr Szejko                |   $$ 33 $$   |        9        |        3        |       12        |        9        |
-| $$ 4. $$  | Grzegorz "Dauthi" Nieumarły |   $$ 33 $$   |        9        |        6        |        9        |        9        |
+| $$ 4. $$  | Grzegorz "Dauthi" Jezierski |   $$ 33 $$   |        9        |        6        |        9        |        9        |
 | $$ 5. $$  | Ludwik "Prezes" Jachowicz   |   $$ 27 $$   |        6        |        6        |        9        |        6        |
 | $$ 6. $$  | Maciej Staniszewski         |   $$ 22 $$   |        9        |        7        |        6        |                 |
 | $$ 7. $$  | Filip Adamczyk              |   $$ 18 $$   |        3        |        9        |        6        |        0        |
