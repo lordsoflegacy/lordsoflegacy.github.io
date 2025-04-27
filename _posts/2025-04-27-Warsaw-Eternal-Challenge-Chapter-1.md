@@ -15,7 +15,7 @@ Meta i decklisty. Decklisty z [top 8](#top-8) zostały dodatkowo dla wygody prze
 
 |  Miejsce   | Imię i nazwisko             | Deck                                                                  |
 |:----------:|-----------------------------|-----------------------------------------------------------------------|
-|  $$ 1. $$  | Grzegorz "Dauthi" Jezierski | [BR Shallow Grave](https://moxfield.com/decks/9ka5Dl4IkUq8ZNFA1ZZW0w) |
+|  $$ 1. $$  | Grzegorz "Dauthi" Jezierski | [BG Shallow Grave](https://moxfield.com/decks/9ka5Dl4IkUq8ZNFA1ZZW0w) |
 |  $$ 2. $$  | Tomasz "tomjab" Jabłoński   | [UB Reanimator](https://moxfield.com/decks/GQ8mZ9SyIk2t7ARsq9CXoQ)    |
 | $$ 3-4. $$ | Maciej "Fidzio" Fidziński   | [RUG Delver](https://moxfield.com/decks/e6-oa4akqUSV-vVBmnhh4A)       |
 | $$ 3-4. $$ | Mariusz Krzywicki           | [Red Painter](https://moxfield.com/decks/31cr_2mPvk2Jd_rpzVxOng)      |
@@ -28,7 +28,7 @@ Meta i decklisty. Decklisty z [top 8](#top-8) zostały dodatkowo dla wygody prze
 
 Kopie spisów kart bezpośrednio zeskanowane od graczy.
 
-#### <b>BR Shallow Grave</b> --- <i>Grzegorz "Dauthi" Jezierski</i>
+#### <b>BG Shallow Grave</b> --- <i>Grzegorz "Dauthi" Jezierski</i>
 
 ```
 2 Archon of Cruelty
@@ -352,7 +352,7 @@ Niestety dostęp do pełnych standingów po Swissie został utracony, ale ówcze
 | $$ 3. $$  | Filip Kwiatkowski           | 8-cast             |
 | $$ 4. $$  | Adam Gerwatowski            | Nadu Combo         |
 | $$ 5. $$  | Tomasz "tomjab" Jabłoński   | UB Reanimator      |
-| $$ 6. $$  | Grzegorz "Dauthi" Jezierski | BR Shallow Grave   |
+| $$ 6. $$  | Grzegorz "Dauthi" Jezierski | BG Shallow Grave   |
 | $$ 7. $$  | Wiktor Werner               | UG Show and Tell   |
 | $$ 8. $$  | Marcin Nowakowski           | RUG Delver         |
 | $$ 9. $$  | Stanisław Olszak            | Doomsday           |
