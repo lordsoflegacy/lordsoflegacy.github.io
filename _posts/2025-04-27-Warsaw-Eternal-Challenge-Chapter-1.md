@@ -533,7 +533,7 @@ Poniżej są zamieszczone decklisty reszty graczy (pomijając [top 8](#top-8)), 
 ```
 {: file="Sneak and Show" }
 
-#### <b/>UR Delver</b> --- <i>Szymon Tonderys</i>
+#### <b>UR Delver</b> --- <i>Szymon Tonderys</i>
 
 ```
 4 Delver of Secrets
