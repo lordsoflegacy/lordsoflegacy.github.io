@@ -31,7 +31,7 @@ Obecna punktacja przedstawia się następująco:
 | $$ 15. $$ | Filip Pawłowski             |   $$ 6 $$    |                 |        6        |                 |                 |
 | $$ 16. $$ | Arkadiusz Podgórni          |   $$ 6 $$    |        6        |                 |                 |                 |
 | $$ 17. $$ | Adam Kwak                   |   $$ 6 $$    |                 |                 |                 |        6        |
-| $$ 18. $$ | Ziemowit "Walenty" Strużyna |   $$ 3 $$    |                 |                 |                 |        3        |
+| $$ 18. $$ | Ziemowit Strużyna           |   $$ 3 $$    |                 |                 |                 |        3        |
 | $$ 19. $$ | Błażej Ruba                 |   $$ 1 $$    |        1        |                 |                 |                 |
 | $$ 20. $$ | Maciej Kołodziejak          |   $$ 0 $$    |        0        |                 |                 |                 |
 | $$ 21. $$ | Andrzej Kwas                |   $$ 0 $$    |                 |                 |                 |        0        |
