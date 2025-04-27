@@ -9,7 +9,7 @@ math: true
 
 ---
 
-Meta i decklisty.
+Meta i decklisty. Decklisty z [top 8](#top-8) zostały dodatkowo dla wygody przeglądających umieszczone na platformie [Moxfield](https://moxfield.com/). 
 
 ## Top 8
 
@@ -345,24 +345,24 @@ Kopie spisów kart bezpośrednio zeskanowane od graczy.
 
 Niestety dostęp do pełnych standingów po Swissie został utracony, ale ówczesne top 16 prezentowało się następująco:
 
-| Miejsce  | Imię i nazwisko             | Deck               |
-|:--------:|-----------------------------|--------------------|
-| $$ 1. $$ | Mariusz Krzywicki           | Red Painter        |
-| $$ 2. $$ | Maciej "Fidzio" Fidziński   | RUG Delver         |
-| $$ 3. $$ | Filip Kwiatkowski           | 8-cast             |
-| $$ 3. $$ | Adam Gerwatowski            | Nadu Combo         |
-| $$ 3. $$ | Tomasz "tomjab" Jabłoński   | UB Reanimator      |
-| $$ 3. $$ | Grzegorz "Dauthi" Jezierski | BR Shallow Grave   |
-| $$ 3. $$ | Wiktor Werner               | UG Show and Tell   |
-| $$ 3. $$ | Marcin Nowakowski           | RUG Delver         |
-| $$ 3. $$ | Stanisław Olszak            | Doomsday           |
-| $$ 3. $$ | Antoine Albertelli          | WB Death and Taxes |
-| $$ 3. $$ | Sylwester Strużyna          | Sneak and Show     |
-| $$ 3. $$ | Ziemowit Strużyna           | Red Painter        |
-| $$ 3. $$ | Filip Pawłowski             | BUG Food Chain     |
-| $$ 3. $$ | Krzysztof Mazurek           | UR Delver          |
-| $$ 3. $$ | Piotr Szejko                | Cradle Control     |
-| $$ 3. $$ | Mikołaj Machowski           | The Epic Gamble    |
+|  Miejsce  | Imię i nazwisko             | Deck               |
+|:---------:|-----------------------------|--------------------|
+| $$ 1. $$  | Mariusz Krzywicki           | Red Painter        |
+| $$ 2. $$  | Maciej "Fidzio" Fidziński   | RUG Delver         |
+| $$ 3. $$  | Filip Kwiatkowski           | 8-cast             |
+| $$ 4. $$  | Adam Gerwatowski            | Nadu Combo         |
+| $$ 5. $$  | Tomasz "tomjab" Jabłoński   | UB Reanimator      |
+| $$ 6. $$  | Grzegorz "Dauthi" Jezierski | BR Shallow Grave   |
+| $$ 7. $$  | Wiktor Werner               | UG Show and Tell   |
+| $$ 8. $$  | Marcin Nowakowski           | RUG Delver         |
+| $$ 9. $$  | Stanisław Olszak            | Doomsday           |
+| $$ 10. $$ | Antoine Albertelli          | WB Death and Taxes |
+| $$ 11. $$ | Sylwester Strużyna          | Sneak and Show     |
+| $$ 12. $$ | Ziemowit Strużyna           | Red Painter        |
+| $$ 13. $$ | Filip Pawłowski             | BUG Food Chain     |
+| $$ 14. $$ | Krzysztof Mazurek           | UR Delver          |
+| $$ 15. $$ | Piotr Szejko                | Cradle Control     |
+| $$ 16. $$ | Mikołaj Machowski           | The Epic Gamble    |
 
 ### Decklisty
 
