@@ -25,7 +25,7 @@ Obecna punktacja przedstawia się następująco:
 | $$ 9. $$  | Tomasz Dąbrowski            |   $$ 14 $$   |        4        |        1        |        9        |                 |
 | $$ 10. $$ | Bartosz Litwin              |   $$ 12 $$   |        3        |        3        |        0        |        6        |
 | $$ 11. $$ | Sylwester Strużyna          |   $$ 12 $$   |        3        |                 |        3        |        6        |
-| $$ 12. $$ | Atoine Albert               |   $$ 11 $$   |        5        |                 |        6        |                 |
+| $$ 12. $$ | Atoine Albertelli           |   $$ 11 $$   |        5        |                 |        6        |                 |
 | $$ 13. $$ | Mikołaj Wyspiański          |   $$ 9 $$    |        9        |                 |                 |                 |
 | $$ 14. $$ | Marcin Nowakowski           |   $$ 8 $$    |        4        |        1        |        3        |                 |
 | $$ 15. $$ | Filip Pawłowski             |   $$ 6 $$    |                 |        6        |                 |                 |
