@@ -36,20 +36,11 @@ Osobą zapisaną na turniej zostaje się, gdy wprowadzi się odpowiedni kod w ap
 
 ### Spóźnienia
 
-Pomijając kwestię uiszczenia opłaty za turniej, w przypadku spóźnienia, aplikują się następujące konsekwencje[^chyba-ze-bye]:
+W przypadku dowolnego spóźnienia[^chyba-ze-bye] gracza na początek rundy, w momencie, gdy mecz tej osoby dochodzi do terminacji, osoba spóźniona natychmiastowo przegrywa całą rundę. Nie są rozgrywane "standardowe" dodatkowe tury.
 
-| Czas spóźnienia w minutach |                        Efekt                         |
-|:--------------------------:|:----------------------------------------------------:|
-|        $$ (0; 5) $$        |         Przedłużenie czasu w meczu[^sedzia1]         |
-|       $$ [5; 10) $$        | Game loss dla osoby spóźnionej[^sedzia2][^sideboard] |
-|     $$ [10; \infty) $$     |      Match loss dla osoby spóźnionej[^sedzia2]       |
-
+Przez _początek rundy_ rozumiana jest chwila, gdzie zegar z oficjalnym czasem zostaje wystartowany.
 
 [^chyba-ze-bye]: Wyjątek stanowi sytuacja, gdy czas spóźniony dostaje bye'a. Nie jest praktykowanym celowe przyznawanie bye'a osobie, która jest spóźniona. W przypadkach wyjątkowych należy skonsultować sytuację z graczami i ewentualnie rozpocząć rundę ponownie (co implikuje zmianę paringów).
-
-[^sedzia1]: Wymaga poinformowania sędziego i jego akceptację.
-[^sedzia2]: Należy poinformować sędziego.
-[^sideboard]: Natychmiast rozpoczynana jest druga gra (wynik $$1-0$$ dla osoby, która była na czas), ale bez możliwości sideboardowania się.
 
 ### Pairingi
 
