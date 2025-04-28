@@ -9,7 +9,7 @@ math: true
 
 ---
 
-Meta i decklisty. Decklisty z [top 8](#top-8) zostały dodatkowo dla wygody przeglądających umieszczone na platformie [Moxfield](https://moxfield.com/). 
+Meta i decklisty. Decklisty z [top 8](#top-8) zostały dodatkowo dla wygody przeglądających umieszczone na platformie [Moxfield](https://moxfield.com/). Wyniki turnieju (wraz z decklistami) są również dostępne na platformie [mtgtop8](https://www.mtgtop8.com/event?e=67929&f=LE). 
 
 ## Top 8
 
