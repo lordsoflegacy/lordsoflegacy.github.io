@@ -138,7 +138,10 @@ I win the die roll and keep a good hand with Saga and a bunch of countermagic. I
 +2 Dismember
 +2 Flusterstorm
 +2 Metallic Rebuke
--x ???
+-2 Kappa Cannoneer
+-2 Clown Car
+-1 Shadowspear
+-1 Emry, Lurker of the Loch
 ```
 {: file="vs. UG Infect" .nolineno }
 
@@ -175,7 +178,8 @@ I lost a die roll, but managed to overpower him with `Urza's Saga`'s constructs 
 +2 Hydroblast
 +1 Soul-Guide Lantern
 -4 Force of Will
-- ???
+-2 Emry, Luker of the Loch
+-1 Pithing Needle
 ```
 {: file="vs. UR Delver" .nolineno }
 
@@ -215,7 +219,11 @@ I lose the die roll, but I manage to T1 Saga into `Pithing Needle` naming `Sneak
 +2 Metallic Rebuke
 +2 Flusterstorm
 +2 Hydroblast
-- ???
+-3 Clown Car
+-2 Kappa Cannoneer
+-2 Emry, Lurker of the Loch
+-1 Shadowspear
+-1 Thought Monitor
 ```
 {: file="vs. Sneak and Show" .nolineno }
 
@@ -254,7 +262,9 @@ That card single handedly stopped my opponent from trying to be aggressive and, 
 +2 Flusterstorm
 +1 Soul-Gudie Lantern
 +1 Grafdigger's Cage
-- ???
+-4 Force of Will
+-3 Clown Car
+-1 Thought Monitor
 ```
 {: file="vs. UB Reanimator" .nolineno }
 
@@ -312,11 +322,18 @@ That's it. That concludes my journey in this tournament with 8-cast. As for the 
 +2 Flusterstorm
 +1 Soul-Gudie Lantern
 +1 Grafdigger's Cage
-- ???
+-4 Clown Car
+-2 Kappa Cannoneer
+-1 Pithing Needle
+-1 Thought Monitor
 ```
 {: file="vs. BG Shallow Grave" .nolineno }
 
 Grzegorz is a very good and versatile player. He plays in many formats, he plays many different decks and knows them pretty well. No shame in losing to him, especially given the matchup.
+
+##### Final result:
+
+Qualified for top 8 as seat #3, lost in the first round of it.
 
 ## Wrapping up
 
