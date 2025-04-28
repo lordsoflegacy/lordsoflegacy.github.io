@@ -789,7 +789,7 @@ Poniżej są zamieszczone decklisty reszty graczy (pomijając [top 8](#top-8)), 
 1 Grafdigger's Cage
 1 Pithing Needle
 ```
-{: file="output" }
+{: file="WB Death and Taxes" }
 
 #### <b>Lands</b> --- <i>Arkadiusz Podgórni</i>
 
@@ -1104,7 +1104,7 @@ Poniżej są zamieszczone decklisty reszty graczy (pomijając [top 8](#top-8)), 
 3 Pick Your Poison
 2 Torpor Orb
 ```
-{: file="Mono G Lands" }
+{: file="Lands" }
 
 #### <b>Mono U Jewel</b> --- <i>Mikołaj Wyspiański</i>
 
