@@ -71,19 +71,19 @@ Because of this, having experimented with Blue Painter (which I believe to be mu
 
 Let's talk about some deckbuilding decisions:
 
-1. `Clown Car` is, most of the time, better than `Urza's Bauble`
-: Yes, Bauble draws cards and Car doesn't. But Car produces more artifacts and / or bigger threats. I feel like four `Mishra's Bauble`s is enough to fuel Emry. Numerous times I was enabled to make a powerful play thanks to the fact that Car produced extra artifacts. Those mainly involved employing `Metallic Rebuke`s.
+1. `Clown Car` is, most of the time, better than `Urza's Bauble`.
+: Yes, Bauble draws cards and Car doesn't. Paired with Emry, it becomes an engine that may be the sole reason a game is at all winnable. But Car produces more artifacts and / or bigger threats. I feel like four `Mishra's Bauble`s is enough to fuel Emry. Numerous times I was enabled to make a powerful play thanks to the fact that Car produced extra artifacts. Those mainly involved employing `Metallic Rebuke`s. But, on the other hand, it may be the case that 4--4 split between `Clown Car` and `Mishra's Bauble` should become an X--Y--4 split between Car, Urza's, and Mishra's. This would require more testing and fine tuning.
 
-2. `Metallic Rebuke` is great
-: In my opinion, 8-cast rarely has explosive comebacks. Because of that, if I win a game, that is either because of an overwhelming start or a slow game with a decent threat backed up by countermagic. `Force of Will` is great, but it also poses Card disadvantage. Rebukes don't. Rebuke good.
+2. `Metallic Rebuke` is great.
+: In my opinion, 8-cast rarely has explosive _comebacks_. It does have explosive _starts_, but rarely comebacks. Because of that, if I win a game, that is usually either because of an opponent-overwhelming start or a slow game with a decent threat backed up by countermagic. `Force of Will` is great, but it also results in card disadvantage. Rebukes don't. Rebuke's good.
 
-3. I wish I played more `Memory Guardian`s
-: `Memory Guardian` is great. I did not appreciate it at first. At least not to the point it deserves. It's cheap, it blocks big things (maybe not lategame-`Barrowgoyf`-level big, but still), flies over creatures to kill relevant planeswalkers, etc. And it cheaply fuels `Patchwork Automaton`, which, I think, is the core of the current iteration of the deck.
+3. I wish I played more `Memory Guardian`s.
+: `Memory Guardian` is great. I did not appreciate it at first. At least not to the point it deserves. It's cheap, it blocks big things (maybe not lategame-`Barrowgoyf`-level big, but still), flies over creatures to kill relevant planeswalkers, swings for last remaining points of damage once our opponents deal with our previous threats, etc. And it cheaply fuels `Patchwork Automaton`, which, I think, is the card that makes the deck.
 
-4. `Lavaspur Boots` make the deck almost to the level of `Patchwork Automaton` (or sometimes even more)
-: You certainly are aware of the typical `Urza's Sage` 🡒 make 2 `Construct`s 🡒 get boots 🡒 swing for millions[^thrabenu]. But do you know how often can you play `Emry, Lurker of the Loch`, attach `Lavaspur Boots` to it, immediately get value, play second Emry, keep it, mill 4 more cards, reattach boots and get _even more value_?<br/><br/>Yes, this happened. During the tournament. More than once.
+4. `Lavaspur Boots` make the deck almost to the level of `Patchwork Automaton` (or sometimes even more).
+: You certainly are aware of the typical `Urza's Saga` 🡒 make 2 `Construct`s 🡒 get boots 🡒 swing for millions[^thrabenu]. But do you know how often can you play `Emry, Lurker of the Loch`, attach `Lavaspur Boots` to it, immediately get value, play second Emry, keep it, mill 4 more cards, reattach boots and get _even more value_?<br/><br/>Yes, this happened. During the tournament. More than once.
 
-5. I'd love to have maybe one more `Metallic Rebuke`, maybe one more `Sink into Stupor`, maybe more `Memory Guardian`s, but I really liked having that many Saga targets in the maindeck
+5. I'd love to have maybe one more `Metallic Rebuke`, maybe one more `Sink into Stupor`, maybe more `Memory Guardian`s, but I really liked having that many Saga targets in the maindeck.
 : And it does not feel bad to draw them. Well, at least not when it's the opening hand. Many decks will be irritated by the presence of T1 `Aether Spellbomb`. Many decks would attempt to `Wasteland` us, which T1 `Pithing Needle` stops. Or maybe you just know that your opponent plays `Sneak and Show` or relies on `Grindstone` and you just name that.<br/><br/>Those plays are especially powerful when deployed from T1 `Urza's Saga` (which paired with T2 `Ancient Tomb` becomes a great win condition on its own).
 
 6. `Disruptor Flute` is great against `Show and Tell`-based decks, which I expected to face more than I actually did.
@@ -95,27 +95,228 @@ Let's talk about some deckbuilding decisions:
 
 ### Preparation
 
-#### Leagues
+This is the moment where I lose all credibility --- everything I said thus far was thought-out and honest, but experience matters, and I, unfortunately, do not have much of it. Prior to this tournament I have played, in total, 12 paper matches and 15 online matches with this iteration of 8-cast. This all spanned over a month. This is **very little**. So please, don't take this article as a guide --- rather treat it as a very personalized set of opinions.
+
+I joined the [8-cast Discord](https://discord.gg/26GeYKYtM5) server and received great help, mainly from ItsSchwiftyTime. I pondered some ideas, reported some results, ~~stole~~borrowed some decklists, and practiced.
+
+#### Local events
+
+With 8-cat I managed to go $$ 4 - 0 $$, $$ 3 - 1 $$ and $$ 3 - 1 $$ in locals. Losing, twice, only to Cradle Control. It's a tough matchup. On one hand, I wish I could play more `Dismember`s, but on the other, why devote that many sideboard slots to a deck against which we're probably losing anyway.
+
+I felt particularly good when playing against Show and Tell and BUG Beanstalk (other Beanstalk variances that have access to `Wrath of the Skies` may be way more problematic, but such is life). I faced it a couple of times during local events, but, unfortunately, only once during the tournament.
 
 #### Magic Online
 
-#### Discord
+I strongly believe that, at least with Legacy, playing on Magic Online is almost a necessity if one wants to step up their game to the highest level. Yes, there are some inconsistencies (some cards simply not being available there, meta shifting towards faster decks, etc.), but they are manageable.
+
+Unfortunately, it comes with a cost. You need to buy or borrow cards. I opted for the latter. If you perfom well enough, you may earn enough to actually buy them later on. It's a fair trade if you ask me.
 
 ### Swiss
 
+Time to start the tournament. It officially began at 10:00 and was meant to span over five rounds + top 8.
+
+It's worth mentioning that I failed one of the crucial steps of the preparation process --- I did not prepare a sideboard guide. I would definitely recommend having one. Nonethelss, having played for a couple of hours the previous day and analyzing the meta, I felt decently prepared.
+
+I registered [the following list](https://moxfield.com/decks/ogGe7IfcpUCYDx1zuGebeA).
+
 #### Round 1
+
+UG Infect
+: ~ Bartosz Litwin
+
+I suspected my opponent to be on UG Infect, since I played against him previously. I was right.
+
+##### Game 1
+
+I win the die roll and keep a good hand with Saga and a bunch of countermagic. I figured that if I stop him from doing infect things, then Saga (especially thanks to `Lavaspur Boots`) is going to win the game. I was right.
+
+- [x] Game 1: Win
+
+##### Sideboarding
+
+```diff
++2 Dismember
++2 Flusterstorm
++2 Metallic Rebuke
+-x ???
+```
+{: file="vs. UG Infect" .nolineno }
+
+##### Game 2
+
+My opponent leads with a colored mana source and casts `Ponder`. I start with `Urza's Saga`, once again. I think I played Automaton on T1. Then they played `Inkmoth Nexus`, threatening to fly over my construct. T2 I deploy `Ancient Tomb` to be ready to make more creatures. I also cast and use `Mishra's Bauble` to see that my opponent is about to draw a second Nexus. On their T3, they double `Invigorate` the animated Nexus and Swing for 9 poison counters. I make some constructs, fetch `Pithing Needle` with Saga's trigger and shut my opponent's Nexuses down. Then I keep attacking him and countering his `Blighted Agent` that could finish the game on the next turn.
+
+- [x] Game 2: Win
+
+##### Current result:
+
+$$ 1 - 0 $$
 
 #### Round 2
 
+UR Delver
+: ~ Krzysztof Mazurek
+
+Krzysztof is a seasoned player against whom I battle for the top place in our [league](../Wyniki-Ligi-Sezon-0/). He has multiple international top 8s on his résumé and is a skilled, methodical player. Paired with the fact that he pilots a Tier 1 deck (albeit with a twist of `Cori-Steel Cutter`[^cori]), I was especially worried about this match.
+
+[^cori]: Which may either mean that it's a slightly weaker, or a slightly stronger build. Time will tell.
+
+##### Game 1
+
+I lost a die roll, but managed to overpower him with `Urza's Saga`'s constructs paired with a `Shadowspear`.
+
+- [x] Game 1: Win
+
+##### Sideboarding
+
+```diff
++2 Metallic Rebuke
++2 Flusterstorm
++2 Hydroblast
++1 Soul-Guide Lantern
+-4 Force of Will
+- ???
+```
+{: file="vs. UR Delver" .nolineno }
+
+##### Game 2
+
+I start, but I can't manage to establish a powerful board. I don't get any `Shadowspear`s because two of my `Urza's Saga`s eat a `Wasteland` each. Ultimately, I lose to a flying threat. Flipped `Tamiyo, Seasoned Scholar` makes me unable to race him, despite otherwise it being a real possibility.
+
+This game took very long. We also both missed a `Mishra's Bauble` trigger --- one just after the other. I don't know if him being able to draw that card would've changed much --- ditto for me.
+
+- [ ] Game 2: Loss
+
+##### Game 3
+
+No changes to the sideboard. We had very little time to finish this round, and we didn't manage to do so. The match was a draw.
+
+##### Current result:
+
+$$ 1 - 0 - 1 $$
+
 #### Round 3
+
+Sneak and Show
+: ~ Sylwester Strużyna
+
+I've known Sylwester for couple of years. Once a dedicated Infect player, nowadays, he migrated towards `Show and Tell` strategies. I faced and defeated him recently, and I had my `Disruptor Flute`s ready in the sideboard, so I felt good about the matchup.
+
+##### Game 1
+
+I lose the die roll, but I manage to T1 Saga into `Pithing Needle` naming `Sneak Attack` after his T1 that consisted of a land and two `Lotus Petal`s. Saga, paired with some other fast mana (can't remember if it was `Ancient Tomb` or some artifact-based mana) created constructs, found `Lavaspur Boots` and swung for lethal.
+
+- [x] Game 1: Win
+
+##### Sideboarding
+
+```diff
++3 Disruptor Flute
++2 Metallic Rebuke
++2 Flusterstorm
++2 Hydroblast
+- ???
+```
+{: file="vs. Sneak and Show" .nolineno }
+
+##### Game 2
+
+I kept a non-explosive hand, but one that can power through a longer game. I cast a single `Patchwork Automaton` and because I had a slowly developing hand, I managed to rebuild after the opposing `Meltdown` left me with zero permanents. My notes say "_counters + small stuff_." Turns out it's just enough to beat `Show and Tell`s.
+
+- [x] Game 2: Win
+
+##### Current result:
+
+$$ 2 - 0 - 1 $$
 
 #### Round 4
 
+UB Reanimator
+: ~ Tomasz "tomjab" Jabłoński
+
+[Tomasz](https://mtgtop8.com/search?player=tomjab) is an excellent, even more seasoned player than the previous opponents. I approach this matchup a little differently than the one against [Krzysztof](#round-2), thinking that I will likely lose quite abruptly due to skill and deck difference. I was expecting a short match where I succumb to his plays. I couldn't have been more wrong.
+
+##### Game 1
+
+I lost the die roll and play a very, very long game 1 (around 30 minutes or so), throughout which I feel like I am barely keeping myself alive. We both go down to 8 life. I have `Pathwork Automaton`, and he has a flipped Tamiyo, an `Orcish Bowmasters` and a 3/3 orc army.
+
+Eventually, I topdeck a `Memory Guardian`, which, as I previously mentioned, did not feel particularly good. I was, once again, very wrong.
+
+That card single handedly stopped my opponent from trying to be aggressive and, suddenly, I could start pressuring him. It even made my opponent stop plusing Tamiyo in order to buy back cantrips in order to find some answers / bigger threats. He did not manage to accomplish that goal. I won.
+
+- [x] Game 1: Win
+
+##### Sideboarding
+
+```diff
++2 Faerie Macabre
++2 Metallic Rebuke
++2 Flusterstorm
++1 Soul-Gudie Lantern
++1 Grafdigger's Cage
+- ???
+```
+{: file="vs. UB Reanimator" .nolineno }
+
+##### Game 2
+
+The game was shorter, and my notes simply say "slow game, outvalued". Looking at the registered life total makes this particularly interesting:
+
+|   Me   | Opponent |
+|:------:|:--------:|
+| ~~20~~ |    20    |
+| ~~17~~ |          |
+| ~~15~~ |          |
+|   13   |          |
+
+Which means that I somehow managed to heavily employ `Ancient Tomb` and was hit by `Orcish Bowmasters` once, before stabilizing and making my opponent concede. I remember him desperately digging for reanimation for either Atraxa or Archon, and once he finally found it and slammed it on the table, I showed him `Faerie Macabre` that was present in my hand for a couple of turns.
+
+- [x] Game 2: Win
+
+##### Current result:
+
+$$ 3 - 0 - 1 $$
+
 #### Round 5
+
+RUG Delver
+: ~ Maciej "Fidzio" Fidziński
+
+Maciej is my good friend with whom I'm part of the [Black Bordered Boomers](https://bbb.black/) group[^bbb-challenge-2]. To my surprise, we are paired on the first table, meaning that we are at the very top of the leaderboard. Because of this we intentionally draw (ID) the match and await the top 8.
+
+[^bbb-challenge-2]: Stay tuned for our Challenge vol. 2, where we are going to be hosting an Old School, Premodern and Legacy tournaments, where among other prizes you can win dual lands! It's going to be organized during the second half of September 2025.
+
+##### Final result after Swiss:
+
+$$ 3 - 0 - 2 $$
 
 ### Top 8
 
+[The top 8 meta](Warsaw-Eternal-Challenge-Chapter-1/) doesn't seem that favorable to me, and, in my opinion, I am paired with the worst of any possible matchups from that mix.
+
 #### Quick loss to BG Shallow Grave
+
+BG Shallow Grave
+: ~ Grzegorz "Dauthi" Jezierski
+
+My notes for each game say:
+
+1. "Too much discard"
+2. "T1 dicard + combo"
+
+That's it. That concludes my journey in this tournament with 8-cast. As for the sideboarding, I believe I did the same configuration as with UB Reanimator, but I left `Force of Will`s in. Something among those lines:
+
+```diff
++2 Faerie Macabre
++2 Metallic Rebuke
++2 Flusterstorm
++1 Soul-Gudie Lantern
++1 Grafdigger's Cage
+- ???
+```
+{: file="vs. BG Shallow Grave" .nolineno }
+
+Grzegorz is a very good and versatile player. He plays in many formats, he plays many different decks and knows them pretty well. No shame in losing to him, especially given the matchup.
 
 ## Wrapping up
 
@@ -137,7 +338,9 @@ But, again, on the other hand, it may as well mean that I was simply lucky to wi
 
 ### The winner
 
-grzesiek
+Grzesiej "Dauthi" Jezierski, piloting his [BG Shallow Grave](https://moxfield.com/decks/9ka5Dl4IkUq8ZNFA1ZZW0w), after [defeating me in the first match of the top 8](#quick-loss-to-bg-shallow-grave), managed to best both Mariusz Krzywicki's [Red Painter](https://moxfield.com/decks/31cr_2mPvk2Jd_rpzVxOng) and Tomasz "tomjab" Jabłoński's [UB Reanimator](https://moxfield.com/decks/GQ8mZ9SyIk2t7ARsq9CXoQ), earning his spot in the next ELM and winning a signed `Show and Tell` playmat:
+
+
 
 ### The players
 
