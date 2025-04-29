@@ -373,7 +373,7 @@ Poniżej są zamieszczone decklisty reszty graczy (pomijając [top 8](#top-8)), 
 ```
 4 Brainstorm
 2 Cabal Ritual
-1 COnsider
+1 Consider
 4 Dark Ritual
 3 Daze
 4 Doomsday

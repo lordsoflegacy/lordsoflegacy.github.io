@@ -33,6 +33,9 @@ it (alongside at least Premodern) starts to see a sort of resurrection here. We 
 
 Taking place in rapidly growing and flourishing local game store (LGS) [CentrumMTG](https://www.centrum-mtg.com.pl/), Warsaw Eternal Challenge managed to gather 60 Premodern and 29 Legacy players. These numbers, at least according to gut feeling of many, are only to keep growing, perhaps even to double in the not-so-distant future.
 
+![jezierski-vs-struzyna_z](/assets/warsaw-eternal-challenge-report/img/jezierski-vs-struzyna_z.JPG){: width="835" height="730" .w-75 }
+_Grzegorz "Dauthi" Jezierski (left), piloting BG Shallow Grave, facing Ziemowit Strużyna (right) piloting Red Painter_
+
 I am going to focus only on the Legacy tournament going onwards.
 
 ### European Legacy Masters (ELM)
@@ -114,6 +117,9 @@ Unfortunately, it comes with a cost. You need to buy or borrow cards. I opted fo
 ### Swiss
 
 Time to start the tournament. It officially began at 10:00 and was meant to span over five rounds + top 8.
+
+![People](/assets/warsaw-eternal-challenge-report/img/ludziki.JPG){: width="835" height="730" .w-75 }
+_Clockwise, starting from top-left: Krzysiek Mazurek (UR Delver), Mikołaj Wyspiański (Mono U Jewel), Piotr Szejko (Cradle Control), and Arkadiusz Chojaczyk (Merfolk)_
 
 It's worth mentioning that I failed one of the crucial steps of the preparation process --- I did not prepare a sideboard guide. I would definitely recommend having one. Nonethelss, having played for a couple of hours the previous day and analyzing the meta, I felt decently prepared.
 
@@ -302,7 +308,10 @@ $$ 3 - 0 - 2 $$
 
 ### Top 8
 
-[The top 8 meta](Warsaw-Eternal-Challenge-Chapter-1/) doesn't seem that favorable to me, and, in my opinion, I am paired with the worst of any possible matchups from that mix.
+[The top 8 meta](Warsaw-Eternal-Challenge-Chapter-1/) didn't seem that favorable to me, and, in my opinion, I am paired with the worst of any possible matchups from that mix.
+
+![Top8](/assets/warsaw-eternal-challenge-report/img/top8.JPG){: width="835" height="730" .w-75 }
+_Going left-to-right: Mariusz Krzywicki (Red Painter), Grzegorz "Dauthi" Jezierski (GB Shallow Grave), Wiktor Werner (UG Show and Tell), Tomasz "tomjab" Jabłoński (UB Reanimator), (<em>below</em>) Marcin Nowakowski (RUG Delver), (<em>up again</em>) Adam Gerwatowski (Nadu Combo), Filip Kwiatkowski (8-cast), and Maciej "Fidzio" Fidziński (RUG Delver)_
 
 #### Quick loss to BG Shallow Grave
 
@@ -357,22 +366,605 @@ But, again, on the other hand, it may as well mean that I was simply lucky to wi
 
 Grzesiej "Dauthi" Jezierski, piloting his [BG Shallow Grave](https://moxfield.com/decks/9ka5Dl4IkUq8ZNFA1ZZW0w), after [defeating me in the first match of the top 8](#quick-loss-to-bg-shallow-grave), managed to best both Mariusz Krzywicki's [Red Painter](https://moxfield.com/decks/31cr_2mPvk2Jd_rpzVxOng) and Tomasz "tomjab" Jabłoński's [UB Reanimator](https://moxfield.com/decks/GQ8mZ9SyIk2t7ARsq9CXoQ), earning his spot in the next ELM and winning a signed `Show and Tell` playmat:
 
-
+![People](/assets/warsaw-eternal-challenge-report/img/grzegorz.JPG){: width="835" height="730" .w-75 }
+_Grzegorz "Dauthi" Jezierski - winner of Warsaw Legacy Challenge vol. 1_
 
 ### The players
 
-popularni gracze - Fidzio, Jabol, Gerwaz, Grzesiek, Krzysiek Mazurek
+It was great to see both relatively new and seasoned players. People come and go, but it's always sad to see a dedicated player losing interest. That's why the presence of format veterans was such a pleasurable experience.
+
+![People](/assets/warsaw-eternal-challenge-report/img/fidzio-i-grzesiek.JPG){: width="835" height="730" .w-75 }
+_Maciej "Fidzio" Fidziński (left, piloting RUG Delver) and Grzegorz "Dauthi" Jezierski (right, piloting GB Shallow Grave)_
+
+![People](/assets/warsaw-eternal-challenge-report/img/jabol.JPG){: width="835" height="730" .w-75 }
+_Tomasz "tomjab" Jabłoński, very sneakily piloting UB Reanimator_
 
 ### Miscellaneous things, trivia, oddities
 
+Time for some interesting statistics, in no particular order.
+
+#### The most commonly played card was <code>Force of Will</code>
+
+It has appeared 84 times in total. Based on the fact that we had 2272 registered cards in total, this means that `Force of Will` has accounted for $$ 3.69\% $$ <sup>(nice)</sup> of all cards. The full top 7 most common card looks like this:
+
+1. 84x `Force of Will` ($$ 3.69\% $$)
+2. 68x `Brainstorm` ($$ 2.99\% $$)
+3. 65x `Ponder` ($$ 2.86\% $$)
+4. 59x `Wasteland` ($$ 2.59\% $$)
+5. 47x `Daze` ($$ 2.07\% $$)
+6. 37x `Polluted Delta` ($$ 1.63\% $$)
+7. 37x `Force of Negation` ($$ 1.63\% $$)
+
+The reason why I opted for the uncommon number 7 for the top most common cards is that all of them are present in Delver-based (or historically Delver-derived) strategies. Given Delver-esque strategies continuously proving to be the top tier of decks, this list clearly indicates which cards might be worth considering sleeving in.
+
+The eight card is a non-Delver-esque one. It's `Ancient Tomb`, and with 37 copies it's tied with `Polluted Delta` and `Force of Negation` with $$ 1.63\% $$ presence.
+
+It's not really worth to talk about the _least_ frequently occurring card, since:
+
+1. the sample size (29 players) is very small
+2. every now and then someone will register a fringe deck that nobody else has ever seen, which would usually imply that a given obscure card would be seen as _the rarest one-of_
+
+#### There were only 2 <code>Null Rod</code>s in total
+
+Yeah. Just two. In Wiktor Werner's [UG Show and Tell](../Warsaw-Eternal-Challenge-Chapter-1/#ug-show-and-tell--wiktor-werner) and Grzegorz Janczewski's [UB Tempo](Warsaw-Eternal-Challenge-Chapter-1/#ub-tempo--grzegorz-janczewski).
+
+Personally, I would expect more artifact hate from players. Maybe the presence of 8 `Meltdown`s in total compensates for it, but that's up for interpretation.
+
+#### There were 121 cards that were played as full playsets in "the 75"
+
+The list of those cards can be expanded by clicking here:
+
+{% capture playsetCardList %}
+- `Misty Rainforest`
+- `Force of Will`
+- `Brainstorm`
+- `Ponder`
+- `Up the Beanstalk`
+- `Swords to Plowshares`
+- `Leyline Binding`
+- `Ancient Tomb`
+- `Seat of the Synod`
+- `Urza's Saga`
+- `Lotus Petal`
+- `Mishra's Bauble`
+- `Mox Opal`
+- `Emry, Lurker of the Loch`
+- `Metallic Rebuke`
+- `Thoughtcast`
+- `Clown Car`
+- `Patchwork Automaton`
+- `Green Sun's Zenith`
+- `Windswept Heath`
+- `Nadu, Winged Wisdom`
+- `Nomads En-Kor`
+- `Endurance`
+- `Shallow Grave`
+- `Entomb`
+- `Dark Ritual`
+- `Thoughtseize`
+- `Reanimate`
+- `Cabal Therapy`
+- `Unmask`
+- `Animate Dead`
+- `Marsh Flats`
+- `Witherbloom Apprentice`
+- `Chain of Smog`
+- `Leyline of the Void`
+- `Food Chain`
+- `Ignoble Hierarch`
+- `Scythecat Cub`
+- `Wight of the Reliquary`
+- `Verdant Catacombs`
+- `Doomsday`
+- `Daze`
+- `Underground Sea`
+- `Polluted Delta`
+- `Duress`
+- `Barrowgoyf`
+- `Force of Negation`
+- `Orcish Bowmasters`
+- `Fatal Push`
+- `Wasteland`
+- `Crop Rotation`
+- `Exploration`
+- `Life from the Loam`
+- `Mox Diamond`
+- `Sphere of Resistance`
+- `Disruptor Flute`
+- `Urza's Cave`
+- `Guide of Souls`
+- `Ajani, Nacatl Pariah`
+- `Ocelot Pride`
+- `Amped Raptor`
+- `Arid Mesa`
+- `Cavern of Souls`
+- `Floodpits Drowner`
+- `Harbinger of the Seas`
+- `Lord of Atlantis`
+- `Master of the Pearl Trident`
+- `Tide Shaper`
+- `True-Name Nemesis`
+- `Aether Vial`
+- `Grim Monolith`
+- `The One Ring`
+- `Coveted Jewel`
+- `Transmute Artifact`
+- `Stock Up`
+- `Sink into Stupor // Sophoric Springs`
+- `Copy Artifact`
+- `Defense Grid`
+- `Gaea's Cradle`
+- `Birds of Paradise`
+- `Chord of Calling`
+- `Painter's Servant`
+- `Fable of the Mirror-Breaker`
+- `Pyroblast`
+- `Goblin Welder`
+- `Goblin Engineer`
+- `Delver of Secrets`
+- `Dragon's Rage Channeler`
+- `Lightning Bolt`
+- `Scalding Tarn`
+- `Snow-Covered Mountain`
+- `Red Elemental Blast`
+- `Grindstone`
+- `Volcanic Island`
+- `Atraxa, Grand Unifier`
+- `Sneak Attack`
+- `Show and Tell`
+- `Chrome mox`
+- `Lion's Eye Diamond`
+- `Burning Wish`
+- `Echo of Eons`
+- `Galvanic Relay`
+- `Gamble`
+- `Rite of Flame`
+- `Nethergoyf`
+- `Blighted Agent`
+- `Glistener Elf`
+- `Inkmoth Nexus`
+- `Invigorate`
+- `Legolas's Quick Reflexes`
+- `Noble Hierarch`
+- `Tropical Island`
+- `Veil of Summer`
+- `Cori-Steel Cutter`
+- `Stoneforge Mystic`
+- `Thalia, Guardian of Thraben`
+- `Recruiter of the Guard`
+- `Solitude`
+- `Karakas`
+- `Prismatic Vista`
+- `Flooded Strand`
+{% endcapture %}
+
+<details>
+  <summary>
+  Expand
+  </summary>
+
+  {{ playsetCardList | markdownify }}
+</details>
+
+<br/>
+On the other hand, there were 184 cards that were played as "one-of"s:
+
+{% capture oneofCardList %}
+- `Bayou`
+- `Savannah`
+- `Hedge Maze`
+- `Island`
+- `Blue Elemental Blast`
+- `City of Traitors`
+- `Otawara, Soaring City`
+- `Aether Spellbomb`
+- `Pithing Needle`
+- `Lavaspur Boots`
+- `Shadowspear`
+- `Thought Monitor`
+- `Grafdigger's Cage`
+- `Soul-Guide Lantern`
+- `Bristly Bill, Spine Sower`
+- `Forest`
+- `Plains`
+- `Uro, Titan of Nature's Wrath`
+- `Dryad Arbor`
+- `Karakas`
+- `Sylvan Safekeeper`
+- `Meticulous Archive`
+- `Keen-Eyed Curator`
+- `Birds of Paradise`
+- `Boseiju, Who Endures`
+- `Carpet of Flowers`
+- `Deafening Silence`
+- `Collector Ouphe`
+- `Force of Negation`
+- `Force of Vigor`
+- `Outland Liberator`
+- `Borborygmos Enraged`
+- `Goryo's Vengeance`
+- `Collective Brutality`
+- `Verdant Catacombs`
+- `Bloodstained Mire`
+- `Polluted Delta`
+- `Emrakul, the Aeons Torn`
+- `Manipulate Fate`
+- `Snow-Covered Forest`
+- `Snow-Covered Island`
+- `Snow-Covered Swamp`
+- `Undercity Sewers`
+- `Underground Mortuary`
+- `Underground Sea`
+- `Dress Down`
+- `Hullbreacher`
+- `Hullbreaker Horror`
+- `Pick Your Poison`
+- `Surgical Extraction`
+- `Veil of Summer`
+- `Elvish Reclaimer`
+- `Quirion Ranger`
+- `Grist, the Hunger Tide`
+- `Bojuka Bog`
+- `Gaea's Cradle`
+- `Lair of the Hydra`
+- `Swamp`
+- `Deep Analysis`
+- `Consider`
+- `Lion's Eye Diamond`
+- `Cavern of Souls`
+- `Flooded Strand`
+- `Jace, Wielder of Mysteries`
+- `Into the Flood Maw`
+- `Relic of Progenitus`
+- `Manamorphose`
+- `Spoils of the Vault`
+- `Misty Rainforest`
+- `Scalding Tarn`
+- `Cabal Therapy`
+- `Sheoldred, the Apocalypse`
+- `Badlands`
+- `Brazen Borrower // Petty Theft`
+- `Volcanic Island`
+- `Nihil Spellbomb`
+- `Unlicensed Hearse`
+- `Ghost Quarter`
+- `Horizon Canopy`
+- `Riftstone Portal`
+- `The Tabernacle At Pendrell Vale`
+- `Windswept Heath`
+- `Wooded Foothills`
+- `Expedition Map`
+- `Haywire Mite`
+- `Ghost Vacuum`
+- `Dark Depths`
+- `Echoing Deeps`
+- `Fomori Vault`
+- `Thespian's Stage`
+- `Galvanic Discharge`
+- `Elegant Parlor`
+- `Arena of Glory`
+- `Manifold Key`
+- `Candy Trail`
+- `Paradox Engine`
+- `Dismember`
+- `Chain of Vapor`
+- `Flusterstorm`
+- `Chaos Defiler`
+- `Yavimaya, Cradle of Growth`
+- `Craterhoof Behemoth`
+- `Delighted Halfling`
+- `Leovold, Emissary of Trest`
+- `Birchlore Rangers`
+- `Gilded Drake`
+- `Eladamri, Korvecdal`
+- `Crystal Barricade`
+- `Mox Opal`
+- `Lotus Petal`
+- `Phyrexian Dragon Engine`
+- `Mishra's Research Desk`
+- `Ensnaring Bridge`
+- `Disruptor Flute`
+- `Damping Sphere`
+- `Tarfire`
+- `Mountain`
+- `Thundering Falls`
+- `Arid Mesa`
+- `Blood Moon`
+- `Goblin Cratermaker`
+- `Magus of the Moon`
+- `Faerie Macabre`
+- `Tormod's Crypt`
+- `Mycosynth Lattice`
+- `Liquimetal Coating`
+- `Unholy Heat`
+- `Tropical Island`
+- `Abrade`
+- `Meltdown`
+- `Red Elemental Blast`
+- `Brazen Borrower`
+- `Counterbalance`
+- `Hydroblast`
+- `Maddening Hex`
+- `Mistrise Village`
+- `Simian Spirit Guide`
+- `Archon of Cruelty`
+- `Defense Grid`
+- `Brotherhood's End`
+- `Wish`
+- `Alchemist's Gambit`
+- `Echoing Truth`
+- `Empty the Warrens`
+- `Grapeshot`
+- `Mind's Desire`
+- `Peer into the Abyss`
+- `Reforge the Soul`
+- `Shattering Spree`
+- `Tendrils of Agony`
+- `Void Snare`
+- `Drown in the Loch`
+- `Atraxa, Grand Unifier`
+- `Animate Dead`
+- `Engineered Explosives`
+- `Sheoldred's Edict`
+- `Marsh Flats`
+- `Go for the Throat`
+- `Consign to Memory`
+- `Null Rod`
+- `Toxic Deluge`
+- `Become Immense`
+- `Pendelhaven`
+- `Ponder`
+- `Scale Up`
+- `Sylvan Library`
+- `Venerated Rotpriest`
+- `Spellskite`
+- `Fae of Wishes`
+- `Eureka`
+- `Ground Seal`
+- `Enter the Infinite`
+- `Urza's Bauble`
+- `Steam Vents`
+- `Lion Sash`
+- `Loran of the Third Path`
+- `Kaldra Compleat`
+- `Shadowy Backstreet`
+- `Duress`
+- `Umezawa's Jitte`
+- `Yorion, Sky Nomad`
+- `Containment Priest`
+- `Wrath of the Skies`
+- `Split Up`
+{% endcapture %}
+
+<details>
+  <summary>
+  Expand
+  </summary>
+
+{{ oneofCardList | markdownify }}
+</details>
+
+<br/>
+And the following cards were played **only** as a playset (every single time this card occurred in a decklist, it was **always** a four-of (potentially split between maindeck and sideboard)) --- there were 71 of them:
+
+{% capture onlyPlaysetCardList %}
+- `Force of Will`
+- `Brainstorm`
+- `Up the Beanstalk`
+- `Leyline Binding`
+- `Seat of the Synod`
+- `Emry, Lurker of the Loch`
+- `Metallic Rebuke`
+- `Thoughtcast`
+- `Clown Car`
+- `Patchwork Automaton`
+- `Green Sun's Zenith`
+- `Nadu, Winged Wisdom`
+- `Nomads En-Kor`
+- `Shallow Grave`
+- `Entomb`
+- `Dark Ritual`
+- `Reanimate`
+- `Unmask`
+- `Witherbloom Apprentice`
+- `Chain of Smog`
+- `Leyline of the Void`
+- `Food Chain`
+- `Ignoble Hierarch`
+- `Scythecat Cub`
+- `Wight of the Reliquary`
+- `Doomsday`
+- `Crop Rotation`
+- `Exploration`
+- `Mox Diamond`
+- `Sphere of Resistance`
+- `Urza's Cave`
+- `Guide of Souls`
+- `Ajani, Nacatl Pariah`
+- `Ocelot Pride`
+- `Amped Raptor`
+- `Floodpits Drowner`
+- `Lord of Atlantis`
+- `Master of the Pearl Trident`
+- `Tide Shaper`
+- `True-Name Nemesis`
+- `Aether Vial`
+- `Grim Monolith`
+- `The One Ring`
+- `Coveted Jewel`
+- `Transmute Artifact`
+- `Copy Artifact`
+- `Chord of Calling`
+- `Painter's Servant`
+- `Fable of the Mirror-Breaker`
+- `Goblin Welder`
+- `Goblin Engineer`
+- `Delver of Secrets`
+- `Dragon's Rage Channeler`
+- `Snow-Covered Mountain`
+- `Sneak Attack`
+- `Chrome mox`
+- `Burning Wish`
+- `Echo of Eons`
+- `Galvanic Relay`
+- `Gamble`
+- `Rite of Flame`
+- `Blighted Agent`
+- `Glistener Elf`
+- `Inkmoth Nexus`
+- `Invigorate`
+- `Legolas's Quick Reflexes`
+- `Stoneforge Mystic`
+- `Thalia, Guardian of Thraben`
+- `Recruiter of the Guard`
+- `Solitude`
+- `Prismatic Vista`
+{% endcapture %}
+
+<details>
+  <summary>
+  Expand
+  </summary>
+
+{{ onlyPlaysetCardList | markdownify }}
+</details>
+
+<br/>
+And, lastly, the following cards were played **only** as a one-of (every single time this card occurred in a decklist, it was **always** a one-of (either in the maindeck or in the sideboard)) --- there were 106 of them:
+
+{% capture onlyOneofCardList %}
+- `Hedge Maze`
+- `Aether Spellbomb`
+- `Pithing Needle`
+- `Lavaspur Boots`
+- `Shadowspear`
+- `Thought Monitor`
+- `Soul-Guide Lantern`
+- `Bristly Bill, Spine Sower`
+- `Meticulous Archive`
+- `Keen-Eyed Curator`
+- `Collector Ouphe`
+- `Outland Liberator`
+- `Borborygmos Enraged`
+- `Goryo's Vengeance`
+- `Collective Brutality`
+- `Manipulate Fate`
+- `Snow-Covered Forest`
+- `Snow-Covered Island`
+- `Snow-Covered Swamp`
+- `Hullbreacher`
+- `Hullbreaker Horror`
+- `Grist, the Hunger Tide`
+- `Bojuka Bog`
+- `Lair of the Hydra`
+- `Deep Analysis`
+- `Consider`
+- `Jace, Wielder of Mysteries`
+- `Into the Flood Maw`
+- `Manamorphose`
+- `Sheoldred, the Apocalypse`
+- `Badlands`
+- `Brazen Borrower // Petty Theft`
+- `Nihil Spellbomb`
+- `Unlicensed Hearse`
+- `Ghost Quarter`
+- `Horizon Canopy`
+- `Riftstone Portal`
+- `The Tabernacle At Pendrell Vale`
+- `Wooded Foothills`
+- `Haywire Mite`
+- `Ghost Vacuum`
+- `Echoing Deeps`
+- `Fomori Vault`
+- `Galvanic Discharge`
+- `Elegant Parlor`
+- `Arena of Glory`
+- `Manifold Key`
+- `Candy Trail`
+- `Paradox Engine`
+- `Chain of Vapor`
+- `Chaos Defiler`
+- `Craterhoof Behemoth`
+- `Leovold, Emissary of Trest`
+- `Birchlore Rangers`
+- `Gilded Drake`
+- `Eladamri, Korvecdal`
+- `Crystal Barricade`
+- `Phyrexian Dragon Engine`
+- `Mishra's Research Desk`
+- `Damping Sphere`
+- `Tarfire`
+- `Thundering Falls`
+- `Blood Moon`
+- `Goblin Cratermaker`
+- `Tormod's Crypt`
+- `Mycosynth Lattice`
+- `Liquimetal Coating`
+- `Abrade`
+- `Counterbalance`
+- `Maddening Hex`
+- `Brotherhood's End`
+- `Wish`
+- `Alchemist's Gambit`
+- `Echoing Truth`
+- `Empty the Warrens`
+- `Grapeshot`
+- `Mind's Desire`
+- `Peer into the Abyss`
+- `Reforge the Soul`
+- `Shattering Spree`
+- `Tendrils of Agony`
+- `Void Snare`
+- `Drown in the Loch`
+- `Engineered Explosives`
+- `Sheoldred's Edict`
+- `Go for the Throat`
+- `Null Rod`
+- `Toxic Deluge`
+- `Become Immense`
+- `Pendelhaven`
+- `Scale Up`
+- `Sylvan Library`
+- `Venerated Rotpriest`
+- `Spellskite`
+- `Fae of Wishes`
+- `Eureka`
+- `Enter the Infinite`
+- `Steam Vents`
+- `Lion Sash`
+- `Loran of the Third Path`
+- `Kaldra Compleat`
+- `Shadowy Backstreet`
+- `Umezawa's Jitte`
+- `Yorion, Sky Nomad`
+- `Wrath of the Skies`
+- `Split Up`
+{% endcapture %}
+
+<details>
+  <summary>
+  Expand
+  </summary>
+
+{{ onlyOneofCardList | markdownify }}
+</details>
+
+<br/>
+Those statistics were generated using [this Kotlin code](/assets/warsaw-eternal-challenge-report/Main.kt) based on decklist data from [this archive](/assets/warsaw-eternal-challenge-report/all_decks.zip).
+
+## Spices
+
+There were a couple of spicy techs. For example, Wiktor Werner's [UG Show and Tell](../Warsaw-Eternal-Challenge-Chapter-1/#ug-show-and-tell--wiktor-werner) played a single `Eureka`, which is an uncommon sight. What's more, he played a full package of `Veil of Summer`! And that's alongside two copies of the newest addition to the deck --- `Mistrise Village`. He really did _not_ want his stuff to get countered.
+
 ## Acknowledgements
 
-### Filip Pawłowski
+This tournament would not have been possible without extensive effort of the selected individuals and other representatives. I would like to personally thank:
 
-### CentrumMTG
+- Filip Pawłowski, for seeing this tournament to the end. From start to finish, he managed to plan, organize and coordinate the entire event. Legacy in Poland would not have been the same without you.
+- CentrumMTG, for hosting the event in a concealed, yet approachable and cozy place. It's great to see what an amazing LGS you are becoming.
+- MagicTown, for sponsoring some of the prizes and for supplying players with stables from eternal formats.
+- The ELM Team, for providing a slot for the most prestige Legacy event in Europe, or --- perhaps --- in the whole current world.
 
-### MagicTown
-
-### The ELM Team
+I'm sure many people share my appreciation for the aforementioned. You are doing a great job, everyone. Keep it up!
 
 ---
