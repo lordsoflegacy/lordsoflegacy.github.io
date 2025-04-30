@@ -130,7 +130,7 @@ I registered [the following list](https://moxfield.com/decks/ogGe7IfcpUCYDx1zuGe
 UG Infect
 : ~ Bartosz Litwin
 
-I suspected my opponent to be on UG Infect, since I played against him previously. I was right.
+I suspected my opponent to be on UG Infect, since I played against him a couple of times during our Legacy FNMs. I was right.
 
 ##### Game 1
 
