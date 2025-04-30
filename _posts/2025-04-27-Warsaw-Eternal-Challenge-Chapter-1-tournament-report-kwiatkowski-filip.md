@@ -954,7 +954,7 @@ Those statistics were generated using [this Kotlin code](/assets/warsaw-eternal-
 
 ## Spices
 
-There were a couple of spicy techs. For example, Wiktor Werner's [UG Show and Tell](../Warsaw-Eternal-Challenge-Chapter-1/#ug-show-and-tell--wiktor-werner) played a single `Eureka`, which is an uncommon sight. What's more, he played a full package of `Veil of Summer`! And that's alongside two copies of the newest addition to the deck --- `Mistrise Village`. He really did _not_ want his stuff to get countered.
+There was one, fairly spicy list. Wiktor Werner's [UG Show and Tell](../Warsaw-Eternal-Challenge-Chapter-1/#ug-show-and-tell--wiktor-werner) played a single `Eureka`, which is an uncommon sight. What's more, he played a full package of `Veil of Summer`! And that's alongside two copies of the newest addition to the deck --- `Mistrise Village`. He really did _not_ want his stuff to get countered.
 
 ## Acknowledgements
 
