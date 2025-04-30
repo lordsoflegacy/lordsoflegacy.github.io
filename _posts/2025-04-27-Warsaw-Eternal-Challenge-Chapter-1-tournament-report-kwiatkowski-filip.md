@@ -31,7 +31,7 @@ it (alongside at least Premodern) is starting to see a kind of resurgence here. 
 
 ### Warsaw Eternal Challenge - Filip Pawłowski's initiative
 
-Taking place at the rapidly growing and flourishing local game store (LGS) [CentrumMTG](https://www.centrum-mtg.com.pl/), Warsaw Eternal Challenge managed to gather 60 Premodern and 29 Legacy players. These numbers, at least according to the gut feeling of many, are only to keep growing, perhaps even to double in the not-so-distant future.
+Taking place at the rapidly growing and flourishing local game store (LGS) [CentrumMTG](https://www.centrum-mtg.com.pl/), Warsaw Eternal Challenge managed to gather 40 Premodern and 29 Legacy players. These numbers, at least, according to the gut feeling of many, are only to keep growing, perhaps even to double in the not-so-distant future.
 
 ![jezierski-vs-struzyna_z](/assets/warsaw-eternal-challenge-report/img/jezierski-vs-struzyna_z.JPG){: width="835" height="730" .w-75 }
 _Grzegorz "Dauthi" Jezierski (left), piloting BG Shallow Grave, facing Ziemowit Strużyna (right) piloting Red Painter_
