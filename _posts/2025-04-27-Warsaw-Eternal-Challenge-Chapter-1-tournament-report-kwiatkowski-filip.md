@@ -121,7 +121,7 @@ Time to start the tournament. It officially began at 10:00 and was meant to span
 ![People](/assets/warsaw-eternal-challenge-report/img/ludziki.JPG){: width="835" height="730" .w-75 }
 _Clockwise, starting from top-left: Krzysiek Mazurek (UR Delver), Mikołaj Wyspiański (Mono U Jewel), Piotr Szejko (Cradle Control), and Arkadiusz Chojaczyk (Merfolk)_
 
-It's worth mentioning that I failed one of the crucial steps of the preparation process --- I did not prepare a sideboard guide. I would definitely recommend having one. Nonethelss, having played for a couple of hours the previous day and analyzing the meta, I felt decently prepared.
+It's worth mentioning that I failed one of the crucial steps of the preparation process --- I did not prepare a sideboard guide. I would definitely recommend having one. Nevertheless, having played for a couple of hours the previous day and analyzing the meta, I felt decently prepared.
 
 I registered [the following list](https://moxfield.com/decks/ogGe7IfcpUCYDx1zuGebeA).
 
