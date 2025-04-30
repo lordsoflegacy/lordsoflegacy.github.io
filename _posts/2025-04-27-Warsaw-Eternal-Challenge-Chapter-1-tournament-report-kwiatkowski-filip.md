@@ -1,5 +1,5 @@
 ---
-title: Warsaw Legacy Challenge - Tournament Report (🇬🇧)
+title: Warsaw Eternal Challenge - Legacy Tournament Report (🇬🇧)
 date: 2025-04-28 00:00:00 +0200
 categories: [Personal, Filip Kwiatkowski]
 tags: [tournament report]
@@ -29,7 +29,7 @@ Legacy has had its ups and downs in terms of active playerbase, but thanks to:
 
 it (alongside at least Premodern) starts to see a sort of resurrection here. We (Polish players and tournament organizers) are not yet able to draw the attention and attendance of foreign players, but we certainly aim to get there sooner rather than later.
 
-### Warsaw Legacy Challenge - Filip Pawłowski's initiative
+### Warsaw Eternal Challenge - Filip Pawłowski's initiative
 
 Taking place in rapidly growing and flourishing local game store (LGS) [CentrumMTG](https://www.centrum-mtg.com.pl/), Warsaw Eternal Challenge managed to gather 60 Premodern and 29 Legacy players. These numbers, at least according to gut feeling of many, are only to keep growing, perhaps even to double in the not-so-distant future.
 
