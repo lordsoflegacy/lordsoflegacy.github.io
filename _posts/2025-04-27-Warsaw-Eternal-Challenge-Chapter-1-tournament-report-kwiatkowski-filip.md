@@ -104,7 +104,7 @@ I joined the [8-cast Discord](https://discord.gg/26GeYKYtM5) server and received
 
 #### Local events
 
-With 8-cat I managed to go $$ 4 - 0 $$, $$ 3 - 1 $$ and $$ 3 - 1 $$ in locals. Losing, twice, only to Cradle Control. It's a tough matchup. On one hand, I wish I could play more `Dismember`s, but on the other, why devote that many sideboard slots to a deck against which we're probably losing anyway.
+With 8-cast I managed to go $$ 4 - 0 $$, $$ 3 - 1 $$ and $$ 3 - 1 $$ in locals. Losing, twice, only to Cradle Control. It's a tough matchup. On one hand, I wish I could play more `Dismember`s, but on the other, why devote that many sideboard slots to a deck against which we're probably losing anyway.
 
 I felt particularly good when playing against Show and Tell and BUG Beanstalk (other Beanstalk variances that have access to `Wrath of the Skies` may be way more problematic, but such is life). I faced it a couple of times during local events, but, unfortunately, only once during the tournament.
 
