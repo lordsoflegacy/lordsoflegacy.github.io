@@ -364,7 +364,7 @@ But, again, on the other hand, it may as well mean that I was simply lucky to wi
 
 ### The winner
 
-Grzesiek "Dauthi" Jezierski, piloting his [BG Shallow Grave](https://moxfield.com/decks/9ka5Dl4IkUq8ZNFA1ZZW0w), after [defeating me in our first match of the top 8](#quick-loss-to-bg-shallow-grave), managed to beat both Mariusz Krzywicki's [Red Painter](https://moxfield.com/decks/31cr_2mPvk2Jd_rpzVxOng) and Tomasz "tomjab" Jabłoński's [UB Reanimator](https://moxfield.com/decks/GQ8mZ9SyIk2t7ARsq9CXoQ), earning his spot in the next ELM and winning a signed `Show and Tell` playmat:
+Grzegorz "Dauthi" Jezierski, piloting his [BG Shallow Grave](https://moxfield.com/decks/9ka5Dl4IkUq8ZNFA1ZZW0w), after [defeating me in our first match of the top 8](#quick-loss-to-bg-shallow-grave), managed to beat both Mariusz Krzywicki's [Red Painter](https://moxfield.com/decks/31cr_2mPvk2Jd_rpzVxOng) and Tomasz "tomjab" Jabłoński's [UB Reanimator](https://moxfield.com/decks/GQ8mZ9SyIk2t7ARsq9CXoQ), earning his spot in the next ELM and winning a signed `Show and Tell` playmat:
 
 ![People](/assets/warsaw-eternal-challenge-report/img/grzegorz.JPG){: width="835" height="730" .w-75 }
 _Grzegorz "Dauthi" Jezierski - winner of Warsaw Legacy Challenge vol. 1_
