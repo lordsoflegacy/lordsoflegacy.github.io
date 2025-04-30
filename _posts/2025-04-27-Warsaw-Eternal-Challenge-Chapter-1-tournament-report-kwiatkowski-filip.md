@@ -116,7 +116,7 @@ Unfortunately, it comes with a cost. You need to buy or borrow cards. I opted fo
 
 ### Swiss
 
-Time to start the tournament. It officially began at 10:00 and was meant to span over five rounds + top 8.
+Time to start the tournament. It officially began at 10:00 and was meant to span over five rounds + top 8. For now, I will focus on reporting my results, my thoughts, and interpreting my notes taken throughout the games.
 
 ![People](/assets/warsaw-eternal-challenge-report/img/ludziki.JPG){: width="835" height="730" .w-75 }
 _Clockwise, starting from top-left: Krzysiek Mazurek (UR Delver), Mikołaj Wyspiański (Mono U Jewel), Piotr Szejko (Cradle Control), and Arkadiusz Chojaczyk (Merfolk)_
