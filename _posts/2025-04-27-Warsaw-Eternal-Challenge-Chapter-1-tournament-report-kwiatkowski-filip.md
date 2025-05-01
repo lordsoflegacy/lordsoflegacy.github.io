@@ -300,7 +300,7 @@ RUG Delver
 
 Maciej is my good friend with whom I'm part of the [Black Bordered Boomers](https://bbb.black/) group[^bbb-challenge-2]. To my surprise, we are paired on the first table, meaning that we are at the very top of the leaderboard. Because of this, we intentionally draw (ID) the match and await for the top 8.
 
-[^bbb-challenge-2]: Stay tuned for our Challenge vol. 2, where we are going to be hosting an Old School, Premodern, and Legacy tournaments, where among other prizes you can win dual lands! It's going to be organized during the second half of September 2025.
+[^bbb-challenge-2]: Stay tuned for our Challenge --- Episode 2, where we are going to be hosting an Old School, Premodern, and Legacy tournaments, where among other prizes you can win dual lands! It's going to be organized during the second half of September 2025.
 
 ##### Final result after Swiss:
 
