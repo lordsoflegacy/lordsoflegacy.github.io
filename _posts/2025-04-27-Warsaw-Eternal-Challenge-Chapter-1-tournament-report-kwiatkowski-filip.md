@@ -27,11 +27,11 @@ Legacy has had its ups and downs in terms of its active player base, but thanks 
 - [Filip Pawłowski](https://nicefitt.wixsite.com/nicefit)'s Warsaw Eternal Challenge (which aims to consistently gather dozens of players for Premodern and Legacy tournaments),
 - [Black Bordered Boomer](https://bbb.black/)'s (BBB) Challenge (which aims for the same, but also including Old School in the mix)
 
-it (alongside at least Premodern) is starting to see a kind of resurgence here. We (Polish players and tournament organizers) are not yet able to draw the attention and attendance of foreign players, but we certainly aim to get there sooner rather than later.
+it (alongside Premodern) is starting to see a resurgence here. We (Polish players and tournament organizers) are not yet able to draw the attention and attendance of foreign players, but we certainly aim to get there sooner rather than later.
 
 ### Warsaw Eternal Challenge - Filip Pawłowski's initiative
 
-Taking place at the rapidly growing and flourishing local game store (LGS) [CentrumMTG](https://www.centrum-mtg.com.pl/), Warsaw Eternal Challenge managed to gather 40 Premodern and 29 Legacy players. These numbers, at least, according to the gut feeling of many, are only to keep growing, perhaps even to double in the not-so-distant future.
+Taking place at the rapidly growing and flourishing local game store (LGS) [CentrumMTG](https://www.centrum-mtg.com.pl/), Warsaw Eternal Challenge managed to gather 40 Premodern and 29 Legacy players. These numbers, at least according to the shared gut feeling of many, are only to keep growing, perhaps even to double in the not-so-distant future.
 
 ![jezierski-vs-struzyna_z](/assets/warsaw-eternal-challenge-report/img/jezierski-vs-struzyna_z.JPG){: width="835" height="730" .w-75 }
 _Grzegorz "Dauthi" Jezierski (left), piloting BG Shallow Grave, facing Ziemowit Strużyna (right) piloting Red Painter_
@@ -40,23 +40,23 @@ From here on, I'll focus only on the Legacy tournament.
 
 ### European Legacy Masters (ELM)
 
-The stakes were raised after it was announced. that the winner will be granted an ELM spot. To some, it didn't matter (they either would go or wouldn't go to the hosting event anyway), but to others it was an additional reason to step up their game. One thing was certain --- everyone would be playing their best, choosing the deck they are most likely to perform best with. This had an interesting consequence --- since in Legacy familiarity matters greatly, it's more likely for someone to pick a deck they _know_ rather than a top "meta" deck they are unfamiliar with.
+The stakes were raised after it was announced that the winner will be granted an ELM spot. To some, it didn't matter (they either would or wouldn't have attended the hosting event regardless), but to others it was an additional reason to step up their game. One thing was certain --- everyone would be playing their best, choosing the deck they are most likely to perform best with. This had an interesting consequence --- since in Legacy familiarity with the format and its staples matters greatly, it's more likely for someone to pick a deck they _know_ rather than a top "meta" deck they are unfamiliar with.
 
 This, paired with a relatively low number of players, meant that people who are knowledgeable about others' preferences may be much better prepared. Personally, I expected a little bit more Show and Tells (there were only 2), but other than that, I feel like I managed to predict the meta quite well. 
 
 ## The tournament from the first-person perspective
 
-From here on, I'll focus on my personal perspective of the tournament. WWe'll return to a more objective point of view [later in the article](#miscellaneous-things-trivia-oddities).
+From here on, I'll focus on my personal perspective of the tournament. We'll go back to a more objective point of view [later in the article](#miscellaneous-things-trivia-oddities).
 
 ### Bans
 
-It's worth mentioning that Legacy just faced some important bans recently. [`Sowing Mycospawn` and `Troll of Khazad-dûm` were banned less than a month ago](https://magic.wizards.com/en/news/announcements/banned-and-restricted-announcement-march-31-2025). This, for me, was great news. Not because of any particular deck that I was playing --- to summarize it (perhaps oversimplifying), I think Troll simply offered too great of a consistency to a very powerful game plan, and Mycospawn led to extremely unfun and non-interactive play patterns<sup><sup>[just like one other historic card, albeit being a different kind of "anti-fun"](https://magic.wizards.com/en/news/announcements/april-24-2017-banned-and-restricted-announcement-2017-04-24)</sup></sup>.
+It's worth mentioning that Legacy has faced some important bans recently. [`Sowing Mycospawn` and `Troll of Khazad-dûm` were banned less than a month ago](https://magic.wizards.com/en/news/announcements/banned-and-restricted-announcement-march-31-2025). This, for me, was great news. Not because of any particular deck that I was playing --- to summarize it (perhaps oversimplifying), I think the Troll simply offered too great of a consistency to a very powerful game plan, and Mycospawn led to extremely unfun and non-interactive play patterns<sup><sup>[just like one other historic card, albeit being a different kind of "anti-fun"](https://magic.wizards.com/en/news/announcements/april-24-2017-banned-and-restricted-announcement-2017-04-24)</sup></sup>.
 
-So, despite not being certain what I was playing, I felt happy thanks to those bans.
+So, despite not being certain which deck I would be playing, I felt happy thanks to those bans.
 
 ### My experience
 
-It's worth noting that I have played very little Magic for the last 1.5 years. Occasionally, I'd show up at a friend's house to play a bit of mixed Eternal formats, but that was it. I didn't have much free time. Fortunately, that changed in April. I started attending local Legacy FNMs[^wednesday], and I've been doing [pretty][1] [okay][2] [there][3].
+It's worth noting that I have played very little Magic for the last 1.5 years. Occasionally, I'd show up at my friend's house to play a bit of mixed Eternal formats, but that was it. I didn't have much free time. Fortunately, that changed in April. I started attending local Legacy FNMs[^wednesday], and I've been doing [pretty][1] [okay][2] [there][3].
 
 [^wednesday]: _Friday_ Night Magic, but hosted on Wednesdays.
 
@@ -72,10 +72,10 @@ I've never really come to enjoy Delver strategies. Maybe it will change in time,
 
 Because of this, having experimented with Blue Painter (which I believe to be much worse than it seems), Red Painter (Goblin package or quit), I finally opted for 8-cast. [Running `Clown Car`s instead of `Urza's Bauble`s](https://moxfield.com/decks/ogGe7IfcpUCYDx1zuGebeA).
 
-Let's talk about some deckbuilding decisions:
+Let's talk about some of my deckbuilding decisions:
 
 1. `Clown Car` is, most of the time, better than `Urza's Bauble`.
-: Yes, Bauble draws cards and Car doesn't. Paired with Emry, it becomes an engine that may be the sole reason a game is at all winnable. But Car produces more artifacts and/or bigger threats. I feel like four `Mishra's Bauble`s is enough to fuel Emry. Numerous times I was enabled to make a powerful play thanks to the fact that Car produced extra artifacts. Those mainly involved using `Metallic Rebuke`s. But, on the other hand, it may be the case that 4--4 split between `Clown Car` and `Mishra's Bauble` should become an X--Y--4 split between `Clown Car`, `Urza's Bauble`, and `Mishra's Bauble`. This would require more testing and fine-tuning.
+: Yes, the Bauble draws cards and the Car doesn't. Paired with Emry, it becomes an engine that may be the sole reason a game becomes winnable at all. But the Car produces more artifacts and/or bigger threats. I feel like four `Mishra's Bauble`s is enough to fuel Emry. Numerous times I was enabled to make a powerful play thanks to the fact that Car produced extra artifacts. Those mainly involved using `Metallic Rebuke`s. But, on the other hand, it may be the case that 4--4 split between `Clown Car` and `Mishra's Bauble` should become an X--Y--4 split between `Clown Car`, `Urza's Bauble`, and `Mishra's Bauble`. This would require more testing and fine-tuning.
 
 2. `Metallic Rebuke` is great.
 : In my opinion, 8-cast rarely has explosive _comebacks_. It does have explosive _starts_, but rarely comebacks. Because of that, if I win a game, that is usually either because of an opponent-overwhelming start or a slow game with a decent threat backed up by countermagic. `Force of Will` is great, but it also results in card disadvantage. Rebukes don't. Rebuke is good.
@@ -87,7 +87,7 @@ Let's talk about some deckbuilding decisions:
 : You certainly are aware of the typical `Urza's Saga` 🡒 make 2 `Construct`s 🡒 get boots 🡒 swing for millions[^thrabenu]. But do you know how often you can play `Emry, Lurker of the Loch`, attach `Lavaspur Boots` to it, immediately get value, play second Emry, keep it, mill 4 more cards, reattach boots and get _even more value_?<br/><br/>Yes, this happened. During the tournament. More than once.
 
 5. I'd love to have maybe one more `Metallic Rebuke`, maybe one more `Sink into Stupor`, maybe more `Memory Guardian`s, but I really liked having that many Saga targets in the maindeck.
-: And it does not feel bad to draw them. Well, at least not when it's the opening hand. Many decks struggle against T1 `Aether Spellbomb`. Many decks would attempt to `Wasteland` us, which T1 `Pithing Needle` stops. Or maybe you simply know that your opponent plays `Sneak and Show` or relies on `Grindstone` and you just name that.<br/><br/>Those plays are especially powerful when deployed from T1 `Urza's Saga` (which paired with T2 `Ancient Tomb` becomes a great win condition on its own).
+: And it does not feel bad to draw them. Well, at least not when it's the opening hand. Many decks struggle against T1 `Aether Spellbomb`. Many decks would attempt to `Wasteland` us, which T1 `Pithing Needle` stops. Or maybe you simply know that your opponent plays `Sneak and Show` or relies on `Grindstone` and you just name that.<br/><br/>Those plays are especially powerful when deployed with T1 `Urza's Saga` (which paired with T2 `Ancient Tomb` becomes a great win condition on its own).
 
 6. `Disruptor Flute` is great against `Show and Tell`-based decks, which I expected to face more than I actually did.
 : It's just amazing. Sometimes it just stops `Sneak Attack`. Sometimes it makes `Show and Tell` cost 9 mana. Yes, this happened. During the tournament. More than once[^once].<br/><br/>I remember a Magic Online game where I had double Fluted on `Show and Tell`. The opponent, during their turn, cast `Echoing Truth` targeting one. We fought a counterwar, but I barely lost. It resolved. Then came the `Show and Tell`. Knowing that 1) if they simply put a creature, I win due to overwhelming board presence; 2) if they put `Omniscience` and cast Emrakul / Atraxa, I most likely lose, I responded by recasting one Flute, naming Atraxa. Then, thanks to `Show and Tell` resolving, I put the second Flute naming `Emrakul`. The Opponent put in `Omniscience` and conceded the game.<br/><br/>Flute is also arguably decent against Nadu or other things like that. Maybe. Never faced it.
@@ -106,17 +106,17 @@ I joined the [8-cast Discord](https://discord.gg/26GeYKYtM5) server and received
 
 With 8-cast, I managed to go $$ 4 - 0 $$, $$ 3 - 1 $$ and $$ 3 - 1 $$ in locals. Losing, twice, only to Cradle Control. It's a tough matchup. On one hand, I wish I could play more `Dismember`s, but on the other, why devote that many sideboard slots to a matchup we're likely losing anyway.
 
-I felt particularly good when playing against Show and Tell and BUG Beanstalk (other Beanstalk variances that have access to `Wrath of the Skies` may be way more problematic, but such is life). I faced it a couple of times during local events, but, unfortunately, only once during the tournament.
+I felt particularly good about playing against Show and Tell and BUG Beanstalk (other Beanstalk variances that have access to `Wrath of the Skies` may be way more problematic, but such is life). I faced it a couple of times during local events, but, unfortunately, only once during the tournament.
 
 #### Magic Online
 
-I strongly believe that, at least with Legacy, playing on Magic Online is almost a necessity if one wants to step up their game to the highest level. Yes, there are some inconsistencies (some cards not being available, the meta skewing toward faster decks, etc.), but they are manageable.
+I strongly believe that, at least regarding Legacy, playing on Magic Online is almost a necessity if one wants to step up their game to the highest level. Yes, there are some inconsistencies (some cards not being available, the meta skewing toward faster decks, etc.), but they are manageable.
 
 Unfortunately, it comes with a cost. You need to buy or borrow cards. I opted for the latter. If you perform well enough, you may earn enough to actually buy them later on. It's a fair trade if you ask me.
 
 ### Swiss
 
-The tournament began. It officially started at 10:00 and was meant to span over five rounds + top 8. For now, I will focus on reporting my results, my thoughts, and interpreting my notes taken throughout the games.
+The tournament began. It has officially started at 10:00 and was meant to span over five rounds + top 8. For now, I will focus on reporting my results, my thoughts, and interpreting my notes taken throughout the games.
 
 ![People](/assets/warsaw-eternal-challenge-report/img/ludziki.JPG){: width="835" height="730" .w-75 }
 _Clockwise, starting from top-left: Krzysiek Mazurek (UR Delver), Mikołaj Wyspiański (Mono U Jewel), Piotr Szejko (Cradle Control), and Arkadiusz Chojaczyk (Merfolk)_
@@ -130,7 +130,7 @@ I registered [the following list](https://moxfield.com/decks/ogGe7IfcpUCYDx1zuGe
 UG Infect
 : ~ Bartosz Litwin
 
-I suspected my opponent to be on UG Infect, since I played against him a couple of times during our Legacy FNMs. I was right.
+I suspected my opponent to be on UG Infect, since I have played against him a couple of times during our Legacy FNMs. I was right.
 
 ##### Game 1
 
@@ -153,7 +153,7 @@ I won the die roll and kept a good hand with Saga and a bunch of countermagic. I
 
 ##### Game 2
 
-My opponent lead with a colored mana source and cast `Ponder`. I started with `Urza's Saga`, once again. I think I also played Automaton on T1. Then they played `Inkmoth Nexus`, threatening to fly over my construct. T2 I deployed `Ancient Tomb` for preparation to make more creatures. I also cast and use `Mishra's Bauble` to see that my opponent is about to draw a second Nexus. On their T3, they double `Invigorate`d the animated Nexus and swung for 9 poison counters. I made some constructs, fetched `Pithing Needle` with Saga's trigger and shut my opponent's Nexuses down. Then I kept attacking him and countering his `Blighted Agent`s, which would've finished the game on his next turn.
+My opponent lead with a colored mana source and cast `Ponder`. I started with `Urza's Saga`, once again. I think I also played Automaton on T1. Then they played `Inkmoth Nexus`, threatening to fly over my construct. T2 I deployed `Ancient Tomb` in preparation to make more creatures. I also cast and use `Mishra's Bauble` to see that my opponent is about to draw a second Nexus. On their T3, they double `Invigorate`d the animated Nexus and swung for 9 poison counters. I made some constructs, fetched `Pithing Needle` with Saga's trigger and shut my opponent's Nexuses down. Then I kept attacking him and countering his `Blighted Agent`s, which would've finished the game on his next turn.
 
 - [x] Game 2: Win
 
@@ -191,7 +191,7 @@ I lost a die roll, but managed to overpower him with `Urza's Saga`'s constructs 
 
 ##### Game 2
 
-I was on the play, but I couldn't manage to establish a powerful board. I didn't get any `Shadowspear`s because two of my `Urza's Saga`s ate a `Wasteland` each. Ultimately, I lost to a flying threat. Flipped `Tamiyo, Seasoned Scholar` made me unable to race him, despite otherwise it being a real possibility.
+I was on the play, but I couldn't establish a powerful board. I didn't get any `Shadowspear`s because two of my `Urza's Saga`s ate a `Wasteland` each. Ultimately, I lost to a flying threat. Flipped `Tamiyo, Seasoned Scholar` made me unable to race him, despite otherwise it being a real possibility.
 
 This game took very long. We also both missed a `Mishra's Bauble` trigger --- one just after the other. I don't know if him being able to draw that card would've changed much --- ditto for me.
 
@@ -214,7 +214,7 @@ I've known Sylwester for a couple of years. Once a dedicated Infect player, nowa
 
 ##### Game 1
 
-I lose the die roll. However, I managed to T1 Saga into `Pithing Needle` naming `Sneak Attack` after his T1 that consisted of a land and two `Lotus Petal`s. Saga, paired with some other fast mana (can't remember if it was `Ancient Tomb` or some artifact-based mana) created constructs, found `Lavaspur Boots` and swung for lethal.
+I lost the die roll. However, I managed to T1 Saga into `Pithing Needle` naming `Sneak Attack` after his T1 that consisted of a land and two `Lotus Petal`s. Saga, paired with some other fast mana (can't remember if it was `Ancient Tomb` or some artifact-based mana) created constructs, found `Lavaspur Boots` and swung for lethal.
 
 - [x] Game 1: Win
 
@@ -964,7 +964,7 @@ This tournament would not have been possible without the extensive effort of the
 
 - Filip Pawłowski, for seeing this tournament to the end. From start to finish, he managed to plan, organize and coordinate the entire event. Legacy in Poland would not have been the same without you.
 - CentrumMTG, for hosting the event in a concealed, yet approachable and cozy place. It's great to see what an amazing LGS you are becoming.
-- MagicTown, for sponsoring some of the prizes and for supplying players with stables from Eternal formats.
+- MagicTown, for sponsoring some of the prizes and for supplying players with staples from Eternal formats.
 - The ELM Team, for providing a slot for the most prestige Legacy event in Europe, or --- perhaps --- in the whole current world.
 
 I'm sure many people share my appreciation for the aforementioned. You are doing a great job, everyone. Keep it up!
