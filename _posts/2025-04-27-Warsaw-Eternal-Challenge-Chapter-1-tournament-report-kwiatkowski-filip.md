@@ -46,7 +46,7 @@ This, paired with a relatively low number of players, meant that people who are 
 
 ## The tournament from the first-person perspective
 
-From here on, I'll focus on my personal perspective of the tournament. We'll go back to a more objective point of view [later in the article](#miscellaneous-things-trivia-oddities).
+From here on, I'll focus on my personal perspective of the tournament. We'll go back to a more objective point of view [later in the article](#the-winner).
 
 I registered [the following list](https://moxfield.com/decks/ogGe7IfcpUCYDx1zuGebeA).
 
