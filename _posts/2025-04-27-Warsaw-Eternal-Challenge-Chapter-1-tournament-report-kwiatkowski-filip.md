@@ -48,6 +48,44 @@ This, paired with a relatively low number of players, meant that people who are 
 
 From here on, I'll focus on my personal perspective of the tournament. We'll go back to a more objective point of view [later in the article](#miscellaneous-things-trivia-oddities).
 
+I registered [the following list](https://moxfield.com/decks/ogGe7IfcpUCYDx1zuGebeA).
+
+```
+1 Aether Spellbomb
+4 Ancient Tomb
+1 City of Traitors
+4 Clown Car
+4 Emry, Lurker of the Loch
+4 Force of Will
+1 Island
+2 Kappa Cannoneer
+1 Lavaspur Boots
+4 Lotus Petal
+2 Memory Guardian
+2 Metallic Rebuke
+4 Mishra's Bauble
+4 Mox Opal
+1 Otawara, Soaring City
+4 Patchwork Automaton
+1 Pithing Needle
+4 Seat of the Synod
+1 Shadowspear
+2 Sink into Stupor // Soporific Springs
+1 Thought Monitor
+4 Thoughtcast
+4 Urza's Saga
+
+2 Dismember
+3 Disruptor Flute
+2 Faerie Macabre
+2 Flusterstorm
+1 Grafdigger's Cage
+2 Hydroblast
+2 Metallic Rebuke
+1 Soul-Guide Lantern
+```
+{: file="8-cast - Filip Kwiatkowski" }
+
 ### Bans
 
 It's worth mentioning that Legacy has faced some important bans recently. [`Sowing Mycospawn` and `Troll of Khazad-dûm` were banned less than a month ago](https://magic.wizards.com/en/news/announcements/banned-and-restricted-announcement-march-31-2025). This, for me, was great news. Not because of any particular deck that I was playing --- to summarize it (perhaps oversimplifying), I think the Troll simply offered too great of a consistency to a very powerful game plan, and Mycospawn led to extremely unfun and non-interactive play patterns<sup><sup>[just like one other historic card, albeit being a different kind of "anti-fun"](https://magic.wizards.com/en/news/announcements/april-24-2017-banned-and-restricted-announcement-2017-04-24)</sup></sup>.
@@ -122,8 +160,6 @@ The tournament began. It has officially started at 10:00 and was meant to span o
 _Clockwise, starting from top-left: Krzysiek Mazurek (UR Delver), Mikołaj Wyspiański (Mono U Jewel), Piotr Szejko (Cradle Control), and Arkadiusz Chojaczyk (Merfolk)_
 
 It's worth mentioning that I skipped a crucial step in preparation --- making a sideboard guide. I would definitely recommend having one. Nevertheless, having played for a couple of hours the previous day and having analyzed the meta, I felt decently prepared.
-
-I registered [the following list](https://moxfield.com/decks/ogGe7IfcpUCYDx1zuGebeA).
 
 #### Round 1
 
