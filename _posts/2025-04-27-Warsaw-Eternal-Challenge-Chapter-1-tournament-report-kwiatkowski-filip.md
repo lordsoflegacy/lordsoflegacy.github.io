@@ -15,6 +15,8 @@ math: true
 > This article's purpose is twofold --- it serves as a tournament report from the perspective of an 8-cast player and as a general overview of the event. For those who seek just the former, [click here to skip to the appropriate section](#the-tournament-from-the-first-person-perspective).
 {: .prompt-info }
 
+The card I was most impressed about was <mtg-card>Forging the Anchor</mtg-card>, really.
+
 ## Legacy scene in Poland
 
 Warsaw is the capital of Poland, which means:
@@ -47,6 +49,44 @@ This, paired with a relatively low number of players, meant that people who are 
 ## The tournament from the first-person perspective
 
 From here on, I'll focus on my personal perspective of the tournament. We'll go back to a more objective point of view [later in the article](#miscellaneous-things-trivia-oddities).
+
+The following is [the decklist that I chose to register](https://moxfield.com/decks/ogGe7IfcpUCYDx1zuGebeA):
+
+```
+1 Aether Spellbomb
+4 Ancient Tomb
+1 City of Traitors
+4 Clown Car
+4 Emry, Lurker of the Loch
+4 Force of Will
+1 Island
+2 Kappa Cannoneer
+1 Lavaspur Boots
+4 Lotus Petal
+2 Memory Guardian
+2 Metallic Rebuke
+4 Mishra's Bauble
+4 Mox Opal
+1 Otawara, Soaring City
+4 Patchwork Automaton
+1 Pithing Needle
+4 Seat of the Synod
+1 Shadowspear
+2 Sink into Stupor // Soporific Springs
+1 Thought Monitor
+4 Thoughtcast
+4 Urza's Saga
+
+2 Dismember
+3 Disruptor Flute
+2 Faerie Macabre
+2 Flusterstorm
+1 Grafdigger's Cage
+2 Hydroblast
+2 Metallic Rebuke
+1 Soul-Guide Lantern
+```
+{: file="output" }
 
 ### Bans
 
