@@ -88,7 +88,7 @@ I registered [the following list](https://moxfield.com/decks/ogGe7IfcpUCYDx1zuGe
 
 ### Bans
 
-It's worth mentioning that Legacy has faced some important bans recently. [`Sowing Mycospawn` and `Troll of Khazad-dûm` were banned less than a month ago](https://magic.wizards.com/en/news/announcements/banned-and-restricted-announcement-march-31-2025). This, for me, was great news. Not because of any particular deck that I was playing --- to summarize it (perhaps oversimplifying), I think the Troll simply offered too great of a consistency to a very powerful game plan, and Mycospawn led to extremely unfun and non-interactive play patterns<sup><sup>[just like one other historic card, albeit being a different kind of "anti-fun"](https://magic.wizards.com/en/news/announcements/april-24-2017-banned-and-restricted-announcement-2017-04-24)</sup></sup>.
+It's worth mentioning that Legacy has faced some important bans recently. [<mtg-card>Sowing Mycospawn</mtg-card> and <mtg-card>Troll of Khazad-dûm</mtg-card> were banned less than a month ago](https://magic.wizards.com/en/news/announcements/banned-and-restricted-announcement-march-31-2025). This, for me, was great news. Not because of any particular deck that I was playing --- to summarize it (perhaps oversimplifying), I think the Troll simply offered too great of a consistency to a very powerful game plan, and Mycospawn led to extremely unfun and non-interactive play patterns<sup><sup>[just like one other historic card, albeit being a different kind of "anti-fun"](https://magic.wizards.com/en/news/announcements/april-24-2017-banned-and-restricted-announcement-2017-04-24)</sup></sup>.
 
 So, despite not being certain which deck I would be playing, I felt happy thanks to those bans.
 
@@ -108,7 +108,7 @@ I've never really come to enjoy Delver strategies. Maybe it will change in time,
 
 [^experience]: In total, I have been playing Magic for around 13 years, 11 of which was Legacy. The aforementioned hiatus was like 2 or 3 years though. And it happened just when 8-cast became a thing.
 
-Because of this, having experimented with Blue Painter (which I believe to be much worse than it seems), Red Painter (Goblin package or quit), I finally opted for 8-cast. [Running `Clown Car`s instead of `Urza's Bauble`s](https://moxfield.com/decks/ogGe7IfcpUCYDx1zuGebeA).
+Because of this, having experimented with Blue Painter (which I believe to be much worse than it seems), Red Painter (Goblin package or quit), I finally opted for 8-cast. [Running <mtg-card>Clown Car</mtg-card>s instead of `Urza's Bauble`s](https://moxfield.com/decks/ogGe7IfcpUCYDx1zuGebeA).
 
 Let's talk about some of my deckbuilding decisions:
 

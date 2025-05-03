@@ -1,0 +1,34 @@
+---
+---
+
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+.bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+mtg-card {
+  color: #0077cc;
+  font-weight: bold;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+mtg-card:hover {
+  color: #ff6600;
+}
+
+#mtg-card-hover-image-container {
+  position: absolute;
+  z-index: 9999;
+  pointer-events: none;
+  border-radius: 20px;
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+  width: 341.6px;
+  height: 476px;
+  overflow: hidden;
+}
