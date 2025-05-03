@@ -24,9 +24,10 @@ document.addEventListener('DOMContentLoaded', function () {
     customElements.define('mtg-card', class extends HTMLElement {
       connectedCallback() {
         this.addEventListener('mouseover', async () => {
+          console.log("REQUESTING URL...")
           const baseUrl = 'https://api.scryfall.com/cards/named?exact='
 
-          const response = await fetch(`${baseUrl}Forging the Anchor`, {
+          const response = await fetch(`${baseUrl}"Forging the Anchor"`, {
             method: 'GET',
             headers: {
               'Accept': '*/*',
