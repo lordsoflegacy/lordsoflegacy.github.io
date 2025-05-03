@@ -108,27 +108,27 @@ I've never really come to enjoy Delver strategies. Maybe it will change in time,
 
 [^experience]: In total, I have been playing Magic for around 13 years, 11 of which was Legacy. The aforementioned hiatus was like 2 or 3 years though. And it happened just when 8-cast became a thing.
 
-Because of this, having experimented with Blue Painter (which I believe to be much worse than it seems), Red Painter (Goblin package or quit), I finally opted for 8-cast. [Running <mtg-card>Clown Car</mtg-card>s instead of `Urza's Bauble`s](https://moxfield.com/decks/ogGe7IfcpUCYDx1zuGebeA).
+Because of this, having experimented with Blue Painter (which I believe to be much worse than it seems), Red Painter (Goblin package or quit), I finally opted for 8-cast. [Running <mtg-card>Clown Car</mtg-card>s instead of <code>Urza's Bauble</code>s](https://moxfield.com/decks/ogGe7IfcpUCYDx1zuGebeA).
 
 Let's talk about some of my deckbuilding decisions:
 
-1. `Clown Car` is, most of the time, better than `Urza's Bauble`.
-: Yes, the Bauble draws cards and the Car doesn't. Paired with Emry, it becomes an engine that may be the sole reason a game becomes winnable at all. But the Car produces more artifacts and/or bigger threats. I feel like four `Mishra's Bauble`s is enough to fuel Emry. Numerous times I was enabled to make a powerful play thanks to the fact that Car produced extra artifacts. Those mainly involved using `Metallic Rebuke`s. But, on the other hand, it may be the case that 4--4 split between `Clown Car` and `Mishra's Bauble` should become an X--Y--4 split between `Clown Car`, `Urza's Bauble`, and `Mishra's Bauble`. This would require more testing and fine-tuning.
+1. <mtg-card>Clown Car</mtg-card> is, most of the time, better than <mtg-card>Urza's Bauble</mtg-card>.
+: Yes, the Bauble draws cards and the Car doesn't. Paired with Emry, it becomes an engine that may be the sole reason a game becomes winnable at all. But the Car produces more artifacts and/or bigger threats. I feel like four <mtg-card>Mishra's Bauble</mtg-card>s is enough to fuel Emry. Numerous times I was enabled to make a powerful play thanks to the fact that Car produced extra artifacts. Those mainly involved using <mtg-card>Metallic Rebuke</mtg-card>s. But, on the other hand, it may be the case that 4--4 split between <mtg-card>Clown Car</mtg-card> and <mtg-card>Mishra's Bauble</mtg-card> should become an X--Y--4 split between <mtg-card>Clown Car</mtg-card>, <mtg-card>Urza's Bauble</mtg-card>, and <mtg-card>Mishra's Bauble</mtg-card>. This would require more testing and fine-tuning.
 
-2. `Metallic Rebuke` is great.
-: In my opinion, 8-cast rarely has explosive _comebacks_. It does have explosive _starts_, but rarely comebacks. Because of that, if I win a game, that is usually either because of an opponent-overwhelming start or a slow game with a decent threat backed up by countermagic. `Force of Will` is great, but it also results in card disadvantage. Rebukes don't. Rebuke is good.
+2. <mtg-card>Metallic Rebuke</mtg-card> is great.
+: In my opinion, 8-cast rarely has explosive _comebacks_. It does have explosive _starts_, but rarely comebacks. Because of that, if I win a game, that is usually either because of an opponent-overwhelming start or a slow game with a decent threat backed up by countermagic. <mtg-card>Force of Will</mtg-card> is great, but it also results in card disadvantage. Rebukes don't. Rebuke is good.
 
-3. I wish I played more `Memory Guardian`s.
-: `Memory Guardian` is great. I did not appreciate it at first. At least not to the point it deserves. It's cheap, it blocks big things (maybe not late-game `Barrowgoyf`-level big, but still), flies over creatures to kill relevant planeswalkers, swings for last remaining points of damage once our opponents deal with our previous threats, etc. And it cheaply fuels `Patchwork Automaton`, which, I think, is the card that makes the deck.
+3. I wish I played more <mtg-card>Memory Guardian</mtg-card>s.
+: <mtg-card>Memory Guardian</mtg-card> is great. I did not appreciate it at first. At least not to the point it deserves. It's cheap, it blocks big things (maybe not late-game <mtg-card>Barrowgoyf</mtg-card>-level big, but still), flies over creatures to kill relevant planeswalkers, swings for last remaining points of damage once our opponents deal with our previous threats, etc. And it cheaply fuels <mtg-card>Patchwork Automaton</mtg-card>, which, I think, is the card that makes the deck.
 
-4. `Lavaspur Boots` elevate the deck almost to the level matching `Patchwork Automaton` (or sometimes even more).
-: You certainly are aware of the typical `Urza's Saga` 🡒 make 2 `Construct`s 🡒 get boots 🡒 swing for millions[^thrabenu]. But do you know how often you can play `Emry, Lurker of the Loch`, attach `Lavaspur Boots` to it, immediately get value, play second Emry, keep it, mill 4 more cards, reattach boots and get _even more value_?<br/><br/>Yes, this happened. During the tournament. More than once.
+4. <mtg-card>Lavaspur Boots</mtg-card> elevate the deck almost to the level matching <mtg-card>Patchwork Automaton</mtg-card> (or sometimes even more).
+: You certainly are aware of the typical <mtg-card>Urza's Saga</mtg-card> 🡒 make 2 <mtg-card>Construct</mtg-card>s 🡒 get boots 🡒 swing for millions[^thrabenu]. But do you know how often you can play <mtg-card>Emry, Lurker of the Loch</mtg-card>, attach <mtg-card>Lavaspur Boots</mtg-card> to it, immediately get value, play second Emry, keep it, mill 4 more cards, reattach boots and get _even more value_?<br/><br/>Yes, this happened. During the tournament. More than once.
 
-5. I'd love to have maybe one more `Metallic Rebuke`, maybe one more `Sink into Stupor`, maybe more `Memory Guardian`s, but I really liked having that many Saga targets in the maindeck.
-: And it does not feel bad to draw them. Well, at least not when it's the opening hand. Many decks struggle against T1 `Aether Spellbomb`. Many decks would attempt to `Wasteland` us, which T1 `Pithing Needle` stops. Or maybe you simply know that your opponent plays `Sneak and Show` or relies on `Grindstone` and you just name that.<br/><br/>Those plays are especially powerful when deployed with T1 `Urza's Saga` (which paired with T2 `Ancient Tomb` becomes a great win condition on its own).
+5. I'd love to have maybe one more <mtg-card>Metallic Rebuke</mtg-card>, maybe one more <mtg-card>Sink into Stupor</mtg-card>, maybe more <mtg-card>Memory Guardian</mtg-card>s, but I really liked having that many Saga targets in the maindeck.
+: And it does not feel bad to draw them. Well, at least not when it's the opening hand. Many decks struggle against T1 <mtg-card>Aether Spellbomb</mtg-card>. Many decks would attempt to <mtg-card>Wasteland</mtg-card> us, which T1 <mtg-card>Pithing Needle</mtg-card> stops. Or maybe you simply know that your opponent plays <mtg-card>Sneak and Show</mtg-card> or relies on <mtg-card>Grindstone</mtg-card> and you just name that.<br/><br/>Those plays are especially powerful when deployed with T1 <mtg-card>Urza's Saga</mtg-card> (which paired with T2 <mtg-card>Ancient Tomb</mtg-card> becomes a great win condition on its own).
 
-6. `Disruptor Flute` is great against `Show and Tell`-based decks, which I expected to face more than I actually did.
-: It's just amazing. Sometimes it just stops `Sneak Attack`. Sometimes it makes `Show and Tell` cost 9 mana. Yes, this happened. During the tournament. More than once[^once].<br/><br/>I remember a Magic Online game where I had double Fluted on `Show and Tell`. The opponent, during their turn, cast `Echoing Truth` targeting one. We fought a counterwar, but I barely lost. It resolved. Then came the `Show and Tell`. Knowing that 1) if they simply put a creature, I win due to overwhelming board presence; 2) if they put `Omniscience` and cast Emrakul / Atraxa, I most likely lose, I responded by recasting one Flute, naming Atraxa. Then, thanks to `Show and Tell` resolving, I put the second Flute naming `Emrakul`. The Opponent put in `Omniscience` and conceded the game.<br/><br/>Flute is also arguably decent against Nadu or other things like that. Maybe. Never faced it.
+6. <mtg-card>Disruptor Flute</mtg-card> is great against <mtg-card>Show and Tell</mtg-card>-based decks, which I expected to face more than I actually did.
+: It's just amazing. Sometimes it just stops <mtg-card>Sneak Attack</mtg-card>. Sometimes it makes <mtg-card>Show and Tell</mtg-card> cost 9 mana. Yes, this happened. During the tournament. More than once[^once].<br/><br/>I remember a Magic Online game where I had double Fluted on <mtg-card>Show and Tell</mtg-card>. The opponent, during their turn, cast <mtg-card>Echoing Truth</mtg-card> targeting one. We fought a counterwar, but I barely lost. It resolved. Then came the <mtg-card>Show and Tell</mtg-card>. Knowing that 1) if they simply put a creature, I win due to overwhelming board presence; 2) if they put <mtg-card>Omniscience</mtg-card> and cast Emrakul / Atraxa, I most likely lose, I responded by recasting one Flute, naming Atraxa. Then, thanks to <mtg-card>Show and Tell</mtg-card> resolving, I put the second Flute naming Emrakul. The Opponent put in <mtg-card>Omniscience</mtg-card> and conceded the game.<br/><br/>Flute is also arguably decent against Nadu or other things like that. Maybe. Never faced it.
 
 
 [^thrabenu]: First 3m40s of [this video](https://youtu.be/oSBiYT5gF8s?si=1T5BVpd7IaalBA6i).
@@ -142,9 +142,9 @@ I joined the [8-cast Discord](https://discord.gg/26GeYKYtM5) server and received
 
 #### Local events
 
-With 8-cast, I managed to go $$ 4 - 0 $$, $$ 3 - 1 $$ and $$ 3 - 1 $$ in locals. Losing, twice, only to Cradle Control. It's a tough matchup. On one hand, I wish I could play more `Dismember`s, but on the other, why devote that many sideboard slots to a matchup we're likely losing anyway.
+With 8-cast, I managed to go $$ 4 - 0 $$, $$ 3 - 1 $$ and $$ 3 - 1 $$ in locals. Losing, twice, only to Cradle Control. It's a tough matchup. On one hand, I wish I could play more <mtg-card>Dismember</mtg-card>s, but on the other, why devote that many sideboard slots to a matchup we're likely losing anyway.
 
-I felt particularly good about playing against Show and Tell and BUG Beanstalk (other Beanstalk variances that have access to `Wrath of the Skies` may be way more problematic, but such is life). I faced it a couple of times during local events, but, unfortunately, only once during the tournament.
+I felt particularly good about playing against Show and Tell and BUG Beanstalk (other Beanstalk variances that have access to <mtg-card>Wrath of the Skies</mtg-card> may be way more problematic, but such is life). I faced it a couple of times during local events, but, unfortunately, only once during the tournament.
 
 #### Magic Online
 
@@ -170,7 +170,7 @@ I suspected my opponent to be on UG Infect, since I have played against him a co
 
 ##### Game 1
 
-I won the die roll and kept a good hand with Saga and a bunch of countermagic. I figured that if I stop him from doing infect things, then Saga (especially with the help of `Lavaspur Boots`) is going to win the game. I was right.
+I won the die roll and kept a good hand with Saga and a bunch of countermagic. I figured that if I stop him from doing infect things, then Saga (especially with the help of <mtg-card>Lavaspur Boots</mtg-card>) is going to win the game. I was right.
 
 - [x] Game 1: Win
 
@@ -189,7 +189,7 @@ I won the die roll and kept a good hand with Saga and a bunch of countermagic. I
 
 ##### Game 2
 
-My opponent lead with a colored mana source and cast `Ponder`. I started with `Urza's Saga`, once again. I think I also played Automaton on T1. Then they played `Inkmoth Nexus`, threatening to fly over my construct. T2 I deployed `Ancient Tomb` in preparation to make more creatures. I also cast and use `Mishra's Bauble` to see that my opponent is about to draw a second Nexus. On their T3, they double `Invigorate`d the animated Nexus and swung for 9 poison counters. I made some constructs, fetched `Pithing Needle` with Saga's trigger and shut my opponent's Nexuses down. Then I kept attacking him and countering his `Blighted Agent`s, which would've finished the game on his next turn.
+My opponent lead with a colored mana source and cast <mtg-card>Ponder</mtg-card>. I started with <mtg-card>Urza's Saga</mtg-card>, once again. I think I also played Automaton on T1. Then they played <mtg-card>Inkmoth Nexus</mtg-card>, threatening to fly over my construct. T2 I deployed <mtg-card>Ancient Tomb</mtg-card> in preparation to make more creatures. I also cast and use <mtg-card>Mishra's Bauble</mtg-card> to see that my opponent is about to draw a second Nexus. On their T3, they double <mtg-card>Invigorate</mtg-card>d the animated Nexus and swung for 9 poison counters. I made some constructs, fetched <mtg-card>Pithing Needle</mtg-card> with Saga's trigger and shut my opponent's Nexuses down. Then I kept attacking him and countering his <mtg-card>Blighted Agent</mtg-card>s, which would've finished the game on his next turn.
 
 - [x] Game 2: Win
 
@@ -202,13 +202,13 @@ $$ 1 - 0 $$
 UR Delver
 : ~ Krzysztof Mazurek
 
-Krzysztof is a seasoned player against whom I battle for the top place in our [league](../Wyniki-Ligi-Sezon-0/). He has multiple international top 8s on his résumé and is a skilled, methodical player. Paired with the fact that he pilots a Tier 1 deck (albeit with a twist of `Cori-Steel Cutter`[^cori]), I was especially worried about this match.
+Krzysztof is a seasoned player against whom I battle for the top place in our [league](../Wyniki-Ligi-Sezon-0/). He has multiple international top 8s on his résumé and is a skilled, methodical player. Paired with the fact that he pilots a Tier 1 deck (albeit with a twist of <mtg-card>Cori-Steel Cutter</mtg-card>[^cori]), I was especially worried about this match.
 
 [^cori]: Which may either mean that it's a slightly weaker, or a slightly stronger build. Time will tell.
 
 ##### Game 1
 
-I lost a die roll, but managed to overpower him with `Urza's Saga`'s constructs paired with a `Shadowspear`.
+I lost a die roll, but managed to overpower him with <mtg-card>Urza's Saga</mtg-card>'s constructs paired with a <mtg-card>Shadowspear</mtg-card>.
 
 - [x] Game 1: Win
 
@@ -227,9 +227,9 @@ I lost a die roll, but managed to overpower him with `Urza's Saga`'s constructs 
 
 ##### Game 2
 
-I was on the play, but I couldn't establish a powerful board. I didn't get any `Shadowspear`s because two of my `Urza's Saga`s ate a `Wasteland` each. Ultimately, I lost to a flying threat. Flipped `Tamiyo, Seasoned Scholar` made me unable to race him, despite otherwise it being a real possibility.
+I was on the play, but I couldn't establish a powerful board. I didn't get any <mtg-card>Shadowspear</mtg-card>s because two of my <mtg-card>Urza's Saga</mtg-card>s ate a <mtg-card>Wasteland</mtg-card> each. Ultimately, I lost to a flying threat. Flipped <mtg-card>Tamiyo, Seasoned Scholar</mtg-card> made me unable to race him, despite otherwise it being a real possibility.
 
-This game took very long. We also both missed a `Mishra's Bauble` trigger --- one just after the other. I don't know if him being able to draw that card would've changed much --- ditto for me.
+This game took very long. We also both missed a <mtg-card>Mishra's Bauble</mtg-card> trigger --- one just after the other. I don't know if him being able to draw that card would've changed much --- ditto for me.
 
 - [ ] Game 2: Loss
 
@@ -246,11 +246,11 @@ $$ 1 - 0 - 1 $$
 Sneak and Show
 : ~ Sylwester Strużyna
 
-I've known Sylwester for a couple of years. Once a dedicated Infect player, nowadays, he migrated towards `Show and Tell` strategies. I faced and defeated him recently in our FNMs, and I had my `Disruptor Flute`s ready in the sideboard, so I felt good about the matchup.
+I've known Sylwester for a couple of years. Once a dedicated Infect player, nowadays, he migrated towards <mtg-card>Show and Tell</mtg-card> strategies. I faced and defeated him recently in our FNMs, and I had my <mtg-card>Disruptor Flute</mtg-card>s ready in the sideboard, so I felt good about the matchup.
 
 ##### Game 1
 
-I lost the die roll. However, I managed to T1 Saga into `Pithing Needle` naming `Sneak Attack` after his T1 that consisted of a land and two `Lotus Petal`s. Saga, paired with some other fast mana (can't remember if it was `Ancient Tomb` or some artifact-based mana) created constructs, found `Lavaspur Boots` and swung for lethal.
+I lost the die roll. However, I managed to T1 Saga into <mtg-card>Pithing Needle</mtg-card> naming <mtg-card>Sneak Attack</mtg-card> after his T1 that consisted of a land and two <mtg-card>Lotus Petal</mtg-card>s. Saga, paired with some other fast mana (can't remember if it was <mtg-card>Ancient Tomb</mtg-card> or some artifact-based mana) created constructs, found <mtg-card>Lavaspur Boots</mtg-card> and swung for lethal.
 
 - [x] Game 1: Win
 
@@ -271,7 +271,7 @@ I lost the die roll. However, I managed to T1 Saga into `Pithing Needle` naming 
 
 ##### Game 2
 
-I kept a non-explosive hand, but one that can power through a longer game. I cast a single `Patchwork Automaton` and because I had a slowly developing hand, I managed to rebuild after the opposing `Meltdown` left me with zero permanents. My notes say "_counters + small stuff_." Turns out it's just enough to beat `Show and Tell`s with 8-cast.
+I kept a non-explosive hand, but one that can power through a longer game. I cast a single <mtg-card>Patchwork Automaton</mtg-card> and because I had a slowly developing hand, I managed to rebuild after the opposing <mtg-card>Meltdown</mtg-card> left me with zero permanents. My notes say "_counters + small stuff_." Turns out it's just enough to beat <mtg-card>Show and Tell</mtg-card>s with 8-cast.
 
 - [x] Game 2: Win
 
@@ -288,9 +288,9 @@ UB Reanimator
 
 ##### Game 1
 
-I lost the die roll and played a very, very long game 1 (around 30 minutes or so), throughout which I felt like I was barely keeping myself alive. We both went down to 8 life. I have `Pathwork Automaton`, and he has a flipped Tamiyo, an `Orcish Bowmasters` and a 3/3 orc army.
+I lost the die roll and played a very, very long game 1 (around 30 minutes or so), throughout which I felt like I was barely keeping myself alive. We both went down to 8 life. I have <mtg-card>Pathwork Automaton</mtg-card>, and he has a flipped Tamiyo, an <mtg-card>Orcish Bowmasters</mtg-card> and a 3/3 orc army.
 
-Eventually, I topdecked a `Memory Guardian`, which, as I previously mentioned, did not use to feel particularly good. I was, once again, very wrong.
+Eventually, I topdecked a <mtg-card>Memory Guardian</mtg-card>, which, as I previously mentioned, did not use to feel particularly good. I was, once again, very wrong.
 
 That card single-handedly stopped my opponent from trying to be aggressive and, suddenly, I could start pressuring him. It even made my opponent stop plusing Tamiyo in favor of buying back cantrips to dig for answers / bigger threats. He did not manage to achieve that goal. I won that game.
 
@@ -321,7 +321,7 @@ The game was shorter, and my notes simply say "slow game, outvalued." Looking at
 | ~~15~~ |          |
 |   13   |          |
 
-Which means that I somehow managed to heavily employ `Ancient Tomb` and was hit by `Orcish Bowmasters` once, before stabilizing and making my opponent concede. I remember him desperately digging for reanimation spell for either Atraxa or Archon, and once he finally found it and slammed it on the table, I showed him `Faerie Macabre` that was present in my hand for a couple of turns.
+Which means that I somehow managed to heavily employ <mtg-card>Ancient Tomb</mtg-card> and was hit by <mtg-card>Orcish Bowmasters</mtg-card> once, before stabilizing and making my opponent concede. I remember him desperately digging for reanimation spell for either Atraxa or Archon, and once he finally found it and slammed it on the table, I showed him <mtg-card>Faerie Macabre</mtg-card> that was present in my hand for a couple of turns.
 
 - [x] Game 2: Win
 
@@ -359,7 +359,7 @@ My notes for each game say:
 1. "Too much discard"
 2. "T1 discard + combo"
 
-That's it. That concludes my journey in this tournament with 8-cast. As for the sideboarding in this match, I believe I did the same configuration as with UB Reanimator, but I left `Force of Will`s in. Something among those lines:
+That's it. That concludes my journey in this tournament with 8-cast. As for the sideboarding in this match, I believe I did the same configuration as with UB Reanimator, but I left <mtg-card>Force of Will</mtg-card>s in. Something among those lines:
 
 ```diff
 +2 Faerie Macabre
@@ -384,7 +384,7 @@ Qualified for top 8 at seat #3, lost in the first round of it.
 
 > So is 8-cast good / viable?
 
-I don't know. I like playing it, and I feel like the deck offers some impressively powerful plays, but maybe I simply fail to differentiate between _truly powerful plays_ and _simply synergistic plays that most of the time barely get the job done_. You can't really compare the raw power of 8-cast to, e.g., UB Reanimator's. Even the best hands of 8-cast consisting of a quick, grown Patchwork or a quick Kappa cannot even get close to land 🡒 `Entomb` for Atraxa or Archon 🡒 pass 🡒 untap 🡒 `Reanimate`.
+I don't know. I like playing it, and I feel like the deck offers some impressively powerful plays, but maybe I simply fail to differentiate between _truly powerful plays_ and _simply synergistic plays that most of the time barely get the job done_. You can't really compare the raw power of 8-cast to, e.g., UB Reanimator's. Even the best hands of 8-cast consisting of a quick, grown Patchwork or a quick Kappa cannot even get close to land 🡒 <mtg-card>Entomb</mtg-card> for Atraxa or Archon 🡒 pass 🡒 untap 🡒 <mtg-card>Reanimate</mtg-card>.
 
 But maybe I'm incorrect to look at it from this very perspective. Maybe, despite the aforementioned deck having access to so many cantrips, 8-cast, due to its cohesion of multidimensional synergistic cards, actually presents narrower variance. It sounds weird, but...
 
@@ -400,7 +400,7 @@ But, again, on the other hand, it may as well mean that I was simply lucky to wi
 
 ### The winner
 
-Grzegorz "Dauthi" Jezierski, piloting his [BG Shallow Grave](https://moxfield.com/decks/9ka5Dl4IkUq8ZNFA1ZZW0w), after [defeating me in our first match of the top 8](#quick-loss-to-bg-shallow-grave), managed to beat both Mariusz Krzywicki's [Red Painter](https://moxfield.com/decks/31cr_2mPvk2Jd_rpzVxOng) and Tomasz "tomjab" Jabłoński's [UB Reanimator](https://moxfield.com/decks/GQ8mZ9SyIk2t7ARsq9CXoQ), earning his spot in the next ELM and winning a signed `Show and Tell` playmat:
+Grzegorz "Dauthi" Jezierski, piloting his [BG Shallow Grave](https://moxfield.com/decks/9ka5Dl4IkUq8ZNFA1ZZW0w), after [defeating me in our first match of the top 8](#quick-loss-to-bg-shallow-grave), managed to beat both Mariusz Krzywicki's [Red Painter](https://moxfield.com/decks/31cr_2mPvk2Jd_rpzVxOng) and Tomasz "tomjab" Jabłoński's [UB Reanimator](https://moxfield.com/decks/GQ8mZ9SyIk2t7ARsq9CXoQ), earning his spot in the next ELM and winning a signed <mtg-card>Show and Tell</mtg-card> playmat:
 
 ![People](/assets/warsaw-eternal-challenge-report/img/grzegorz.JPG){: width="835" height="730" .w-75 }
 _Grzegorz "Dauthi" Jezierski - winner of Warsaw Legacy Challenge vol. 1_
@@ -421,159 +421,159 @@ We didn't manage to get pictures of Sylwester Strużyna, but we're glad you are 
 
 Time for some interesting statistics, in no particular order.
 
-#### The most commonly played card was `Force of Will`
+#### The most commonly played card was <mtg-card>Force of Will</mtg-card>
 
-It has appeared 84 times in total. Based on the fact that we had 2272 registered cards in total, this means that `Force of Will` has accounted for $$ 3.69\% $$ <sup>(nice)</sup> of all cards. The full top 7 most common card looks like this:
+It has appeared 84 times in total. Based on the fact that we had 2272 registered cards in total, this means that <mtg-card>Force of Will</mtg-card> has accounted for $$ 3.69\% $$ <sup>(nice)</sup> of all cards. The full top 7 most common card looks like this:
 
-1. 84x `Force of Will` ($$ 3.69\% $$)
-2. 68x `Brainstorm` ($$ 2.99\% $$)
-3. 65x `Ponder` ($$ 2.86\% $$)
-4. 59x `Wasteland` ($$ 2.59\% $$)
-5. 47x `Daze` ($$ 2.07\% $$)
-6. 37x `Polluted Delta` ($$ 1.63\% $$)
-7. 37x `Force of Negation` ($$ 1.63\% $$)
+1. 84x <mtg-card>Force of Will</mtg-card> ($$ 3.69\% $$)
+2. 68x <mtg-card>Brainstorm</mtg-card> ($$ 2.99\% $$)
+3. 65x <mtg-card>Ponder</mtg-card> ($$ 2.86\% $$)
+4. 59x <mtg-card>Wasteland</mtg-card> ($$ 2.59\% $$)
+5. 47x <mtg-card>Daze</mtg-card> ($$ 2.07\% $$)
+6. 37x <mtg-card>Polluted Delta</mtg-card> ($$ 1.63\% $$)
+7. 37x <mtg-card>Force of Negation</mtg-card> ($$ 1.63\% $$)
 
 The reason why I opted for the uncommon number 7 for the top most common cards is that all of them are present in Delver-based (or historically Delver-derived) strategies. Given Delver-esque variants continuously proving to be the top tier of decks, this list clearly indicates which cards might be worth considering sleeving in.
 
-The eighth card was a non-Delver-esque one. It was `Ancient Tomb`, and with 37 copies it's tied with `Polluted Delta` and `Force of Negation` with $$ 1.63\% $$ presence.
+The eighth card was a non-Delver-esque one. It was <mtg-card>Ancient Tomb</mtg-card>, and with 37 copies it's tied with <mtg-card>Polluted Delta</mtg-card> and <mtg-card>Force of Negation</mtg-card> with $$ 1.63\% $$ presence.
 
 It's not really worth to talk about the _least_ frequently occurring card, since:
 
 1. the sample size (29 players) is very small
 2. every now and then someone will register a fringe deck that nobody else has ever seen, which would usually imply that a given obscure card would be seen as _the rarest one-of_
 
-#### There were only 2 `Null Rod`s in total
+#### There were only 2 <mtg-card>Null Rod</mtg-card>s in total
 
 Yeah. Just two. In Wiktor Werner's [UG Show and Tell](../Warsaw-Eternal-Challenge-Chapter-1/#ug-show-and-tell--wiktor-werner) and Grzegorz Janczewski's [UB Tempo](Warsaw-Eternal-Challenge-Chapter-1/#ub-tempo--grzegorz-janczewski).
 
-Personally, I would expect more artifact hate from players. Maybe the presence of 8 `Meltdown`s in total compensates for it, but that's up for interpretation.
+Personally, I would expect more artifact hate from players. Maybe the presence of 8 <mtg-card>Meltdown</mtg-card>s in total compensates for it, but that's up for interpretation.
 
 #### There were 121 cards that were played as full playsets in "the 75"
 
 The list of those cards can be expanded by clicking here:
 
 {% capture playsetCardList %}
-- `Misty Rainforest`
-- `Force of Will`
-- `Brainstorm`
-- `Ponder`
-- `Up the Beanstalk`
-- `Swords to Plowshares`
-- `Leyline Binding`
-- `Ancient Tomb`
-- `Seat of the Synod`
-- `Urza's Saga`
-- `Lotus Petal`
-- `Mishra's Bauble`
-- `Mox Opal`
-- `Emry, Lurker of the Loch`
-- `Metallic Rebuke`
-- `Thoughtcast`
-- `Clown Car`
-- `Patchwork Automaton`
-- `Green Sun's Zenith`
-- `Windswept Heath`
-- `Nadu, Winged Wisdom`
-- `Nomads En-Kor`
-- `Endurance`
-- `Shallow Grave`
-- `Entomb`
-- `Dark Ritual`
-- `Thoughtseize`
-- `Reanimate`
-- `Cabal Therapy`
-- `Unmask`
-- `Animate Dead`
-- `Marsh Flats`
-- `Witherbloom Apprentice`
-- `Chain of Smog`
-- `Leyline of the Void`
-- `Food Chain`
-- `Ignoble Hierarch`
-- `Scythecat Cub`
-- `Wight of the Reliquary`
-- `Verdant Catacombs`
-- `Doomsday`
-- `Daze`
-- `Underground Sea`
-- `Polluted Delta`
-- `Duress`
-- `Barrowgoyf`
-- `Force of Negation`
-- `Orcish Bowmasters`
-- `Fatal Push`
-- `Wasteland`
-- `Crop Rotation`
-- `Exploration`
-- `Life from the Loam`
-- `Mox Diamond`
-- `Sphere of Resistance`
-- `Disruptor Flute`
-- `Urza's Cave`
-- `Guide of Souls`
-- `Ajani, Nacatl Pariah`
-- `Ocelot Pride`
-- `Amped Raptor`
-- `Arid Mesa`
-- `Cavern of Souls`
-- `Floodpits Drowner`
-- `Harbinger of the Seas`
-- `Lord of Atlantis`
-- `Master of the Pearl Trident`
-- `Tide Shaper`
-- `True-Name Nemesis`
-- `Aether Vial`
-- `Grim Monolith`
-- `The One Ring`
-- `Coveted Jewel`
-- `Transmute Artifact`
-- `Stock Up`
-- `Sink into Stupor // Sophoric Springs`
-- `Copy Artifact`
-- `Defense Grid`
-- `Gaea's Cradle`
-- `Birds of Paradise`
-- `Chord of Calling`
-- `Painter's Servant`
-- `Fable of the Mirror-Breaker`
-- `Pyroblast`
-- `Goblin Welder`
-- `Goblin Engineer`
-- `Delver of Secrets`
-- `Dragon's Rage Channeler`
-- `Lightning Bolt`
-- `Scalding Tarn`
-- `Snow-Covered Mountain`
-- `Red Elemental Blast`
-- `Grindstone`
-- `Volcanic Island`
-- `Atraxa, Grand Unifier`
-- `Sneak Attack`
-- `Show and Tell`
-- `Chrome mox`
-- `Lion's Eye Diamond`
-- `Burning Wish`
-- `Echo of Eons`
-- `Galvanic Relay`
-- `Gamble`
-- `Rite of Flame`
-- `Nethergoyf`
-- `Blighted Agent`
-- `Glistener Elf`
-- `Inkmoth Nexus`
-- `Invigorate`
-- `Legolas's Quick Reflexes`
-- `Noble Hierarch`
-- `Tropical Island`
-- `Veil of Summer`
-- `Cori-Steel Cutter`
-- `Stoneforge Mystic`
-- `Thalia, Guardian of Thraben`
-- `Recruiter of the Guard`
-- `Solitude`
-- `Karakas`
-- `Prismatic Vista`
-- `Flooded Strand`
+- <mtg-card>Misty Rainforest</mtg-card>
+- <mtg-card>Force of Will</mtg-card>
+- <mtg-card>Brainstorm</mtg-card>
+- <mtg-card>Ponder</mtg-card>
+- <mtg-card>Up the Beanstalk</mtg-card>
+- <mtg-card>Swords to Plowshares</mtg-card>
+- <mtg-card>Leyline Binding</mtg-card>
+- <mtg-card>Ancient Tomb</mtg-card>
+- <mtg-card>Seat of the Synod</mtg-card>
+- <mtg-card>Urza's Saga</mtg-card>
+- <mtg-card>Lotus Petal</mtg-card>
+- <mtg-card>Mishra's Bauble</mtg-card>
+- <mtg-card>Mox Opal</mtg-card>
+- <mtg-card>Emry, Lurker of the Loch</mtg-card>
+- <mtg-card>Metallic Rebuke</mtg-card>
+- <mtg-card>Thoughtcast</mtg-card>
+- <mtg-card>Clown Car</mtg-card>
+- <mtg-card>Patchwork Automaton</mtg-card>
+- <mtg-card>Green Sun's Zenith</mtg-card>
+- <mtg-card>Windswept Heath</mtg-card>
+- <mtg-card>Nadu, Winged Wisdom</mtg-card>
+- <mtg-card>Nomads En-Kor</mtg-card>
+- <mtg-card>Endurance</mtg-card>
+- <mtg-card>Shallow Grave</mtg-card>
+- <mtg-card>Entomb</mtg-card>
+- <mtg-card>Dark Ritual</mtg-card>
+- <mtg-card>Thoughtseize</mtg-card>
+- <mtg-card>Reanimate</mtg-card>
+- <mtg-card>Cabal Therapy</mtg-card>
+- <mtg-card>Unmask</mtg-card>
+- <mtg-card>Animate Dead</mtg-card>
+- <mtg-card>Marsh Flats</mtg-card>
+- <mtg-card>Witherbloom Apprentice</mtg-card>
+- <mtg-card>Chain of Smog</mtg-card>
+- <mtg-card>Leyline of the Void</mtg-card>
+- <mtg-card>Food Chain</mtg-card>
+- <mtg-card>Ignoble Hierarch</mtg-card>
+- <mtg-card>Scythecat Cub</mtg-card>
+- <mtg-card>Wight of the Reliquary</mtg-card>
+- <mtg-card>Verdant Catacombs</mtg-card>
+- <mtg-card>Doomsday</mtg-card>
+- <mtg-card>Daze</mtg-card>
+- <mtg-card>Underground Sea</mtg-card>
+- <mtg-card>Polluted Delta</mtg-card>
+- <mtg-card>Duress</mtg-card>
+- <mtg-card>Barrowgoyf</mtg-card>
+- <mtg-card>Force of Negation</mtg-card>
+- <mtg-card>Orcish Bowmasters</mtg-card>
+- <mtg-card>Fatal Push</mtg-card>
+- <mtg-card>Wasteland</mtg-card>
+- <mtg-card>Crop Rotation</mtg-card>
+- <mtg-card>Exploration</mtg-card>
+- <mtg-card>Life from the Loam</mtg-card>
+- <mtg-card>Mox Diamond</mtg-card>
+- <mtg-card>Sphere of Resistance</mtg-card>
+- <mtg-card>Disruptor Flute</mtg-card>
+- <mtg-card>Urza's Cave</mtg-card>
+- <mtg-card>Guide of Souls</mtg-card>
+- <mtg-card>Ajani, Nacatl Pariah</mtg-card>
+- <mtg-card>Ocelot Pride</mtg-card>
+- <mtg-card>Amped Raptor</mtg-card>
+- <mtg-card>Arid Mesa</mtg-card>
+- <mtg-card>Cavern of Souls</mtg-card>
+- <mtg-card>Floodpits Drowner</mtg-card>
+- <mtg-card>Harbinger of the Seas</mtg-card>
+- <mtg-card>Lord of Atlantis</mtg-card>
+- <mtg-card>Master of the Pearl Trident</mtg-card>
+- <mtg-card>Tide Shaper</mtg-card>
+- <mtg-card>True-Name Nemesis</mtg-card>
+- <mtg-card>Aether Vial</mtg-card>
+- <mtg-card>Grim Monolith</mtg-card>
+- <mtg-card>The One Ring</mtg-card>
+- <mtg-card>Coveted Jewel</mtg-card>
+- <mtg-card>Transmute Artifact</mtg-card>
+- <mtg-card>Stock Up</mtg-card>
+- <mtg-card>Sink into Stupor // Sophoric Springs</mtg-card>
+- <mtg-card>Copy Artifact</mtg-card>
+- <mtg-card>Defense Grid</mtg-card>
+- <mtg-card>Gaea's Cradle</mtg-card>
+- <mtg-card>Birds of Paradise</mtg-card>
+- <mtg-card>Chord of Calling</mtg-card>
+- <mtg-card>Painter's Servant</mtg-card>
+- <mtg-card>Fable of the Mirror-Breaker</mtg-card>
+- <mtg-card>Pyroblast</mtg-card>
+- <mtg-card>Goblin Welder</mtg-card>
+- <mtg-card>Goblin Engineer</mtg-card>
+- <mtg-card>Delver of Secrets</mtg-card>
+- <mtg-card>Dragon's Rage Channeler</mtg-card>
+- <mtg-card>Lightning Bolt</mtg-card>
+- <mtg-card>Scalding Tarn</mtg-card>
+- <mtg-card>Snow-Covered Mountain</mtg-card>
+- <mtg-card>Red Elemental Blast</mtg-card>
+- <mtg-card>Grindstone</mtg-card>
+- <mtg-card>Volcanic Island</mtg-card>
+- <mtg-card>Atraxa, Grand Unifier</mtg-card>
+- <mtg-card>Sneak Attack</mtg-card>
+- <mtg-card>Show and Tell</mtg-card>
+- <mtg-card>Chrome mox</mtg-card>
+- <mtg-card>Lion's Eye Diamond</mtg-card>
+- <mtg-card>Burning Wish</mtg-card>
+- <mtg-card>Echo of Eons</mtg-card>
+- <mtg-card>Galvanic Relay</mtg-card>
+- <mtg-card>Gamble</mtg-card>
+- <mtg-card>Rite of Flame</mtg-card>
+- <mtg-card>Nethergoyf</mtg-card>
+- <mtg-card>Blighted Agent</mtg-card>
+- <mtg-card>Glistener Elf</mtg-card>
+- <mtg-card>Inkmoth Nexus</mtg-card>
+- <mtg-card>Invigorate</mtg-card>
+- <mtg-card>Legolas's Quick Reflexes</mtg-card>
+- <mtg-card>Noble Hierarch</mtg-card>
+- <mtg-card>Tropical Island</mtg-card>
+- <mtg-card>Veil of Summer</mtg-card>
+- <mtg-card>Cori-Steel Cutter</mtg-card>
+- <mtg-card>Stoneforge Mystic</mtg-card>
+- <mtg-card>Thalia, Guardian of Thraben</mtg-card>
+- <mtg-card>Recruiter of the Guard</mtg-card>
+- <mtg-card>Solitude</mtg-card>
+- <mtg-card>Karakas</mtg-card>
+- <mtg-card>Prismatic Vista</mtg-card>
+- <mtg-card>Flooded Strand</mtg-card>
 {% endcapture %}
 
 <details>
@@ -588,190 +588,190 @@ The list of those cards can be expanded by clicking here:
 On the other hand, there were 184 cards that were played as "one-of"s:
 
 {% capture oneofCardList %}
-- `Bayou`
-- `Savannah`
-- `Hedge Maze`
-- `Island`
-- `Blue Elemental Blast`
-- `City of Traitors`
-- `Otawara, Soaring City`
-- `Aether Spellbomb`
-- `Pithing Needle`
-- `Lavaspur Boots`
-- `Shadowspear`
-- `Thought Monitor`
-- `Grafdigger's Cage`
-- `Soul-Guide Lantern`
-- `Bristly Bill, Spine Sower`
-- `Forest`
-- `Plains`
-- `Uro, Titan of Nature's Wrath`
-- `Dryad Arbor`
-- `Karakas`
-- `Sylvan Safekeeper`
-- `Meticulous Archive`
-- `Keen-Eyed Curator`
-- `Birds of Paradise`
-- `Boseiju, Who Endures`
-- `Carpet of Flowers`
-- `Deafening Silence`
-- `Collector Ouphe`
-- `Force of Negation`
-- `Force of Vigor`
-- `Outland Liberator`
-- `Borborygmos Enraged`
-- `Goryo's Vengeance`
-- `Collective Brutality`
-- `Verdant Catacombs`
-- `Bloodstained Mire`
-- `Polluted Delta`
-- `Emrakul, the Aeons Torn`
-- `Manipulate Fate`
-- `Snow-Covered Forest`
-- `Snow-Covered Island`
-- `Snow-Covered Swamp`
-- `Undercity Sewers`
-- `Underground Mortuary`
-- `Underground Sea`
-- `Dress Down`
-- `Hullbreacher`
-- `Hullbreaker Horror`
-- `Pick Your Poison`
-- `Surgical Extraction`
-- `Veil of Summer`
-- `Elvish Reclaimer`
-- `Quirion Ranger`
-- `Grist, the Hunger Tide`
-- `Bojuka Bog`
-- `Gaea's Cradle`
-- `Lair of the Hydra`
-- `Swamp`
-- `Deep Analysis`
-- `Consider`
-- `Lion's Eye Diamond`
-- `Cavern of Souls`
-- `Flooded Strand`
-- `Jace, Wielder of Mysteries`
-- `Into the Flood Maw`
-- `Relic of Progenitus`
-- `Manamorphose`
-- `Spoils of the Vault`
-- `Misty Rainforest`
-- `Scalding Tarn`
-- `Cabal Therapy`
-- `Sheoldred, the Apocalypse`
-- `Badlands`
-- `Brazen Borrower // Petty Theft`
-- `Volcanic Island`
-- `Nihil Spellbomb`
-- `Unlicensed Hearse`
-- `Ghost Quarter`
-- `Horizon Canopy`
-- `Riftstone Portal`
-- `The Tabernacle At Pendrell Vale`
-- `Windswept Heath`
-- `Wooded Foothills`
-- `Expedition Map`
-- `Haywire Mite`
-- `Ghost Vacuum`
-- `Dark Depths`
-- `Echoing Deeps`
-- `Fomori Vault`
-- `Thespian's Stage`
-- `Galvanic Discharge`
-- `Elegant Parlor`
-- `Arena of Glory`
-- `Manifold Key`
-- `Candy Trail`
-- `Paradox Engine`
-- `Dismember`
-- `Chain of Vapor`
-- `Flusterstorm`
-- `Chaos Defiler`
-- `Yavimaya, Cradle of Growth`
-- `Craterhoof Behemoth`
-- `Delighted Halfling`
-- `Leovold, Emissary of Trest`
-- `Birchlore Rangers`
-- `Gilded Drake`
-- `Eladamri, Korvecdal`
-- `Crystal Barricade`
-- `Mox Opal`
-- `Lotus Petal`
-- `Phyrexian Dragon Engine`
-- `Mishra's Research Desk`
-- `Ensnaring Bridge`
-- `Disruptor Flute`
-- `Damping Sphere`
-- `Tarfire`
-- `Mountain`
-- `Thundering Falls`
-- `Arid Mesa`
-- `Blood Moon`
-- `Goblin Cratermaker`
-- `Magus of the Moon`
-- `Faerie Macabre`
-- `Tormod's Crypt`
-- `Mycosynth Lattice`
-- `Liquimetal Coating`
-- `Unholy Heat`
-- `Tropical Island`
-- `Abrade`
-- `Meltdown`
-- `Red Elemental Blast`
-- `Brazen Borrower`
-- `Counterbalance`
-- `Hydroblast`
-- `Maddening Hex`
-- `Mistrise Village`
-- `Simian Spirit Guide`
-- `Archon of Cruelty`
-- `Defense Grid`
-- `Brotherhood's End`
-- `Wish`
-- `Alchemist's Gambit`
-- `Echoing Truth`
-- `Empty the Warrens`
-- `Grapeshot`
-- `Mind's Desire`
-- `Peer into the Abyss`
-- `Reforge the Soul`
-- `Shattering Spree`
-- `Tendrils of Agony`
-- `Void Snare`
-- `Drown in the Loch`
-- `Atraxa, Grand Unifier`
-- `Animate Dead`
-- `Engineered Explosives`
-- `Sheoldred's Edict`
-- `Marsh Flats`
-- `Go for the Throat`
-- `Consign to Memory`
-- `Null Rod`
-- `Toxic Deluge`
-- `Become Immense`
-- `Pendelhaven`
-- `Ponder`
-- `Scale Up`
-- `Sylvan Library`
-- `Venerated Rotpriest`
-- `Spellskite`
-- `Fae of Wishes`
-- `Eureka`
-- `Ground Seal`
-- `Enter the Infinite`
-- `Urza's Bauble`
-- `Steam Vents`
-- `Lion Sash`
-- `Loran of the Third Path`
-- `Kaldra Compleat`
-- `Shadowy Backstreet`
-- `Duress`
-- `Umezawa's Jitte`
-- `Yorion, Sky Nomad`
-- `Containment Priest`
-- `Wrath of the Skies`
-- `Split Up`
+- <mtg-card>Bayou</mtg-card>
+- <mtg-card>Savannah</mtg-card>
+- <mtg-card>Hedge Maze</mtg-card>
+- <mtg-card>Island</mtg-card>
+- <mtg-card>Blue Elemental Blast</mtg-card>
+- <mtg-card>City of Traitors</mtg-card>
+- <mtg-card>Otawara, Soaring City</mtg-card>
+- <mtg-card>Aether Spellbomb</mtg-card>
+- <mtg-card>Pithing Needle</mtg-card>
+- <mtg-card>Lavaspur Boots</mtg-card>
+- <mtg-card>Shadowspear</mtg-card>
+- <mtg-card>Thought Monitor</mtg-card>
+- <mtg-card>Grafdigger's Cage</mtg-card>
+- <mtg-card>Soul-Guide Lantern</mtg-card>
+- <mtg-card>Bristly Bill, Spine Sower</mtg-card>
+- <mtg-card>Forest</mtg-card>
+- <mtg-card>Plains</mtg-card>
+- <mtg-card>Uro, Titan of Nature's Wrath</mtg-card>
+- <mtg-card>Dryad Arbor</mtg-card>
+- <mtg-card>Karakas</mtg-card>
+- <mtg-card>Sylvan Safekeeper</mtg-card>
+- <mtg-card>Meticulous Archive</mtg-card>
+- <mtg-card>Keen-Eyed Curator</mtg-card>
+- <mtg-card>Birds of Paradise</mtg-card>
+- <mtg-card>Boseiju, Who Endures</mtg-card>
+- <mtg-card>Carpet of Flowers</mtg-card>
+- <mtg-card>Deafening Silence</mtg-card>
+- <mtg-card>Collector Ouphe</mtg-card>
+- <mtg-card>Force of Negation</mtg-card>
+- <mtg-card>Force of Vigor</mtg-card>
+- <mtg-card>Outland Liberator</mtg-card>
+- <mtg-card>Borborygmos Enraged</mtg-card>
+- <mtg-card>Goryo's Vengeance</mtg-card>
+- <mtg-card>Collective Brutality</mtg-card>
+- <mtg-card>Verdant Catacombs</mtg-card>
+- <mtg-card>Bloodstained Mire</mtg-card>
+- <mtg-card>Polluted Delta</mtg-card>
+- <mtg-card>Emrakul, the Aeons Torn</mtg-card>
+- <mtg-card>Manipulate Fate</mtg-card>
+- <mtg-card>Snow-Covered Forest</mtg-card>
+- <mtg-card>Snow-Covered Island</mtg-card>
+- <mtg-card>Snow-Covered Swamp</mtg-card>
+- <mtg-card>Undercity Sewers</mtg-card>
+- <mtg-card>Underground Mortuary</mtg-card>
+- <mtg-card>Underground Sea</mtg-card>
+- <mtg-card>Dress Down</mtg-card>
+- <mtg-card>Hullbreacher</mtg-card>
+- <mtg-card>Hullbreaker Horror</mtg-card>
+- <mtg-card>Pick Your Poison</mtg-card>
+- <mtg-card>Surgical Extraction</mtg-card>
+- <mtg-card>Veil of Summer</mtg-card>
+- <mtg-card>Elvish Reclaimer</mtg-card>
+- <mtg-card>Quirion Ranger</mtg-card>
+- <mtg-card>Grist, the Hunger Tide</mtg-card>
+- <mtg-card>Bojuka Bog</mtg-card>
+- <mtg-card>Gaea's Cradle</mtg-card>
+- <mtg-card>Lair of the Hydra</mtg-card>
+- <mtg-card>Swamp</mtg-card>
+- <mtg-card>Deep Analysis</mtg-card>
+- <mtg-card>Consider</mtg-card>
+- <mtg-card>Lion's Eye Diamond</mtg-card>
+- <mtg-card>Cavern of Souls</mtg-card>
+- <mtg-card>Flooded Strand</mtg-card>
+- <mtg-card>Jace, Wielder of Mysteries</mtg-card>
+- <mtg-card>Into the Flood Maw</mtg-card>
+- <mtg-card>Relic of Progenitus</mtg-card>
+- <mtg-card>Manamorphose</mtg-card>
+- <mtg-card>Spoils of the Vault</mtg-card>
+- <mtg-card>Misty Rainforest</mtg-card>
+- <mtg-card>Scalding Tarn</mtg-card>
+- <mtg-card>Cabal Therapy</mtg-card>
+- <mtg-card>Sheoldred, the Apocalypse</mtg-card>
+- <mtg-card>Badlands</mtg-card>
+- <mtg-card>Brazen Borrower // Petty Theft</mtg-card>
+- <mtg-card>Volcanic Island</mtg-card>
+- <mtg-card>Nihil Spellbomb</mtg-card>
+- <mtg-card>Unlicensed Hearse</mtg-card>
+- <mtg-card>Ghost Quarter</mtg-card>
+- <mtg-card>Horizon Canopy</mtg-card>
+- <mtg-card>Riftstone Portal</mtg-card>
+- <mtg-card>The Tabernacle At Pendrell Vale</mtg-card>
+- <mtg-card>Windswept Heath</mtg-card>
+- <mtg-card>Wooded Foothills</mtg-card>
+- <mtg-card>Expedition Map</mtg-card>
+- <mtg-card>Haywire Mite</mtg-card>
+- <mtg-card>Ghost Vacuum</mtg-card>
+- <mtg-card>Dark Depths</mtg-card>
+- <mtg-card>Echoing Deeps</mtg-card>
+- <mtg-card>Fomori Vault</mtg-card>
+- <mtg-card>Thespian's Stage</mtg-card>
+- <mtg-card>Galvanic Discharge</mtg-card>
+- <mtg-card>Elegant Parlor</mtg-card>
+- <mtg-card>Arena of Glory</mtg-card>
+- <mtg-card>Manifold Key</mtg-card>
+- <mtg-card>Candy Trail</mtg-card>
+- <mtg-card>Paradox Engine</mtg-card>
+- <mtg-card>Dismember</mtg-card>
+- <mtg-card>Chain of Vapor</mtg-card>
+- <mtg-card>Flusterstorm</mtg-card>
+- <mtg-card>Chaos Defiler</mtg-card>
+- <mtg-card>Yavimaya, Cradle of Growth</mtg-card>
+- <mtg-card>Craterhoof Behemoth</mtg-card>
+- <mtg-card>Delighted Halfling</mtg-card>
+- <mtg-card>Leovold, Emissary of Trest</mtg-card>
+- <mtg-card>Birchlore Rangers</mtg-card>
+- <mtg-card>Gilded Drake</mtg-card>
+- <mtg-card>Eladamri, Korvecdal</mtg-card>
+- <mtg-card>Crystal Barricade</mtg-card>
+- <mtg-card>Mox Opal</mtg-card>
+- <mtg-card>Lotus Petal</mtg-card>
+- <mtg-card>Phyrexian Dragon Engine</mtg-card>
+- <mtg-card>Mishra's Research Desk</mtg-card>
+- <mtg-card>Ensnaring Bridge</mtg-card>
+- <mtg-card>Disruptor Flute</mtg-card>
+- <mtg-card>Damping Sphere</mtg-card>
+- <mtg-card>Tarfire</mtg-card>
+- <mtg-card>Mountain</mtg-card>
+- <mtg-card>Thundering Falls</mtg-card>
+- <mtg-card>Arid Mesa</mtg-card>
+- <mtg-card>Blood Moon</mtg-card>
+- <mtg-card>Goblin Cratermaker</mtg-card>
+- <mtg-card>Magus of the Moon</mtg-card>
+- <mtg-card>Faerie Macabre</mtg-card>
+- <mtg-card>Tormod's Crypt</mtg-card>
+- <mtg-card>Mycosynth Lattice</mtg-card>
+- <mtg-card>Liquimetal Coating</mtg-card>
+- <mtg-card>Unholy Heat</mtg-card>
+- <mtg-card>Tropical Island</mtg-card>
+- <mtg-card>Abrade</mtg-card>
+- <mtg-card>Meltdown</mtg-card>
+- <mtg-card>Red Elemental Blast</mtg-card>
+- <mtg-card>Brazen Borrower</mtg-card>
+- <mtg-card>Counterbalance</mtg-card>
+- <mtg-card>Hydroblast</mtg-card>
+- <mtg-card>Maddening Hex</mtg-card>
+- <mtg-card>Mistrise Village</mtg-card>
+- <mtg-card>Simian Spirit Guide</mtg-card>
+- <mtg-card>Archon of Cruelty</mtg-card>
+- <mtg-card>Defense Grid</mtg-card>
+- <mtg-card>Brotherhood's End</mtg-card>
+- <mtg-card>Wish</mtg-card>
+- <mtg-card>Alchemist's Gambit</mtg-card>
+- <mtg-card>Echoing Truth</mtg-card>
+- <mtg-card>Empty the Warrens</mtg-card>
+- <mtg-card>Grapeshot</mtg-card>
+- <mtg-card>Mind's Desire</mtg-card>
+- <mtg-card>Peer into the Abyss</mtg-card>
+- <mtg-card>Reforge the Soul</mtg-card>
+- <mtg-card>Shattering Spree</mtg-card>
+- <mtg-card>Tendrils of Agony</mtg-card>
+- <mtg-card>Void Snare</mtg-card>
+- <mtg-card>Drown in the Loch</mtg-card>
+- <mtg-card>Atraxa, Grand Unifier</mtg-card>
+- <mtg-card>Animate Dead</mtg-card>
+- <mtg-card>Engineered Explosives</mtg-card>
+- <mtg-card>Sheoldred's Edict</mtg-card>
+- <mtg-card>Marsh Flats</mtg-card>
+- <mtg-card>Go for the Throat</mtg-card>
+- <mtg-card>Consign to Memory</mtg-card>
+- <mtg-card>Null Rod</mtg-card>
+- <mtg-card>Toxic Deluge</mtg-card>
+- <mtg-card>Become Immense</mtg-card>
+- <mtg-card>Pendelhaven</mtg-card>
+- <mtg-card>Ponder</mtg-card>
+- <mtg-card>Scale Up</mtg-card>
+- <mtg-card>Sylvan Library</mtg-card>
+- <mtg-card>Venerated Rotpriest</mtg-card>
+- <mtg-card>Spellskite</mtg-card>
+- <mtg-card>Fae of Wishes</mtg-card>
+- <mtg-card>Eureka</mtg-card>
+- <mtg-card>Ground Seal</mtg-card>
+- <mtg-card>Enter the Infinite</mtg-card>
+- <mtg-card>Urza's Bauble</mtg-card>
+- <mtg-card>Steam Vents</mtg-card>
+- <mtg-card>Lion Sash</mtg-card>
+- <mtg-card>Loran of the Third Path</mtg-card>
+- <mtg-card>Kaldra Compleat</mtg-card>
+- <mtg-card>Shadowy Backstreet</mtg-card>
+- <mtg-card>Duress</mtg-card>
+- <mtg-card>Umezawa's Jitte</mtg-card>
+- <mtg-card>Yorion, Sky Nomad</mtg-card>
+- <mtg-card>Containment Priest</mtg-card>
+- <mtg-card>Wrath of the Skies</mtg-card>
+- <mtg-card>Split Up</mtg-card>
 {% endcapture %}
 
 <details>
@@ -786,77 +786,77 @@ On the other hand, there were 184 cards that were played as "one-of"s:
 And the following cards were played **only** as a playset (every single time this card occurred in a decklist, it was **always** a four-of (potentially split between maindeck and sideboard)) --- there were 71 of them:
 
 {% capture onlyPlaysetCardList %}
-- `Force of Will`
-- `Brainstorm`
-- `Up the Beanstalk`
-- `Leyline Binding`
-- `Seat of the Synod`
-- `Emry, Lurker of the Loch`
-- `Metallic Rebuke`
-- `Thoughtcast`
-- `Clown Car`
-- `Patchwork Automaton`
-- `Green Sun's Zenith`
-- `Nadu, Winged Wisdom`
-- `Nomads En-Kor`
-- `Shallow Grave`
-- `Entomb`
-- `Dark Ritual`
-- `Reanimate`
-- `Unmask`
-- `Witherbloom Apprentice`
-- `Chain of Smog`
-- `Leyline of the Void`
-- `Food Chain`
-- `Ignoble Hierarch`
-- `Scythecat Cub`
-- `Wight of the Reliquary`
-- `Doomsday`
-- `Crop Rotation`
-- `Exploration`
-- `Mox Diamond`
-- `Sphere of Resistance`
-- `Urza's Cave`
-- `Guide of Souls`
-- `Ajani, Nacatl Pariah`
-- `Ocelot Pride`
-- `Amped Raptor`
-- `Floodpits Drowner`
-- `Lord of Atlantis`
-- `Master of the Pearl Trident`
-- `Tide Shaper`
-- `True-Name Nemesis`
-- `Aether Vial`
-- `Grim Monolith`
-- `The One Ring`
-- `Coveted Jewel`
-- `Transmute Artifact`
-- `Copy Artifact`
-- `Chord of Calling`
-- `Painter's Servant`
-- `Fable of the Mirror-Breaker`
-- `Goblin Welder`
-- `Goblin Engineer`
-- `Delver of Secrets`
-- `Dragon's Rage Channeler`
-- `Snow-Covered Mountain`
-- `Sneak Attack`
-- `Chrome mox`
-- `Burning Wish`
-- `Echo of Eons`
-- `Galvanic Relay`
-- `Gamble`
-- `Rite of Flame`
-- `Blighted Agent`
-- `Glistener Elf`
-- `Inkmoth Nexus`
-- `Invigorate`
-- `Legolas's Quick Reflexes`
-- `Stoneforge Mystic`
-- `Thalia, Guardian of Thraben`
-- `Recruiter of the Guard`
-- `Solitude`
-- `Prismatic Vista`
+- <mtg-card>Force of Will</mtg-card>
+- <mtg-card>Brainstorm</mtg-card>
+- <mtg-card>Up the Beanstalk</mtg-card>
+- <mtg-card>Leyline Binding</mtg-card>
+- <mtg-card>Seat of the Synod</mtg-card>
+- <mtg-card>Emry, Lurker of the Loch</mtg-card>
+- <mtg-card>Metallic Rebuke</mtg-card>
+- <mtg-card>Thoughtcast</mtg-card>
+- <mtg-card>Clown Car</mtg-card>
+- <mtg-card>Patchwork Automaton</mtg-card>
+- <mtg-card>Green Sun's Zenith</mtg-card>
+- <mtg-card>Nadu, Winged Wisdom</mtg-card>
+- <mtg-card>Nomads En-Kor</mtg-card>
+- <mtg-card>Shallow Grave</mtg-card>
+- <mtg-card>Entomb</mtg-card>
+- <mtg-card>Dark Ritual</mtg-card>
+- <mtg-card>Reanimate</mtg-card>
+- <mtg-card>Unmask</mtg-card>
+- <mtg-card>Witherbloom Apprentice</mtg-card>
+- <mtg-card>Chain of Smog</mtg-card>
+- <mtg-card>Leyline of the Void</mtg-card>
+- <mtg-card>Food Chain</mtg-card>
+- <mtg-card>Ignoble Hierarch</mtg-card>
+- <mtg-card>Scythecat Cub</mtg-card>
+- <mtg-card>Wight of the Reliquary</mtg-card>
+- <mtg-card>Doomsday</mtg-card>
+- <mtg-card>Crop Rotation</mtg-card>
+- <mtg-card>Exploration</mtg-card>
+- <mtg-card>Mox Diamond</mtg-card>
+- <mtg-card>Sphere of Resistance</mtg-card>
+- <mtg-card>Urza's Cave</mtg-card>
+- <mtg-card>Guide of Souls</mtg-card>
+- <mtg-card>Ajani, Nacatl Pariah</mtg-card>
+- <mtg-card>Ocelot Pride</mtg-card>
+- <mtg-card>Amped Raptor</mtg-card>
+- <mtg-card>Floodpits Drowner</mtg-card>
+- <mtg-card>Lord of Atlantis</mtg-card>
+- <mtg-card>Master of the Pearl Trident</mtg-card>
+- <mtg-card>Tide Shaper</mtg-card>
+- <mtg-card>True-Name Nemesis</mtg-card>
+- <mtg-card>Aether Vial</mtg-card>
+- <mtg-card>Grim Monolith</mtg-card>
+- <mtg-card>The One Ring</mtg-card>
+- <mtg-card>Coveted Jewel</mtg-card>
+- <mtg-card>Transmute Artifact</mtg-card>
+- <mtg-card>Copy Artifact</mtg-card>
+- <mtg-card>Chord of Calling</mtg-card>
+- <mtg-card>Painter's Servant</mtg-card>
+- <mtg-card>Fable of the Mirror-Breaker</mtg-card>
+- <mtg-card>Goblin Welder</mtg-card>
+- <mtg-card>Goblin Engineer</mtg-card>
+- <mtg-card>Delver of Secrets</mtg-card>
+- <mtg-card>Dragon's Rage Channeler</mtg-card>
+- <mtg-card>Snow-Covered Mountain</mtg-card>
+- <mtg-card>Sneak Attack</mtg-card>
+- <mtg-card>Chrome mox</mtg-card>
+- <mtg-card>Burning Wish</mtg-card>
+- <mtg-card>Echo of Eons</mtg-card>
+- <mtg-card>Galvanic Relay</mtg-card>
+- <mtg-card>Gamble</mtg-card>
+- <mtg-card>Rite of Flame</mtg-card>
+- <mtg-card>Blighted Agent</mtg-card>
+- <mtg-card>Glistener Elf</mtg-card>
+- <mtg-card>Inkmoth Nexus</mtg-card>
+- <mtg-card>Invigorate</mtg-card>
+- <mtg-card>Legolas's Quick Reflexes</mtg-card>
+- <mtg-card>Stoneforge Mystic</mtg-card>
+- <mtg-card>Thalia, Guardian of Thraben</mtg-card>
+- <mtg-card>Recruiter of the Guard</mtg-card>
+- <mtg-card>Solitude</mtg-card>
+- <mtg-card>Prismatic Vista</mtg-card>
 {% endcapture %}
 
 <details>
@@ -871,112 +871,112 @@ And the following cards were played **only** as a playset (every single time thi
 And, lastly, the following cards were played **only** as a one-of (every single time this card occurred in a decklist, it was **always** a one-of (either in the maindeck or in the sideboard)) --- there were 106 of them:
 
 {% capture onlyOneofCardList %}
-- `Hedge Maze`
-- `Aether Spellbomb`
-- `Pithing Needle`
-- `Lavaspur Boots`
-- `Shadowspear`
-- `Thought Monitor`
-- `Soul-Guide Lantern`
-- `Bristly Bill, Spine Sower`
-- `Meticulous Archive`
-- `Keen-Eyed Curator`
-- `Collector Ouphe`
-- `Outland Liberator`
-- `Borborygmos Enraged`
-- `Goryo's Vengeance`
-- `Collective Brutality`
-- `Manipulate Fate`
-- `Snow-Covered Forest`
-- `Snow-Covered Island`
-- `Snow-Covered Swamp`
-- `Hullbreacher`
-- `Hullbreaker Horror`
-- `Grist, the Hunger Tide`
-- `Bojuka Bog`
-- `Lair of the Hydra`
-- `Deep Analysis`
-- `Consider`
-- `Jace, Wielder of Mysteries`
-- `Into the Flood Maw`
-- `Manamorphose`
-- `Sheoldred, the Apocalypse`
-- `Badlands`
-- `Brazen Borrower // Petty Theft`
-- `Nihil Spellbomb`
-- `Unlicensed Hearse`
-- `Ghost Quarter`
-- `Horizon Canopy`
-- `Riftstone Portal`
-- `The Tabernacle At Pendrell Vale`
-- `Wooded Foothills`
-- `Haywire Mite`
-- `Ghost Vacuum`
-- `Echoing Deeps`
-- `Fomori Vault`
-- `Galvanic Discharge`
-- `Elegant Parlor`
-- `Arena of Glory`
-- `Manifold Key`
-- `Candy Trail`
-- `Paradox Engine`
-- `Chain of Vapor`
-- `Chaos Defiler`
-- `Craterhoof Behemoth`
-- `Leovold, Emissary of Trest`
-- `Birchlore Rangers`
-- `Gilded Drake`
-- `Eladamri, Korvecdal`
-- `Crystal Barricade`
-- `Phyrexian Dragon Engine`
-- `Mishra's Research Desk`
-- `Damping Sphere`
-- `Tarfire`
-- `Thundering Falls`
-- `Blood Moon`
-- `Goblin Cratermaker`
-- `Tormod's Crypt`
-- `Mycosynth Lattice`
-- `Liquimetal Coating`
-- `Abrade`
-- `Counterbalance`
-- `Maddening Hex`
-- `Brotherhood's End`
-- `Wish`
-- `Alchemist's Gambit`
-- `Echoing Truth`
-- `Empty the Warrens`
-- `Grapeshot`
-- `Mind's Desire`
-- `Peer into the Abyss`
-- `Reforge the Soul`
-- `Shattering Spree`
-- `Tendrils of Agony`
-- `Void Snare`
-- `Drown in the Loch`
-- `Engineered Explosives`
-- `Sheoldred's Edict`
-- `Go for the Throat`
-- `Null Rod`
-- `Toxic Deluge`
-- `Become Immense`
-- `Pendelhaven`
-- `Scale Up`
-- `Sylvan Library`
-- `Venerated Rotpriest`
-- `Spellskite`
-- `Fae of Wishes`
-- `Eureka`
-- `Enter the Infinite`
-- `Steam Vents`
-- `Lion Sash`
-- `Loran of the Third Path`
-- `Kaldra Compleat`
-- `Shadowy Backstreet`
-- `Umezawa's Jitte`
-- `Yorion, Sky Nomad`
-- `Wrath of the Skies`
-- `Split Up`
+- <mtg-card>Hedge Maze</mtg-card>
+- <mtg-card>Aether Spellbomb</mtg-card>
+- <mtg-card>Pithing Needle</mtg-card>
+- <mtg-card>Lavaspur Boots</mtg-card>
+- <mtg-card>Shadowspear</mtg-card>
+- <mtg-card>Thought Monitor</mtg-card>
+- <mtg-card>Soul-Guide Lantern</mtg-card>
+- <mtg-card>Bristly Bill, Spine Sower</mtg-card>
+- <mtg-card>Meticulous Archive</mtg-card>
+- <mtg-card>Keen-Eyed Curator</mtg-card>
+- <mtg-card>Collector Ouphe</mtg-card>
+- <mtg-card>Outland Liberator</mtg-card>
+- <mtg-card>Borborygmos Enraged</mtg-card>
+- <mtg-card>Goryo's Vengeance</mtg-card>
+- <mtg-card>Collective Brutality</mtg-card>
+- <mtg-card>Manipulate Fate</mtg-card>
+- <mtg-card>Snow-Covered Forest</mtg-card>
+- <mtg-card>Snow-Covered Island</mtg-card>
+- <mtg-card>Snow-Covered Swamp</mtg-card>
+- <mtg-card>Hullbreacher</mtg-card>
+- <mtg-card>Hullbreaker Horror</mtg-card>
+- <mtg-card>Grist, the Hunger Tide</mtg-card>
+- <mtg-card>Bojuka Bog</mtg-card>
+- <mtg-card>Lair of the Hydra</mtg-card>
+- <mtg-card>Deep Analysis</mtg-card>
+- <mtg-card>Consider</mtg-card>
+- <mtg-card>Jace, Wielder of Mysteries</mtg-card>
+- <mtg-card>Into the Flood Maw</mtg-card>
+- <mtg-card>Manamorphose</mtg-card>
+- <mtg-card>Sheoldred, the Apocalypse</mtg-card>
+- <mtg-card>Badlands</mtg-card>
+- <mtg-card>Brazen Borrower // Petty Theft</mtg-card>
+- <mtg-card>Nihil Spellbomb</mtg-card>
+- <mtg-card>Unlicensed Hearse</mtg-card>
+- <mtg-card>Ghost Quarter</mtg-card>
+- <mtg-card>Horizon Canopy</mtg-card>
+- <mtg-card>Riftstone Portal</mtg-card>
+- <mtg-card>The Tabernacle At Pendrell Vale</mtg-card>
+- <mtg-card>Wooded Foothills</mtg-card>
+- <mtg-card>Haywire Mite</mtg-card>
+- <mtg-card>Ghost Vacuum</mtg-card>
+- <mtg-card>Echoing Deeps</mtg-card>
+- <mtg-card>Fomori Vault</mtg-card>
+- <mtg-card>Galvanic Discharge</mtg-card>
+- <mtg-card>Elegant Parlor</mtg-card>
+- <mtg-card>Arena of Glory</mtg-card>
+- <mtg-card>Manifold Key</mtg-card>
+- <mtg-card>Candy Trail</mtg-card>
+- <mtg-card>Paradox Engine</mtg-card>
+- <mtg-card>Chain of Vapor</mtg-card>
+- <mtg-card>Chaos Defiler</mtg-card>
+- <mtg-card>Craterhoof Behemoth</mtg-card>
+- <mtg-card>Leovold, Emissary of Trest</mtg-card>
+- <mtg-card>Birchlore Rangers</mtg-card>
+- <mtg-card>Gilded Drake</mtg-card>
+- <mtg-card>Eladamri, Korvecdal</mtg-card>
+- <mtg-card>Crystal Barricade</mtg-card>
+- <mtg-card>Phyrexian Dragon Engine</mtg-card>
+- <mtg-card>Mishra's Research Desk</mtg-card>
+- <mtg-card>Damping Sphere</mtg-card>
+- <mtg-card>Tarfire</mtg-card>
+- <mtg-card>Thundering Falls</mtg-card>
+- <mtg-card>Blood Moon</mtg-card>
+- <mtg-card>Goblin Cratermaker</mtg-card>
+- <mtg-card>Tormod's Crypt</mtg-card>
+- <mtg-card>Mycosynth Lattice</mtg-card>
+- <mtg-card>Liquimetal Coating</mtg-card>
+- <mtg-card>Abrade</mtg-card>
+- <mtg-card>Counterbalance</mtg-card>
+- <mtg-card>Maddening Hex</mtg-card>
+- <mtg-card>Brotherhood's End</mtg-card>
+- <mtg-card>Wish</mtg-card>
+- <mtg-card>Alchemist's Gambit</mtg-card>
+- <mtg-card>Echoing Truth</mtg-card>
+- <mtg-card>Empty the Warrens</mtg-card>
+- <mtg-card>Grapeshot</mtg-card>
+- <mtg-card>Mind's Desire</mtg-card>
+- <mtg-card>Peer into the Abyss</mtg-card>
+- <mtg-card>Reforge the Soul</mtg-card>
+- <mtg-card>Shattering Spree</mtg-card>
+- <mtg-card>Tendrils of Agony</mtg-card>
+- <mtg-card>Void Snare</mtg-card>
+- <mtg-card>Drown in the Loch</mtg-card>
+- <mtg-card>Engineered Explosives</mtg-card>
+- <mtg-card>Sheoldred's Edict</mtg-card>
+- <mtg-card>Go for the Throat</mtg-card>
+- <mtg-card>Null Rod</mtg-card>
+- <mtg-card>Toxic Deluge</mtg-card>
+- <mtg-card>Become Immense</mtg-card>
+- <mtg-card>Pendelhaven</mtg-card>
+- <mtg-card>Scale Up</mtg-card>
+- <mtg-card>Sylvan Library</mtg-card>
+- <mtg-card>Venerated Rotpriest</mtg-card>
+- <mtg-card>Spellskite</mtg-card>
+- <mtg-card>Fae of Wishes</mtg-card>
+- <mtg-card>Eureka</mtg-card>
+- <mtg-card>Enter the Infinite</mtg-card>
+- <mtg-card>Steam Vents</mtg-card>
+- <mtg-card>Lion Sash</mtg-card>
+- <mtg-card>Loran of the Third Path</mtg-card>
+- <mtg-card>Kaldra Compleat</mtg-card>
+- <mtg-card>Shadowy Backstreet</mtg-card>
+- <mtg-card>Umezawa's Jitte</mtg-card>
+- <mtg-card>Yorion, Sky Nomad</mtg-card>
+- <mtg-card>Wrath of the Skies</mtg-card>
+- <mtg-card>Split Up</mtg-card>
 {% endcapture %}
 
 <details>
@@ -992,7 +992,7 @@ And, lastly, the following cards were played **only** as a one-of (every single 
 
 ## Spices
 
-There was one fairly spicy list. Wiktor Werner's [UG Show and Tell](../Warsaw-Eternal-Challenge-Chapter-1/#ug-show-and-tell--wiktor-werner) played a single `Eureka`, which is an uncommon sight. What's more, he played a full playset of `Veil of Summer`! And that's alongside two copies of the newest addition to the deck --- `Mistrise Village`. He really did _not_ want his stuff to get countered.
+There was one fairly spicy list. Wiktor Werner's [UG Show and Tell](../Warsaw-Eternal-Challenge-Chapter-1/#ug-show-and-tell--wiktor-werner) played a single <mtg-card>Eureka</mtg-card>, which is an uncommon sight. What's more, he played a full playset of <mtg-card>Veil of Summer</mtg-card>! And that's alongside two copies of the newest addition to the deck --- <mtg-card>Mistrise Village</mtg-card>. He really did _not_ want his stuff to get countered.
 
 ## Acknowledgements
 
