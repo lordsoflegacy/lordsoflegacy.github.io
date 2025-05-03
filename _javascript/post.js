@@ -19,7 +19,7 @@ initTopbar();
 loadMermaid();
 basic();
 
-const cardCache = new Map()
+const cardCache = new Map();
 
 document.addEventListener('DOMContentLoaded', function () {
   if (!customElements.get('mtg-card')) {
@@ -28,6 +28,7 @@ document.addEventListener('DOMContentLoaded', function () {
         super();
         this.previewImg = null; // Store reference to the image
         this.mouseMoveHandler = this.moveImage.bind(this); // Handler to update position
+        this.imageScalePercent = 70; // Scaling percentage (to be used consistently)
       }
 
       connectedCallback() {
@@ -62,7 +63,9 @@ document.addEventListener('DOMContentLoaded', function () {
         // Create the image
         const img = document.createElement('img');
         img.src = cardCache.get(this.textContent);
-        img.style.maxWidth = '70%';
+
+        // Apply the scaling to the image
+        img.style.maxWidth = `${this.imageScalePercent}%`;
         img.style.maxHeight = 'auto';
 
         // Append image to container and container to body
@@ -87,19 +90,32 @@ document.addEventListener('DOMContentLoaded', function () {
         }
       }
 
-      // Move the image to the bottom-right of the cursor
+      // Move the image to the bottom-right (or left) of the cursor
       moveImage(event) {
         if (this.previewImg) {
-          const offsetX = 20; // Distance from cursor to image
-          const offsetY = 20;
+          const offsetX = 5; // Small distance from cursor to image
+          const offsetY = 5;
 
-          // Set the position relative to the mouse cursor
-          this.previewImg.style.left = `${event.pageX + offsetX}px`;
+          // Get the scaled width and height of the image
+          const imgWidth = this.previewImg.offsetWidth;
+          const imgHeight = this.previewImg.offsetHeight;
+
+          // Check space on the right and left of the cursor
+          const spaceRight = window.innerWidth - event.pageX;
+          const spaceLeft = event.pageX;
+
+          // Position the image to the left if there's not enough space on the right
+          if (spaceRight < imgWidth + offsetX) {
+            // When the image is on the left, adjust the offset to bring it closer to the cursor
+            this.previewImg.style.left = `${event.pageX - imgWidth - offsetX}px`; // Left of the cursor
+          } else {
+            this.previewImg.style.left = `${event.pageX + offsetX}px`; // Right of the cursor
+          }
+
+          // Position the image vertically based on the cursor
           this.previewImg.style.top = `${event.pageY + offsetY}px`;
         }
       }
     });
   }
 });
-
-
