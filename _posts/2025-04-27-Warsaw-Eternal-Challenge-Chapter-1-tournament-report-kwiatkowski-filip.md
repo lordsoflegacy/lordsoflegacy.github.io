@@ -15,7 +15,7 @@ math: true
 > This article's purpose is twofold --- it serves as a tournament report from the perspective of an 8-cast player and as a general overview of the event. For those who seek just the former, [click here to skip to the appropriate section](#the-tournament-from-the-first-person-perspective).
 {: .prompt-info }
 
-The card I was most impressed about was <mtg-card>Forging the Anchor</mtg-card>, really.
+The card I was most impressed about was <mtg-card>Forging the Anchor</mtg-card>, really. I absolutely hate <mtg-card>Nadu, Winged Wisdom</mtg-card>.
 
 ## Legacy scene in Poland
 
