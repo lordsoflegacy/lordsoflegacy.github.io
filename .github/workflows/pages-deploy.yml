@@ -49,7 +49,7 @@ jobs:
         env:
           JEKYLL_ENV: "production"
 
-      - name: addCSP
+      - name: Add CSP for Scryfall API
         run: sed -i "23a <meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'self'\; connect-src 'self' *.scryfall.com>\">" _site${{ steps.pages.outputs.base_path }}/index.html
 #      - name: Test site
 #        run: |
