@@ -45,7 +45,7 @@ jobs:
           bundler-cache: true
 
       - name: Rebuild JS libraries
-        run: npm run build:js
+        run: npm install rollup; npm run build:js
 
       - name: Build site
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
