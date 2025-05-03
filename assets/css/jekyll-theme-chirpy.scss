@@ -21,9 +21,7 @@ mtg-card:hover {
 }
 
 #mtg-card-hover-image-container {
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  position: absolute;
   z-index: 9999;
+  pointer-events: none; /* Avoid interfering with mouse events */
 }

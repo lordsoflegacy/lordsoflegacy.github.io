@@ -27,6 +27,7 @@ document.addEventListener('DOMContentLoaded', function () {
       constructor() {
         super();
         this.previewImg = null; // Store reference to the image
+        this.mouseMoveHandler = this.moveImage.bind(this); // Handler to update position
       }
 
       connectedCallback() {
@@ -70,6 +71,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
         // Store the reference to the image for removal later
         this.previewImg = container;
+
+        // Add event listener to track mouse movement
+        document.addEventListener('mousemove', this.mouseMoveHandler);
       }
 
       // Hide the image on mouseout
@@ -77,9 +81,25 @@ document.addEventListener('DOMContentLoaded', function () {
         if (this.previewImg) {
           this.previewImg.remove();
           this.previewImg = null;
+
+          // Remove the mousemove listener when done
+          document.removeEventListener('mousemove', this.mouseMoveHandler);
+        }
+      }
+
+      // Move the image to the bottom-right of the cursor
+      moveImage(event) {
+        if (this.previewImg) {
+          const offsetX = 20; // Distance from cursor to image
+          const offsetY = 20;
+
+          // Set the position relative to the mouse cursor
+          this.previewImg.style.left = `${event.pageX + offsetX}px`;
+          this.previewImg.style.top = `${event.pageY + offsetY}px`;
         }
       }
     });
   }
 });
+
 
