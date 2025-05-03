@@ -26,9 +26,9 @@ document.addEventListener('DOMContentLoaded', function () {
     customElements.define('mtg-card', class extends HTMLElement {
       constructor() {
         super();
-        this.previewImg = null; // Store reference to the image
-        this.mouseMoveHandler = this.moveImage.bind(this); // Handler to update position
-        this.imageScalePercent = 70; // Scaling percentage (to be used consistently)
+        this.previewImg = null;
+        this.mouseMoveHandler = this.moveImage.bind(this);
+        this.imageScalePercent = 70;
       }
 
       connectedCallback() {
@@ -38,11 +38,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
       // Show the image on mouseover
       async showImage() {
-        const baseUrl = 'https://api.scryfall.com/cards/named?exact=';
+        const cardName = this.textContent;
 
-        // Avoid duplicate fetches
-        if (!cardCache.has(this.textContent)) {
-          const response = await fetch(`${baseUrl}${this.textContent}`, {
+        if (!cardCache.has(cardName)) {
+          const baseUrl = 'https://api.scryfall.com/cards/named?exact=';
+          const response = await fetch(`${baseUrl}${cardName}`, {
             method: 'GET',
             headers: {
               'Accept': '*/*',
@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', function () {
           const data = await response.json();
           const imageUrl = data["image_uris"].normal;
 
-          cardCache.set(this.textContent, imageUrl);
+          cardCache.set(cardName, imageUrl);
         }
 
         // Create the image container
@@ -65,8 +65,10 @@ document.addEventListener('DOMContentLoaded', function () {
         img.src = cardCache.get(this.textContent);
 
         // Apply the scaling to the image
-        img.style.maxWidth = `${this.imageScalePercent}%`;
-        img.style.maxHeight = 'auto';
+        // img.style.width = `${this.imageScalePercent}%`;
+        // img.style.width = `${this.imageScalePercent}%`;
+        // img.style.height = 'auto'; // Explicit height to maintain aspect
+        // img.style.display = 'block'; // Remove stray spacing
 
         // Append image to container and container to body
         container.appendChild(img);
@@ -93,7 +95,7 @@ document.addEventListener('DOMContentLoaded', function () {
       // Move the image to the bottom-right (or left) of the cursor
       moveImage(event) {
         if (this.previewImg) {
-          const offsetX = 5; // Small distance from cursor to image
+          const offsetX = 5;
           const offsetY = 5;
 
           // Get the scaled width and height of the image
@@ -102,20 +104,25 @@ document.addEventListener('DOMContentLoaded', function () {
 
           // Check space on the right and left of the cursor
           const spaceRight = window.innerWidth - event.pageX;
-          const spaceLeft = event.pageX;
+          const spaceDown = window.innerHeight - event.pageY;
 
           // Position the image to the left if there's not enough space on the right
           if (spaceRight < imgWidth + offsetX) {
-            // When the image is on the left, adjust the offset to bring it closer to the cursor
-            this.previewImg.style.left = `${event.pageX - imgWidth - offsetX}px`; // Left of the cursor
+            // Position the image to the left of the cursor without extra gap
+            this.previewImg.style.left = `${event.pageX - (imgWidth/* * (this.imageScalePercent / 100)*/) - offsetX}px`; // Left of the cursor
           } else {
             this.previewImg.style.left = `${event.pageX + offsetX}px`; // Right of the cursor
           }
 
           // Position the image vertically based on the cursor
-          this.previewImg.style.top = `${event.pageY + offsetY}px`;
+          if (spaceDown < imgHeight + offsetY) {
+            this.previewImg.style.top = `${event.pageY - (imgHeight) - offsetY}px`;
+          } else {
+            this.previewImg.style.top = `${event.pageY + offsetY}px`;
+          }
         }
       }
     });
   }
 });
+

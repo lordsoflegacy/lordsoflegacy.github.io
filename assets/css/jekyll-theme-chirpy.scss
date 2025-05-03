@@ -23,5 +23,12 @@ mtg-card:hover {
 #mtg-card-hover-image-container {
   position: absolute;
   z-index: 9999;
-  pointer-events: none; /* Avoid interfering with mouse events */
+  pointer-events: none;
+  border-radius: 20px;
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+  width: 341.6px;
+  height: 476px;
+  overflow: hidden;
 }
