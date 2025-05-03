@@ -26,18 +26,16 @@ document.addEventListener('DOMContentLoaded', function () {
     customElements.define('mtg-card', class extends HTMLElement {
       constructor() {
         super();
-        this.previewImg = null;
-        this.mouseMoveHandler = this.moveImage.bind(this);
-        this.imageScalePercent = 70;
+        this.cardPreviewImage = null;
+        this.mouseMoveHandler = this.movePreviewImageAccordingToCursorMovement.bind(this);
       }
 
       connectedCallback() {
-        this.addEventListener('mouseover', this.showImage.bind(this));
-        this.addEventListener('mouseout', this.hideImage.bind(this));
+        this.addEventListener('mouseover', this.showPreviewImageOnMouseHover.bind(this));
+        this.addEventListener('mouseout', this.hidePreviewImageOnMouseHover.bind(this));
       }
 
-      // Show the image on mouseover
-      async showImage() {
+      async showPreviewImageOnMouseHover() {
         const cardName = this.textContent;
 
         if (!cardCache.has(cardName)) {
@@ -75,50 +73,45 @@ document.addEventListener('DOMContentLoaded', function () {
         document.body.appendChild(container);
 
         // Store the reference to the image for removal later
-        this.previewImg = container;
+        this.cardPreviewImage = container;
 
         // Add event listener to track mouse movement
         document.addEventListener('mousemove', this.mouseMoveHandler);
       }
 
       // Hide the image on mouseout
-      hideImage() {
-        if (this.previewImg) {
-          this.previewImg.remove();
-          this.previewImg = null;
+      hidePreviewImageOnMouseHover() {
+        if (this.cardPreviewImage) {
+          this.cardPreviewImage.remove();
+          this.cardPreviewImage = null;
 
           // Remove the mousemove listener when done
           document.removeEventListener('mousemove', this.mouseMoveHandler);
         }
       }
 
-      // Move the image to the bottom-right (or left) of the cursor
-      moveImage(event) {
-        if (this.previewImg) {
-          const offsetX = 5;
-          const offsetY = 5;
+      movePreviewImageAccordingToCursorMovement(event) {
+        if (this.cardPreviewImage) {
+          const xOffsetFromCursor = 5;
+          const yOffsetFromCursor = 5;
 
-          // Get the scaled width and height of the image
-          const imgWidth = this.previewImg.offsetWidth;
-          const imgHeight = this.previewImg.offsetHeight;
+          const imageWidth  = this.cardPreviewImage.offsetWidth;
+          const imageHeight = this.cardPreviewImage.offsetHeight;
 
-          // Check space on the right and left of the cursor
-          const spaceRight = window.innerWidth - event.pageX;
-          const spaceDown = window.innerHeight - event.pageY;
+          // By default, the preview image is displayed in the bottom-right offset
+          const freeSpaceToTheRight = window.innerWidth - event.pageX;
+          const freeSpaceBelow = window.innerHeight - event.clientY;
 
-          // Position the image to the left if there's not enough space on the right
-          if (spaceRight < imgWidth + offsetX) {
-            // Position the image to the left of the cursor without extra gap
-            this.previewImg.style.left = `${event.pageX - (imgWidth/* * (this.imageScalePercent / 100)*/) - offsetX}px`; // Left of the cursor
+          if (freeSpaceToTheRight < imageWidth + xOffsetFromCursor) {
+            this.cardPreviewImage.style.left = `${event.pageX - imageWidth - xOffsetFromCursor}px`;
           } else {
-            this.previewImg.style.left = `${event.pageX + offsetX}px`; // Right of the cursor
+            this.cardPreviewImage.style.left = `${event.pageX + xOffsetFromCursor}px`;
           }
 
-          // Position the image vertically based on the cursor
-          if (spaceDown < imgHeight + offsetY) {
-            this.previewImg.style.top = `${event.pageY - (imgHeight) - offsetY}px`;
+          if (freeSpaceBelow < imageHeight + yOffsetFromCursor) {
+            this.cardPreviewImage.style.top = `${event.pageY - imageHeight - yOffsetFromCursor}px`;
           } else {
-            this.previewImg.style.top = `${event.pageY + offsetY}px`;
+            this.cardPreviewImage.style.top = `${event.pageY + yOffsetFromCursor}px`;
           }
         }
       }
