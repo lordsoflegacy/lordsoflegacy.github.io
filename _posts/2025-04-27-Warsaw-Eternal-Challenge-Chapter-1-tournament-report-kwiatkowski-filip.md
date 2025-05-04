@@ -295,7 +295,7 @@ UB Reanimator
 
 ##### Game 1
 
-I lost the die roll and played a very, very long game 1 (around 30 minutes or so), throughout which I felt like I was barely keeping myself alive. We both went down to 8 life. I have &#8288;<mtg-card>Pathwork Automaton</mtg-card>, and he has a flipped Tamiyo, an &#8288;<mtg-card>Orcish Bowmasters</mtg-card> and a 3/3 orc army.
+I lost the die roll and played a very, very long game 1 (around 30 minutes or so), throughout which I felt like I was barely keeping myself alive. We both went down to 8 life. I have &#8288;<mtg-card>Patchwork Automaton</mtg-card>, and he has a flipped Tamiyo, an &#8288;<mtg-card>Orcish Bowmasters</mtg-card> and a 3/3 orc army.
 
 Eventually, I topdecked a &#8288;<mtg-card>Memory Guardian</mtg-card>, which, as I previously mentioned, did not use to feel particularly good. I was, once again, very wrong.
 
