@@ -983,8 +983,8 @@ And, lastly, the following cards were played **only** as a one-of (every single 
 {{ onlyOneofCardList | markdownify }}
 </details>
 
-<br/>
-<small>(Those statistics were generated using [this Kotlin code](/assets/warsaw-eternal-challenge-report/Main.kt) based on decklist data from [this archive](/assets/warsaw-eternal-challenge-report/all_decks.zip).)</small>
+> Those statistics were generated using parts of [this Kotlin code](/assets/warsaw-eternal-challenge-report/Main.kt) paired with decklist data from [this archive](/assets/warsaw-eternal-challenge-report/all_decks.zip)
+{: .prompt-info }
 
 ## Spices
 
