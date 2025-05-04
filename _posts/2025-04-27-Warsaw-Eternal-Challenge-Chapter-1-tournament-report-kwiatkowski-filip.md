@@ -45,7 +45,7 @@ This, paired with a relatively low number of players, meant that people who are 
 
 From here on, I'll focus on my personal perspective of the tournament. We'll go back to a more objective point of view [later in the article](#the-winner).
 
-I registered [the following list](https://moxfield.com/decks/ogGe7IfcpUCYDx1zuGebeA).
+I registered [the following list](https://moxfield.com/decks/ogGe7IfcpUCYDx1zuGebeA):
 
 ```
 1 Aether Spellbomb
