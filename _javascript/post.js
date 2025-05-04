@@ -19,8 +19,6 @@ initTopbar();
 loadMermaid();
 basic();
 
-// const cardCache = new Map();
-
 class MtgCard extends HTMLElement {
   constructor() {
     super();
@@ -31,24 +29,19 @@ class MtgCard extends HTMLElement {
 
   connectedCallback() {
     this.addEventListener('mouseover', this.showPreviewImageOnMouseHover.bind(this));
-    this.addEventListener('mouseout', this.hidePreviewImageOnMouseHover.bind(this));
+    this.addEventListener('mouseout', this.hidePreviewImageOnMouseExiting.bind(this));
   }
 
   async showPreviewImageOnMouseHover(event) {
     this.isVisible = true;
 
-    // Create the image container
-    const container = document.createElement('div');
-    container.classList.add('mtg-card-hover-image-container');
+    this.cardPreviewImage = document.createElement('div');
+    this.cardPreviewImage.classList.add('mtg-card-hover-image-container');
 
     let spinnerLoader = null;
 
-    document.body.appendChild(container);
+    document.body.appendChild(this.cardPreviewImage);
 
-    // Store the reference to the image for removal later
-    this.cardPreviewImage = container;
-
-    // Add event listener to track mouse movement
     document.addEventListener('mousemove', this.mouseMoveHandler);
 
     const cardName = this.textContent;
@@ -57,47 +50,47 @@ class MtgCard extends HTMLElement {
     if (!localStorage.getItem(locallyStoredCardName)) {
       spinnerLoader = document.createElement('span');
       spinnerLoader.classList.add('spinner-loader')
-      container.appendChild(spinnerLoader);
+      this.cardPreviewImage.appendChild(spinnerLoader);
 
-      const baseUrl = 'https://api.scryfall.com/cards/named?exact=';
-      const response = await fetch(`${baseUrl}${cardName}`, {
+      const apiBaseUrlForExactSearch = 'https://api.scryfall.com/cards/named?exact=';
+      const response = await fetch(`${apiBaseUrlForExactSearch}${cardName}`, {
         method: 'GET',
         headers: {
           'Accept': '*/*',
-          'User-Agent': 'Testing for LordsOfLegacyBlog by Fureeish (https://github.com/lordsoflegacy/lordsoflegacy.github.io)'
+          'User-Agent': 'LordsOfLegacy blog by Fureeish (https://github.com/lordsoflegacy/lordsoflegacy.github.io)'
         }
       });
 
-      const data = await response.json();
-      const imageUrl = data["image_uris"].normal;
+      const cardData = await response.json();
+      const cardImageURI = cardData["image_uris"].normal;
 
-      localStorage.setItem(locallyStoredCardName, imageUrl);
+      localStorage.setItem(locallyStoredCardName, cardImageURI);
     }
 
+    // we no longer are hovering over the card name
     if (!this.isVisible) return;
 
-    // Create the image
-    const img = document.createElement('img');
-    img.onload = () => {
+    const cardImage = document.createElement('img');
+    cardImage.onload = () => {
         if (spinnerLoader) {
-          container.removeChild(spinnerLoader)
+          this.cardPreviewImage.removeChild(spinnerLoader)
         }
-        container.appendChild(img);
+
+        this.cardPreviewImage.appendChild(cardImage);
         setTimeout(() => {
           this.movePreviewImageAccordingToCursorMovement(event)
         }, 0);
     };
-    img.src = localStorage.getItem(locallyStoredCardName);
+    cardImage.src = localStorage.getItem(locallyStoredCardName);
   }
 
-  // Hide the image on mouseout
-  hidePreviewImageOnMouseHover() {
+  hidePreviewImageOnMouseExiting() {
     this.isVisible = false;
+
     if (this.cardPreviewImage) {
       this.cardPreviewImage.remove();
       this.cardPreviewImage = null;
 
-      // Remove the mousemove listener when done
       document.removeEventListener('mousemove', this.mouseMoveHandler);
     }
   }

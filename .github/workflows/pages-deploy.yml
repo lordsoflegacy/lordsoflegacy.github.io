@@ -44,9 +44,6 @@ jobs:
           ruby-version: 3.3
           bundler-cache: true
 
-#      - name: Rebuild JS libraries
-#        run: npm install rollup; npm run build:js
-
       - name: Build site
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
         env:
@@ -54,6 +51,7 @@ jobs:
 
       - name: Add CSP for Scryfall API
         run: sed -i "23a <meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'self'\; connect-src 'self' *.scryfall.com>\">" _site${{ steps.pages.outputs.base_path }}/index.html
+
 #      - name: Test site
 #        run: |
 #          bundle exec htmlproofer _site \
