@@ -1,8 +1,8 @@
 ---
-title: Wyniki Ligi Legacy - sezon <span>#0</span>
+title: Legacy League results - season <span>#0</span>
 date: 2025-04-17 18:20:00 +0200
-categories: [Liga Legacy, Sezon 0]
-tags: [wyniki]
+categories: [Legacy League, Season 0]
+tags: [results]
 description: Raport zbiorczych wyników.
 math: true
 pin: true
@@ -10,9 +10,9 @@ pin: true
 
 ---
 
-Obecna punktacja przedstawia się następująco:
+Current scores are as follows:
 
-|  Miejsce  | Imię i nazwisko             | Suma punktów | [1][league-0-1] | [2][league-0-2] | [3][league-0-3] | [4][league-0-4] | [5][league-0-5] |
+|   Place   | Name and surname            | Total points | [1][league-0-1] | [2][league-0-2] | [3][league-0-3] | [4][league-0-4] | [5][league-0-5] |
 |:---------:|-----------------------------|:------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 | $$ 1. $$  | Krzysztof Mazurek           |   $$ 49 $$   |       12        |        7        |        6        |       12        |       12        |
 | $$ 2. $$  | Filip Kwiatkowski           |   $$ 40 $$   |        4        |       12        |        9        |        9        |        6        |
@@ -38,10 +38,10 @@ Obecna punktacja przedstawia się następująco:
 | $$ 22. $$ | Maciej Kołodziejak          |   $$ 0 $$    |        0        |                 |                 |                 |                 |
 | $$ 23. $$ | Andrzej Kwas                |   $$ 0 $$    |                 |                 |                 |        0        |                 |
 
-[league-0-1]: ../Liga-Legacy-0-1
-[league-0-2]: ../Liga-Legacy-0-2
-[league-0-3]: ../Liga-Legacy-0-3
-[league-0-4]: ../Liga-Legacy-0-4
-[league-0-5]: ../Liga-Legacy-0-5
+[league-0-1]: ../Legacy-League-0-1
+[league-0-2]: ../Legacy-League-0-2
+[league-0-3]: ../Legacy-League-0-3
+[league-0-4]: ../Legacy-League-0-4
+[league-0-5]: ../Legacy-League-0-5
 
 ---

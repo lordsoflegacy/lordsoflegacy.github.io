@@ -1,16 +1,16 @@
 ---
-title: Liga Legacy <span>#2</span>
-categories: [Liga Legacy, Sezon 0]
-tags: [meta, wyniki]
-description: Raport wyników oraz mety.
+title: Legacy League <span>#2</span>
+categories: [Legacy League, Season 0]
+tags: [meta, results]
+description: Results and meta report.
 math: true
 ---
 
 ---
 
-Drugi mecz ligowy zakończył się następującymi wynikami:
+The second league FNM ended with the following results:
 
-|  Miejsce  | Imię i nazwisko             | Wynik       | Deck               |
+|   Place   | Name and surname            | Result      | Deck               |
 |:---------:|-----------------------------|-------------|--------------------|
 | $$ 1. $$  | Filip Kwiatkowski           | $$ 4-0-0 $$ | 8-cast             |
 | $$ 2. $$  | Filip Adamczyk              | $$ 3-1-0 $$ | Blue Painter       |

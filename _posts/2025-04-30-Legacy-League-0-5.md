@@ -1,16 +1,16 @@
 ---
-title: Liga Legacy <span>#5</span>
-categories: [Liga Legacy, Sezon 0]
-tags: [meta, wyniki]
-description: Raport wyników oraz mety.
+title: Legacy League <span>#5</span>
+categories: [Legacy League, Season 0]
+tags: [meta, results]
+description: Results and meta report.
 math: true
 ---
 
 ---
 
-Trzeci mecz ligowy zakończył się następującymi wynikami:
+The fifth league FNM ended with the following results:
 
-|  Miejsce  | Imię i nazwisko             | Wynik       | Deck               |
+|   Place   | Name and surname            | Result      | Deck               |
 |:---------:|-----------------------------|-------------|--------------------|
 | $$ 1. $$  | Krzysztof Mazurek           | $$ 4-0-0 $$ | UR Delver          |
 | $$ 2. $$  | Ludwik "Prezes" Jachowicz   | $$ 3-1-0 $$ | Red Painter        |

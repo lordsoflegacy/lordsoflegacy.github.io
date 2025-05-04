@@ -1,16 +1,16 @@
 ---
-title: Liga Legacy <span>#3</span>
-categories: [Liga Legacy, Sezon 0]
-tags: [meta, wyniki]
-description: Raport wyników oraz mety.
+title: Legacy League <span>#3</span>
+categories: [Legacy League, Season 0]
+tags: [meta, results]
+description: Results and meta report.
 math: true
 ---
 
 ---
 
-Trzeci mecz ligowy zakończył się następującymi wynikami:
+The third league FNM ended with the following results:
 
-|  Miejsce  | Imię i nazwisko             | Wynik       | Deck               |
+|   Place   | Name and surname            | Result      | Deck               |
 |:---------:|-----------------------------|-------------|--------------------|
 | $$ 1. $$  | Piotr Szejko                | $$ 4-0-0 $$ | Cradle Control     |
 | $$ 2. $$  | Filip Kwiatkowski           | $$ 3-1-0 $$ | 8-cast             |

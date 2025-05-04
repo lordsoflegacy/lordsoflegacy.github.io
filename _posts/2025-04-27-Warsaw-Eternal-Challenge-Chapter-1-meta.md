@@ -1,32 +1,32 @@
 ---
-title: Warsaw Legacy Challenge <span>#1</span>
+title: Warsaw Legacy Challenge <span>#1</span> - meta report.
 date: 2025-04-27 23:30:00 +0200
 categories: [Warsaw Legacy Challenge, meta]
 tags: [meta]
-description: Raport wyników oraz mety.
+description: Results and meta report.
 math: true
 ---
 
 ---
 
-Meta i decklisty. Decklisty z [top 8](#top-8) zostały dodatkowo dla wygody przeglądających umieszczone na platformie [Moxfield](https://moxfield.com/). Wyniki turnieju (wraz z decklistami) są również dostępne na platformie [mtgtop8](https://www.mtgtop8.com/event?e=67929&f=LE). 
+Meta and decklists. [The top 8 decklists](#top-8) have also been published on the [Moxfield](https://moxfield.com/) platform for convenience. The tournament results (alongside decklists) have also been published on [mtgtop8](https://www.mtgtop8.com/event?e=67929&f=LE). 
 
 ## Top 8
 
-|  Miejsce   | Imię i nazwisko             | Deck                                                                  |
-|:----------:|-----------------------------|-----------------------------------------------------------------------|
-|  $$ 1. $$  | Grzegorz "Dauthi" Jezierski | [BG Shallow Grave](https://moxfield.com/decks/9ka5Dl4IkUq8ZNFA1ZZW0w) |
-|  $$ 2. $$  | Tomasz "tomjab" Jabłoński   | [UB Reanimator](https://moxfield.com/decks/GQ8mZ9SyIk2t7ARsq9CXoQ)    |
-| $$ 3-4. $$ | Maciej "Fidzio" Fidziński   | [RUG Delver](https://moxfield.com/decks/e6-oa4akqUSV-vVBmnhh4A)       |
-| $$ 3-4. $$ | Mariusz Krzywicki           | [Red Painter](https://moxfield.com/decks/31cr_2mPvk2Jd_rpzVxOng)      |
-| $$ 5-8. $$ | Filip Kwiatkowski           | [8-cast](https://moxfield.com/decks/ogGe7IfcpUCYDx1zuGebeA)           |
-| $$ 5-8. $$ | Adam Gerwatowski            | [Nadu Combo](https://moxfield.com/decks/LmqCoD2UJ0OEV14u_Sm8MQ)       |
-| $$ 5-8. $$ | Wiktor Werner               | [UG Show and Tell](https://moxfield.com/decks/wJb9IIiEgkyS3V8Oc8h7KQ) |
-| $$ 5-8. $$ | Marcin Nowakowski           | [RUG Delver](https://moxfield.com/decks/qd53J2NgrUipBVy0tR5b6g)       |
+|   Place    |   | Name and surname            | Deck                                                                  |
+|:----------:|:--|-----------------------------|-----------------------------------------------------------------------|
+|  $$ 1. $$  |   | Grzegorz "Dauthi" Jezierski | [BG Shallow Grave](https://moxfield.com/decks/9ka5Dl4IkUq8ZNFA1ZZW0w) |
+|  $$ 2. $$  |   | Tomasz "tomjab" Jabłoński   | [UB Reanimator](https://moxfield.com/decks/GQ8mZ9SyIk2t7ARsq9CXoQ)    |
+| $$ 3-4. $$ |   | Maciej "Fidzio" Fidziński   | [RUG Delver](https://moxfield.com/decks/e6-oa4akqUSV-vVBmnhh4A)       |
+| $$ 3-4. $$ |   | Mariusz Krzywicki           | [Red Painter](https://moxfield.com/decks/31cr_2mPvk2Jd_rpzVxOng)      |
+| $$ 5-8. $$ |   | Filip Kwiatkowski           | [8-cast](https://moxfield.com/decks/ogGe7IfcpUCYDx1zuGebeA)           |
+| $$ 5-8. $$ |   | Adam Gerwatowski            | [Nadu Combo](https://moxfield.com/decks/LmqCoD2UJ0OEV14u_Sm8MQ)       |
+| $$ 5-8. $$ |   | Wiktor Werner               | [UG Show and Tell](https://moxfield.com/decks/wJb9IIiEgkyS3V8Oc8h7KQ) |
+| $$ 5-8. $$ |   | Marcin Nowakowski           | [RUG Delver](https://moxfield.com/decks/qd53J2NgrUipBVy0tR5b6g)       |
 
-### Decklisty
+### Decklists
 
-Kopie spisów kart bezpośrednio zeskanowane od graczy.
+Copies of decklists supplied by the players.
 
 #### <b>BG Shallow Grave</b> --- <i>Grzegorz "Dauthi" Jezierski</i>
 
@@ -341,11 +341,11 @@ Kopie spisów kart bezpośrednio zeskanowane od graczy.
 ```
 {: file="RUG Delver" }
 
-## Pozostałe wyniki
+## The Rest of the Results
 
-Niestety dostęp do pełnych standingów po Swissie został utracony, ale ówczesne top 16 prezentowało się następująco:
+Unfortunately, the access to full standings after swiss has been lost, but the by-then top 16 presented itself as follows:
 
-|  Miejsce  | Imię i nazwisko             | Deck               |
+|   Place   | Name and surname            | Deck               |
 |:---------:|-----------------------------|--------------------|
 | $$ 1. $$  | Mariusz Krzywicki           | Red Painter        |
 | $$ 2. $$  | Maciej "Fidzio" Fidziński   | RUG Delver         |
@@ -364,9 +364,9 @@ Niestety dostęp do pełnych standingów po Swissie został utracony, ale ówcze
 | $$ 15. $$ | Piotr Szejko                | Cradle Control     |
 | $$ 16. $$ | Mikołaj Machowski           | The Epic Gamble    |
 
-### Decklisty
+### Decklists
 
-Poniżej są zamieszczone decklisty reszty graczy (pomijając [top 8](#top-8)), bez jakiejkolwiek ustalonej kolejności:
+Below you can find all the decklists (excluding [top 8](#top-8)), without any particular order:
 
 #### <b>Doomsday</b> --- <i>Stanisław Olszak</i>
 

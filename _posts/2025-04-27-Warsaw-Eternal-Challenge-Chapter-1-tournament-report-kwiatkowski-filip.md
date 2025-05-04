@@ -1,5 +1,5 @@
 ---
-title: Warsaw Eternal Challenge - Legacy Tournament Report (🇬🇧)
+title: Warsaw Eternal Challenge - Legacy Tournament Report
 date: 2025-04-28 00:00:00 +0200
 categories: [Personal, Filip Kwiatkowski]
 tags: [tournament report]
@@ -9,13 +9,10 @@ math: true
 
 ---
 
-> This article is written in English, which is not the predominant language used on this website. This is because the text is aimed at the broader audience due to the nature of the event.
-{: .prompt-warning }
-
 > This article's purpose is twofold --- it serves as a tournament report from the perspective of an 8-cast player and as a general overview of the event. For those who seek just the former, [click here to skip to the appropriate section](#the-tournament-from-the-first-person-perspective).
 {: .prompt-info }
 
-## Legacy scene in Poland
+## Legacy Scene in Poland
 
 Warsaw is the capital of Poland, which means:
 
@@ -29,7 +26,7 @@ Legacy has had its ups and downs in terms of its active player base, but thanks 
 
 it (alongside Premodern) is starting to see a resurgence here. We (Polish players and tournament organizers) are not yet able to draw the attention and attendance of foreign players, but we certainly aim to get there sooner rather than later.
 
-### Warsaw Eternal Challenge - Filip Pawłowski's initiative
+### Warsaw Eternal Challenge - Filip Pawłowski's Initiative
 
 Taking place at the rapidly growing and flourishing local game store (LGS) [CentrumMTG](https://www.centrum-mtg.com.pl/), Warsaw Eternal Challenge managed to gather 40 Premodern and 29 Legacy players. These numbers, at least according to the shared gut feeling of many, are only to keep growing, perhaps even to double in the not-so-distant future.
 
@@ -44,7 +41,7 @@ The stakes were raised after it was announced that the winner will be granted an
 
 This, paired with a relatively low number of players, meant that people who are knowledgeable about others' preferences may be much better prepared. Personally, I expected a little bit more Show and Tells (there were only 2), but other than that, I feel like I managed to predict the meta quite well. 
 
-## The tournament from the first-person perspective
+## The Tournament from the First-Person Perspective
 
 From here on, I'll focus on my personal perspective of the tournament. We'll go back to a more objective point of view [later in the article](#the-winner).
 
@@ -92,7 +89,7 @@ It's worth mentioning that Legacy has faced some important bans recently. [&#828
 
 So, despite not being certain which deck I would be playing, I felt happy thanks to those bans.
 
-### My experience
+### My Experience
 
 It's worth noting that I have played very little Magic for the last 1.5 years. Occasionally, I'd show up at my friend's house to play a bit of mixed Eternal formats, but that was it. I didn't have much free time. Fortunately, that changed in April. I started attending local Legacy FNMs[^wednesday], and I've been doing [pretty][1] [okay][2] [there][3].
 
@@ -112,31 +109,23 @@ Because of this, having experimented with Blue Painter (which I believe to be mu
 
 Let's talk about some of my deckbuilding decisions:
 
-#### 1. &#8288;<mtg-card>Clown Car</mtg-card> is, most of the time, better than &#8288;<mtg-card>Urza's Bauble</mtg-card>.
-Yes, the Bauble draws cards and the Car doesn't. Paired with Emry, it becomes an engine that may be the sole reason a game becomes winnable at all. But the Car produces more artifacts and/or bigger threats. I feel like four &#8288;<mtg-card>Mishra's Bauble</mtg-card>s is enough to fuel Emry. Numerous times I was enabled to make a powerful play thanks to the fact that Car produced extra artifacts. Those mainly involved using &#8288;<mtg-card>Metallic Rebuke</mtg-card>s. But, on the other hand, it may be the case that 4--4 split between &#8288;<mtg-card>Clown Car</mtg-card> and &#8288;<mtg-card>Mishra's Bauble</mtg-card> should become an X--Y--4 split between &#8288;<mtg-card>Clown Car</mtg-card>, &#8288;<mtg-card>Urza's Bauble</mtg-card>, and &#8288;<mtg-card>Mishra's Bauble</mtg-card>. This would require more testing and fine-tuning.
+&#8288;<mtg-card>Clown Car</mtg-card> is, most of the time, better than &#8288;<mtg-card>Urza's Bauble</mtg-card>.
+: Yes, the Bauble draws cards and the Car doesn't. Paired with Emry, it becomes an engine that may be the sole reason a game becomes winnable at all. But the Car produces more artifacts and/or bigger threats. I feel like four &#8288;<mtg-card>Mishra's Bauble</mtg-card>s is enough to fuel Emry. Numerous times I was enabled to make a powerful play thanks to the fact that Car produced extra artifacts. Those mainly involved using &#8288;<mtg-card>Metallic Rebuke</mtg-card>s. But, on the other hand, it may be the case that 4--4 split between &#8288;<mtg-card>Clown Car</mtg-card> and &#8288;<mtg-card>Mishra's Bauble</mtg-card> should become an X--Y--4 split between &#8288;<mtg-card>Clown Car</mtg-card>, &#8288;<mtg-card>Urza's Bauble</mtg-card>, and &#8288;<mtg-card>Mishra's Bauble</mtg-card>. This would require more testing and fine-tuning.
 
-#### 2. &#8288;<mtg-card>Metallic Rebuke</mtg-card> is great.
-In my opinion, 8-cast rarely has explosive _comebacks_. It does have explosive _starts_, but rarely comebacks. Because of that, if I win a game, that is usually either because of an opponent-overwhelming start or a slow game with a decent threat backed up by countermagic. &#8288;<mtg-card>Force of Will</mtg-card> is great, but it also results in card disadvantage. Rebukes don't. Rebuke is good.
+&#8288;<mtg-card>Metallic Rebuke</mtg-card> is great.
+: In my opinion, 8-cast rarely has explosive _comebacks_. It does have explosive _starts_, but rarely comebacks. Because of that, if I win a game, that is usually either because of an opponent-overwhelming start or a slow game with a decent threat backed up by countermagic. &#8288;<mtg-card>Force of Will</mtg-card> is great, but it also results in card disadvantage. Rebukes don't. Rebuke is good.
 
-#### 3. I wish I played more &#8288;<mtg-card>Memory Guardian</mtg-card>s.
-&#8288;<mtg-card>Memory Guardian</mtg-card> is great. I did not appreciate it at first. At least not to the point it deserves. It's cheap, it blocks big things (maybe not late-game &#8288;<mtg-card>Barrowgoyf</mtg-card>-level big, but still), flies over creatures to kill relevant planeswalkers, swings for last remaining points of damage once our opponents deal with our previous threats, etc. And it cheaply fuels &#8288;<mtg-card>Patchwork Automaton</mtg-card>, which, I think, is the card that makes the deck.
+I wish I played more &#8288;<mtg-card>Memory Guardian</mtg-card>s.
+: &#8288;<mtg-card>Memory Guardian</mtg-card> is great. I did not appreciate it at first. At least not to the point it deserves. It's cheap, it blocks big things (maybe not late-game &#8288;<mtg-card>Barrowgoyf</mtg-card>-level big, but still), flies over creatures to kill relevant planeswalkers, swings for last remaining points of damage once our opponents deal with our previous threats, etc. And it cheaply fuels &#8288;<mtg-card>Patchwork Automaton</mtg-card>, which, I think, is the card that makes the deck.
 
-#### 4. &#8288;<mtg-card>Lavaspur Boots</mtg-card> elevate the deck almost to the level matching &#8288;<mtg-card>Patchwork Automaton</mtg-card> (or sometimes even more).
-You certainly are aware of the typical &#8288;<mtg-card>Urza's Saga</mtg-card> 🡒 make 2 &#8288;<mtg-card>Construct</mtg-card>s 🡒 get boots 🡒 swing for millions[^thrabenu]. But do you know how often you can play &#8288;<mtg-card>Emry, Lurker of the Loch</mtg-card>, attach &#8288;<mtg-card>Lavaspur Boots</mtg-card> to it, immediately get value, play second Emry, keep it, mill 4 more cards, reattach boots and get _even more value_?
+&#8288;<mtg-card>Lavaspur Boots</mtg-card> elevate the deck almost to the level matching &#8288;<mtg-card>Patchwork Automaton</mtg-card> (or sometimes even more).
+: You certainly are aware of the typical &#8288;<mtg-card>Urza's Saga</mtg-card> 🡒 make 2 &#8288;<mtg-card>Construct</mtg-card>s 🡒 get boots 🡒 swing for millions[^thrabenu]. But do you know how often you can play &#8288;<mtg-card>Emry, Lurker of the Loch</mtg-card>, attach &#8288;<mtg-card>Lavaspur Boots</mtg-card> to it, immediately get value, play second Emry, keep it, mill 4 more cards, reattach boots and get _even more value_?<br/><br/>Yes, this happened. During the tournament. More than once.
 
-Yes, this happened. During the tournament. More than once.
+I'd love to have maybe one more &#8288;<mtg-card>Metallic Rebuke</mtg-card>, maybe one more &#8288;<mtg-card>Sink into Stupor</mtg-card>, maybe more &#8288;<mtg-card>Memory Guardian</mtg-card>s, but I really liked having that many Saga targets in the maindeck.
+: And it does not feel bad to draw them. Well, at least not when it's the opening hand. Many decks struggle against T1 &#8288;<mtg-card>Aether Spellbomb</mtg-card>. Many decks would attempt to &#8288;<mtg-card>Wasteland</mtg-card> us, which T1 &#8288;<mtg-card>Pithing Needle</mtg-card> stops. Or maybe you simply know that your opponent plays Sneak and Show or relies on &#8288;<mtg-card>Grindstone</mtg-card> and you just name that.<br/><br/>Those plays are especially powerful when deployed with T1 &#8288;<mtg-card>Urza's Saga</mtg-card> (which paired with T2 &#8288;<mtg-card>Ancient Tomb</mtg-card> becomes a great win condition on its own).
 
-#### 5. I'd love to have maybe one more &#8288;<mtg-card>Metallic Rebuke</mtg-card>, maybe one more &#8288;<mtg-card>Sink into Stupor</mtg-card>, maybe more &#8288;<mtg-card>Memory Guardian</mtg-card>s, but I really liked having that many Saga targets in the maindeck.
-And it does not feel bad to draw them. Well, at least not when it's the opening hand. Many decks struggle against T1 &#8288;<mtg-card>Aether Spellbomb</mtg-card>. Many decks would attempt to &#8288;<mtg-card>Wasteland</mtg-card> us, which T1 &#8288;<mtg-card>Pithing Needle</mtg-card> stops. Or maybe you simply know that your opponent plays Sneak and Show or relies on &#8288;<mtg-card>Grindstone</mtg-card> and you just name that.
-
-Those plays are especially powerful when deployed with T1 &#8288;<mtg-card>Urza's Saga</mtg-card> (which paired with T2 &#8288;<mtg-card>Ancient Tomb</mtg-card> becomes a great win condition on its own).
-
-#### 6. &#8288;<mtg-card>Disruptor Flute</mtg-card> is great against &#8288;<mtg-card>Show and Tell</mtg-card>-based decks, which I expected to face more than I actually did.
-It's just amazing. Sometimes it just stops &#8288;<mtg-card>Sneak Attack</mtg-card>. Sometimes it makes &#8288;<mtg-card>Show and Tell</mtg-card> cost 9 mana. Yes, this happened. During the tournament. More than once[^once].
-
-I remember a Magic Online game where I had double Fluted on &#8288;<mtg-card>Show and Tell</mtg-card>. The opponent, during their turn, cast &#8288;<mtg-card>Echoing Truth</mtg-card> targeting one. We fought a counterwar, but I barely lost. It resolved. Then came the &#8288;<mtg-card>Show and Tell</mtg-card>. Knowing that 1) if they simply put a creature, I win due to overwhelming board presence; 2) if they put &#8288;<mtg-card>Omniscience</mtg-card> and cast Emrakul / Atraxa, I most likely lose, I responded by recasting one Flute, naming Atraxa. Then, thanks to &#8288;<mtg-card>Show and Tell</mtg-card> resolving, I put the second Flute naming Emrakul. The Opponent put in &#8288;<mtg-card>Omniscience</mtg-card> and conceded the game.
-
-Flute is also arguably decent against Nadu or other things like that. Maybe. Never faced it.
+&#8288;<mtg-card>Disruptor Flute</mtg-card> is great against &#8288;<mtg-card>Show and Tell</mtg-card>-based decks, which I expected to face more than I actually did.
+: It's just amazing. Sometimes it just stops &#8288;<mtg-card>Sneak Attack</mtg-card>. Sometimes it makes &#8288;<mtg-card>Show and Tell</mtg-card> cost 9 mana. Yes, this happened. During the tournament. More than once[^once].<br/><br/>I remember a Magic Online game where I had double Fluted on &#8288;<mtg-card>Show and Tell</mtg-card>. The opponent, during their turn, cast &#8288;<mtg-card>Echoing Truth</mtg-card> targeting one. We fought a counterwar, but I barely lost. It resolved. Then came the &#8288;<mtg-card>Show and Tell</mtg-card>. Knowing that 1) if they simply put a creature, I win due to overwhelming board presence; 2) if they put &#8288;<mtg-card>Omniscience</mtg-card> and cast Emrakul / Atraxa, I most likely lose, I responded by recasting one Flute, naming Atraxa. Then, thanks to &#8288;<mtg-card>Show and Tell</mtg-card> resolving, I put the second Flute naming Emrakul. The Opponent put in &#8288;<mtg-card>Omniscience</mtg-card> and conceded the game.<br/><br/>Flute is also arguably decent against Nadu or other things like that. Maybe. Never faced it.
 
 [^thrabenu]: First 3m40s of [this video](https://youtu.be/oSBiYT5gF8s?si=1T5BVpd7IaalBA6i).
 [^once]: Okay, it actually happened _just once_ during the tournamnet, but it also happened during a Magic Online League (and since I played 3 in total, that frequency seems relevant), and during an FNM a week ago.
@@ -147,7 +136,7 @@ This is the moment where I lose all credibility --- everything I've said thus fa
 
 I joined the [8-cast Discord](https://discord.gg/26GeYKYtM5) server and received great help, mainly from ItsSchwiftyTime. I pondered some ideas, reported some results, ~~stole~~borrowed some decklists, and practiced.
 
-#### Local events
+#### Local Events
 
 With 8-cast, I managed to go $$ 4 - 0 $$, $$ 3 - 1 $$ and $$ 3 - 1 $$ in locals. Losing, twice, only to Cradle Control. It's a tough matchup. On one hand, I wish I could play more &#8288;<mtg-card>Dismember</mtg-card>s, but on the other, why devote that many sideboard slots to a matchup we're likely losing anyway.
 
@@ -200,7 +189,7 @@ My opponent lead with a colored mana source and cast &#8288;<mtg-card>Ponder</mt
 
 - [x] Game 2: Win
 
-##### Current result:
+##### Current Result:
 
 $$ 1 - 0 $$
 
@@ -244,7 +233,7 @@ This game took very long. We also both missed a &#8288;<mtg-card>Mishra's Bauble
 
 No changes to the sideboard. We had very little time to finish this round, and we didn't manage to do so. The match was a draw.
 
-##### Current result:
+##### Current Result:
 
 $$ 1 - 0 - 1 $$
 
@@ -282,7 +271,7 @@ I kept a non-explosive hand, but one that can power through a longer game. I cas
 
 - [x] Game 2: Win
 
-##### Current result:
+##### Current Result:
 
 $$ 2 - 0 - 1 $$
 
@@ -332,7 +321,7 @@ Which means that I somehow managed to heavily employ &#8288;<mtg-card>Ancient To
 
 - [x] Game 2: Win
 
-##### Current result:
+##### Current Result:
 
 $$ 3 - 0 - 1 $$
 
@@ -351,7 +340,7 @@ $$ 3 - 0 - 2 $$
 
 ### Top 8
 
-[The top 8 meta](Warsaw-Eternal-Challenge-Chapter-1/) didn't seem that favorable to me, and, in my opinion, I am paired with the worst of any possible matchups from that mix.
+[The top 8 meta](Warsaw-Eternal-Challenge-Chapter-1/) didn't seem that favorable to me, and, in my opinion, I am paired with the worst of any possible matchups from that mix during my first top 8 match.
 
 ![Top8](/assets/warsaw-eternal-challenge-report/img/top8.JPG){: width="835" height="730" .w-75 }
 _Going left-to-right: Mariusz Krzywicki (Red Painter), Grzegorz "Dauthi" Jezierski (GB Shallow Grave), Wiktor Werner (UG Show and Tell), Tomasz "tomjab" Jabłoński (UB Reanimator), (<em>below</em>) Marcin Nowakowski (RUG Delver), (<em>up again</em>) Adam Gerwatowski (Nadu Combo), Filip Kwiatkowski (8-cast), and Maciej "Fidzio" Fidziński (RUG Delver)_

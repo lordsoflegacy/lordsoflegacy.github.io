@@ -1,16 +1,16 @@
 ---
-title: Liga Legacy <span>#1</span>
-categories: [Liga Legacy, Sezon 0]
-tags: [meta, wyniki]
-description: Raport wyników oraz mety.
+title: Legacy League <span>#1</span>
+categories: [Legacy League, Season 0]
+tags: [meta, results]
+description: Results and meta report.
 math: true
 ---
 
 ---
 
-Pierwszy mecz ligowy zakończył się następującymi wynikami:
+The first league FNM ended with the following results:
 
-|  Miejsce  | Imię i nazwisko             | Wynik       | Deck               |
+|   Place   | Name and surname            | Result      | Deck               |
 |:---------:|-----------------------------|-------------|--------------------|
 | $$ 1. $$  | Krzysztof Mazurek           | $$ 4-0-0 $$ | RUG Delver         |
 | $$ 2. $$  | Piotr Szejko                | $$ 3-1-1 $$ | UB Tempo           |
