@@ -95,9 +95,9 @@ It's worth noting that I have played very little Magic for the last 1.5 years. O
 
 [^wednesday]: _Friday_ Night Magic, but hosted on Wednesdays.
 
-[1]: ../Liga-Legacy-0-2
-[2]: ../Liga-Legacy-0-3
-[3]: ../Liga-Legacy-0-4
+[1]: ../Legacy-League-0-2
+[2]: ../Legacy-League-0-3
+[3]: ../Legacy-League-0-4
 
 ### 8-cast
 
