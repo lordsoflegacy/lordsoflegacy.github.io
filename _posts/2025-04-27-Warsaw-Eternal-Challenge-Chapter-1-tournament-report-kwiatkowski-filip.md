@@ -343,7 +343,7 @@ $$ 3 - 0 - 2 $$
 [The top 8 meta](Warsaw-Eternal-Challenge-Chapter-1/) didn't seem that favorable to me, and, in my opinion, I am paired with the worst of any possible matchups from that mix during my first top 8 match.
 
 ![Top8](/assets/warsaw-eternal-challenge-report/img/top8.JPG){: width="835" height="730" .w-75 }
-_Going left-to-right: Mariusz Krzywicki (Red Painter), Grzegorz "Dauthi" Jezierski (GB Shallow Grave), Wiktor Werner (UG Show and Tell), Tomasz "tomjab" Jabłoński (UB Reanimator), (<em>below</em>) Marcin Nowakowski (RUG Delver), (<em>up again</em>) Adam Gerwatowski (Nadu Combo), Filip Kwiatkowski (8-cast), and Maciej "Fidzio" Fidziński (RUG Delver)_
+_Going left-to-right: Mariusz Krzywicki (Red Painter), Grzegorz "Dauthi" Jezierski (BG Shallow Grave), Wiktor Werner (UG Show and Tell), Tomasz "tomjab" Jabłoński (UB Reanimator), (<em>below</em>) Marcin Nowakowski (RUG Delver), (<em>up again</em>) Adam Gerwatowski (Nadu Combo), Filip Kwiatkowski (8-cast), and Maciej "Fidzio" Fidziński (RUG Delver)_
 
 #### Quick loss to BG Shallow Grave
 
@@ -406,7 +406,7 @@ _Grzegorz "Dauthi" Jezierski - winner of Warsaw Legacy Challenge vol. 1_
 It was great to see both relatively new and seasoned players. People come and go, but it's always sad to see dedicated players losing interest. That's why the presence of the format veterans was such a pleasurable experience.
 
 ![People](/assets/warsaw-eternal-challenge-report/img/fidzio-i-grzesiek.JPG){: width="835" height="730" .w-75 }
-_Maciej "Fidzio" Fidziński (left, piloting RUG Delver) and Grzegorz "Dauthi" Jezierski (right, piloting GB Shallow Grave)_
+_Maciej "Fidzio" Fidziński (left, piloting RUG Delver) and Grzegorz "Dauthi" Jezierski (right, piloting BG Shallow Grave)_
 
 ![People](/assets/warsaw-eternal-challenge-report/img/jabol.JPG){: width="835" height="730" .w-75 }
 _Tomasz "tomjab" Jabłoński, very sneakily piloting UB Reanimator_
