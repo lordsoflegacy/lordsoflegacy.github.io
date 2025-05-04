@@ -9,7 +9,7 @@ math: true
 
 ---
 
-> This article's purpose is twofold --- it serves as a tournament report from the perspective of an 8-cast player and as a general overview of the event. For those who seek just the former, [click here to skip to the appropriate section](#the-tournament-from-the-first-person-perspective).
+> This article's purpose is twofold---it serves as a tournament report from the perspective of an 8-cast player and as a general overview of the event. For those who seek just the former, [click here to skip to the appropriate section](#the-tournament-from-the-first-person-perspective).
 {: .prompt-info }
 
 ## Legacy Scene in Poland
@@ -37,7 +37,7 @@ From here on, I'll focus only on the Legacy tournament.
 
 ### European Legacy Masters (ELM)
 
-The stakes were raised after it was announced that the winner will be granted an ELM spot. To some, it didn't matter (they either would or wouldn't have attended the hosting event regardless), but to others it was an additional reason to step up their game. One thing was certain --- everyone would be playing their best, choosing the deck they are most likely to perform best with. This had an interesting consequence --- since in Legacy familiarity with the format and its staples matters greatly, it's more likely for someone to pick a deck they _know_ rather than a top "meta" deck they are unfamiliar with.
+The stakes were raised after it was announced that the winner will be granted an ELM spot. To some, it didn't matter (they either would or wouldn't have attended the hosting event regardless), but to others it was an additional reason to step up their game. One thing was certain---everyone would be playing their best, choosing the deck they are most likely to perform best with. This had an interesting consequence---since in Legacy familiarity with the format and its staples matters greatly, it's more likely for someone to pick a deck they _know_ rather than a top "meta" deck they are unfamiliar with.
 
 This, paired with a relatively low number of players, meant that people who are knowledgeable about others' preferences may be much better prepared. Personally, I expected a little bit more Show and Tells (there were only 2), but other than that, I feel like I managed to predict the meta quite well. 
 
@@ -85,7 +85,7 @@ I registered [the following list](https://moxfield.com/decks/ogGe7IfcpUCYDx1zuGe
 
 ### Bans
 
-It's worth mentioning that Legacy has faced some important bans recently. [&#8288;<mtg-card>Sowing Mycospawn</mtg-card> and &#8288;<mtg-card>Troll of Khazad-dûm</mtg-card> were banned less than a month ago](https://magic.wizards.com/en/news/announcements/banned-and-restricted-announcement-march-31-2025). This, for me, was great news. Not because of any particular deck that I was playing --- to summarize it (perhaps oversimplifying), I think the Troll simply offered too great of a consistency to a very powerful game plan, and Mycospawn led to extremely unfun and non-interactive play patterns<sup><sup>[just like one other historic card, albeit being a different kind of "anti-fun"](https://magic.wizards.com/en/news/announcements/april-24-2017-banned-and-restricted-announcement-2017-04-24)</sup></sup>.
+It's worth mentioning that Legacy has faced some important bans recently. [&#8288;<mtg-card>Sowing Mycospawn</mtg-card> and &#8288;<mtg-card>Troll of Khazad-dûm</mtg-card> were banned less than a month ago](https://magic.wizards.com/en/news/announcements/banned-and-restricted-announcement-march-31-2025). This, for me, was great news. Not because of any particular deck that I was playing---to summarize it (perhaps oversimplifying), I think the Troll simply offered too great of a consistency to a very powerful game plan, and Mycospawn led to extremely unfun and non-interactive play patterns<sup><sup>[just like one other historic card, albeit being a different kind of "anti-fun"](https://magic.wizards.com/en/news/announcements/april-24-2017-banned-and-restricted-announcement-2017-04-24)</sup></sup>.
 
 So, despite not being certain which deck I would be playing, I felt happy thanks to those bans.
 
@@ -132,7 +132,7 @@ I'd love to have maybe one more &#8288;<mtg-card>Metallic Rebuke</mtg-card>, may
 
 ### Preparation
 
-This is the moment where I lose all credibility --- everything I've said thus far has been thought-out and honest, but experience matters, and I, unfortunately, do not have much of it. Prior to this tournament I have played, in total, 12 paper matches and 15 online matches with this iteration of 8-cast. This all spanned over a month. This is **very little**. So please, don't take this article as a guide --- instead, treat it as a very personalized set of opinions.
+This is the moment where I lose all credibility---everything I've said thus far has been thought-out and honest, but experience matters, and I, unfortunately, do not have much of it. Prior to this tournament I have played, in total, 12 paper matches and 15 online matches with this iteration of 8-cast. This all spanned over a month. This is **very little**. So please, don't take this article as a guide---instead, treat it as a very personalized set of opinions.
 
 I joined the [8-cast Discord](https://discord.gg/26GeYKYtM5) server and received great help, mainly from ItsSchwiftyTime. I pondered some ideas, reported some results, ~~stole~~borrowed some decklists, and practiced.
 
@@ -155,7 +155,7 @@ The tournament began. It has officially started at 10:00 and was meant to span o
 ![People](/assets/warsaw-eternal-challenge-report/img/ludziki.JPG){: width="835" height="730" .w-75 }
 _Clockwise, starting from top-left: Krzysiek Mazurek (UR Delver), Mikołaj Wyspiański (Mono U Jewel), Piotr Szejko (Cradle Control), and Arkadiusz Chojaczyk (Merfolk)_
 
-It's worth mentioning that I skipped a crucial step in preparation --- making a sideboard guide. I would definitely recommend having one. Nevertheless, having played for a couple of hours the previous day and having analyzed the meta, I felt decently prepared.
+It's worth mentioning that I skipped a crucial step in preparation---making a sideboard guide. I would definitely recommend having one. Nevertheless, having played for a couple of hours the previous day and having analyzed the meta, I felt decently prepared.
 
 #### Round 1
 
@@ -225,7 +225,7 @@ I lost a die roll, but managed to overpower him with &#8288;<mtg-card>Urza's Sag
 
 I was on the play, but I couldn't establish a powerful board. I didn't get any &#8288;<mtg-card>Shadowspear</mtg-card>s because two of my &#8288;<mtg-card>Urza's Saga</mtg-card>s ate a &#8288;<mtg-card>Wasteland</mtg-card> each. Ultimately, I lost to a flying threat. Flipped &#8288;<mtg-card>Tamiyo, Seasoned Scholar</mtg-card> made me unable to race him, despite otherwise it being a real possibility.
 
-This game took very long. We also both missed a &#8288;<mtg-card>Mishra's Bauble</mtg-card> trigger --- one just after the other. I don't know if him being able to draw that card would've changed much --- ditto for me.
+This game took very long. We also both missed a &#8288;<mtg-card>Mishra's Bauble</mtg-card> trigger---one just after the other. I don't know if him being able to draw that card would've changed much---ditto for me.
 
 - [ ] Game 2: Loss
 
@@ -332,7 +332,7 @@ RUG Delver
 
 Maciej is my good friend with whom I'm part of the [Black Bordered Boomers](https://bbb.black/) group[^bbb-challenge-2]. To my surprise, we are paired on the first table, meaning that we are at the very top of the leaderboard. Because of this, we intentionally draw (ID) the match and await for the top 8.
 
-[^bbb-challenge-2]: Stay tuned for our Challenge --- Episode 2, where we are going to be hosting an Old School, Premodern, and Legacy tournaments, where among other prizes you can win dual lands! It's going to be organized during the second half of September 2025.
+[^bbb-challenge-2]: Stay tuned for our Challenge---Episode 2, where we are going to be hosting an Old School, Premodern, and Legacy tournaments, where among other prizes you can win dual lands! It's going to be organized during the second half of September 2025.
 
 ##### Final result after Swiss:
 
@@ -384,7 +384,7 @@ I don't know. I like playing it, and I feel like the deck offers some impressive
 
 But maybe I'm incorrect to look at it from this very perspective. Maybe, despite the aforementioned deck having access to so many cantrips, 8-cast, due to its cohesion of multidimensional synergistic cards, actually presents narrower variance. It sounds weird, but...
 
-...but _I simply don't know_. I haven't really played UB Reanimator. I actually have played very little in the current meta --- at most a hundred matches. Maybe if I pick up a "more meta" deck, I will suddenly have the same realization to when I switched from Karn Echo to 8-cast when the latter was still in its glory days. I thought "_wow, decks should be doing that much that well and that consistently?_".
+...but _I simply don't know_. I haven't really played UB Reanimator. I actually have played very little in the current meta---at most a hundred matches. Maybe if I pick up a "more meta" deck, I will suddenly have the same realization to when I switched from Karn Echo to 8-cast when the latter was still in its glory days. I thought "_wow, decks should be doing that much that well and that consistently?_".
 
 But the deck felt good. _I_ felt good playing it. I felt like I had a chance against pretty much any matchup, especially in longer games.
 
@@ -779,7 +779,7 @@ On the other hand, there were 184 cards that were played as "one-of"s:
 </details>
 
 <br/>
-And the following cards were played **only** as a playset (every single time this card occurred in a decklist, it was **always** a four-of (potentially split between maindeck and sideboard)) --- there were 71 of them:
+And the following cards were played **only** as a playset (every single time this card occurred in a decklist, it was **always** a four-of (potentially split between maindeck and sideboard))---there were 71 of them:
 
 {% capture onlyPlaysetCardList %}
 - &#8288;<mtg-card>Force of Will</mtg-card>
@@ -997,7 +997,7 @@ This tournament would not have been possible without the extensive effort of the
 - Filip Pawłowski, for seeing this tournament to the end. From start to finish, he managed to plan, organize and coordinate the entire event. Legacy in Poland would not have been the same without you.
 - CentrumMTG, for hosting the event in a concealed, yet approachable and cozy place. It's great to see what an amazing LGS you are becoming.
 - MagicTown, for sponsoring some of the prizes and for supplying players with staples from Eternal formats.
-- The ELM Team, for providing a slot for the most prestige Legacy event in Europe, or --- perhaps --- in the whole current world.
+- The ELM Team, for providing a slot for the most prestige Legacy event in Europe, or---perhaps---in the whole current world.
 
 I'm sure many people share my appreciation for the aforementioned. You are doing a great job, everyone. Keep it up!
 
