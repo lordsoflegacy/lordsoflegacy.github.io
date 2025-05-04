@@ -24,6 +24,6 @@ The fourth league FNM ended with the following results:
 | $$ 10. $$ | Andrzej Kwas                | $$ 0-4-0 $$ | Grixis Sneak and Show |
 | $$ 11. $$ | Filip Adamczyk              | $$ 0-2-0 $$ | Blue Painter          |
 
-[^otters]: &#8288;<mtg-card>Stormchaser's Talent</mtg-card>, &#8288;<mtg-card>Cori-Steel Cutter</mtg-card>, &#8288;<mtg-card>Staff of the Storyteller</mtg-card>. Coś podobnego do [tego](https://www.mtgtop8.com/event?e=66054&d=699667&f=LE).
+[^otters]: &#8288;<mtg-card>Stormchaser's Talent</mtg-card>, &#8288;<mtg-card>Cori-Steel Cutter</mtg-card>, &#8288;<mtg-card>Staff of the Storyteller</mtg-card>. Something similar to  [this](https://www.mtgtop8.com/event?e=66054&d=699667&f=LE).
 
 ---
