@@ -8,7 +8,7 @@ math: true
 
 ---
 
-The second league FNM ended with the following results:
+The league's second FNM ended with the following results:
 
 |   Place   | Name and surname            | Result      | Deck               |
 |:---------:|-----------------------------|-------------|--------------------|

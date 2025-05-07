@@ -8,7 +8,7 @@ math: true
 
 ---
 
-The third league FNM ended with the following results:
+The league's third FNM ended with the following results:
 
 |   Place   | Name and surname            | Result      | Deck               |
 |:---------:|-----------------------------|-------------|--------------------|

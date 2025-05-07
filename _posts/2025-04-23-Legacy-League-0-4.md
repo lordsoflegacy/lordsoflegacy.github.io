@@ -8,7 +8,7 @@ math: true
 
 ---
 
-The fourth league FNM ended with the following results:
+The league's fourth FNM ended with the following results:
 
 |   Place   | Name and surname            | Result      | Deck                  |
 |:---------:|-----------------------------|-------------|-----------------------|

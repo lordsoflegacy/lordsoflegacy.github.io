@@ -8,7 +8,7 @@ math: true
 
 ---
 
-The first league FNM ended with the following results:
+The league's first FNM ended with the following results:
 
 |   Place   | Name and surname            | Result      | Deck               |
 |:---------:|-----------------------------|-------------|--------------------|

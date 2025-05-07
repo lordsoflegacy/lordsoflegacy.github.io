@@ -8,7 +8,7 @@ math: true
 
 ---
 
-The fifth league FNM ended with the following results:
+The league's fifth FNM ended with the following results:
 
 |   Place   | Name and surname            | Result      | Deck               |
 |:---------:|-----------------------------|-------------|--------------------|
