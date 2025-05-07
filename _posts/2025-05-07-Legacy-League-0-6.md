@@ -1,5 +1,5 @@
 ---
-title: Legacy League <span>#5</span>
+title: Legacy League <span>#6</span>
 categories: [Legacy League, Season 0]
 tags: [meta, results]
 description: Results and meta report.
