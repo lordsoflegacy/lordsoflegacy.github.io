@@ -30,7 +30,7 @@ Current scores are as follows:
 | $$ 14. $$ | Bartosz Litwin              |   $$ 12 $$   |        3        |        3        |        0        |        6        |                 |        0        |                 |
 | $$ 15. $$ | Ziemowit Strużyna           |   $$ 12 $$   |                 |                 |                 |        3        |        9        |                 |                 |
 | $$ 16. $$ | Mikołaj Wyspiański          |   $$ 12 $$   |        9        |                 |                 |                 |                 |                 |        3        |
-| $$ 17. $$ | Rafał Mikołajczuk           |   $$ 9 $$    |                 |                 |                 |                 |        6        |        3        |                 |
+| $$ 17. $$ | Rafał Mikołajczuk           |   $$ 10 $$   |                 |                 |                 |                 |        7        |        3        |                 |
 | $$ 18. $$ | Błażej Ruba                 |   $$ 7 $$    |        1        |                 |                 |                 |        6        |                 |                 |
 | $$ 19. $$ | Adam Kwak                   |   $$ 6 $$    |                 |                 |                 |        6        |                 |                 |                 |
 | $$ 20. $$ | Arkadiusz Podgórni          |   $$ 6 $$    |        6        |                 |                 |                 |                 |                 |                 |
