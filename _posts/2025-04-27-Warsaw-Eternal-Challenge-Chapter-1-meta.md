@@ -15,7 +15,7 @@ Meta and decklists. [The top 8 decklists](#top-8) have also been published on th
 
 |   Place    |   | Name and surname            | Deck                                                                  |
 |:----------:|:--|-----------------------------|-----------------------------------------------------------------------|
-|  $$ 1. $$  |   | Grzegorz "Dauthi" Jezierski | [BG Shallow Grave](https://moxfield.com/decks/9ka5Dl4IkUq8ZNFA1ZZW0w) |
+|  $$ 1. $$  |   | Grzegorz "Dauthi" Jezierski | [GB Shallow Grave](https://moxfield.com/decks/9ka5Dl4IkUq8ZNFA1ZZW0w) |
 |  $$ 2. $$  |   | Tomasz "tomjab" Jabłoński   | [UB Reanimator](https://moxfield.com/decks/GQ8mZ9SyIk2t7ARsq9CXoQ)    |
 | $$ 3-4. $$ |   | Maciej "Fidzio" Fidziński   | [RUG Delver](https://moxfield.com/decks/e6-oa4akqUSV-vVBmnhh4A)       |
 | $$ 3-4. $$ |   | Mariusz Krzywicki           | [Red Painter](https://moxfield.com/decks/31cr_2mPvk2Jd_rpzVxOng)      |
@@ -28,7 +28,7 @@ Meta and decklists. [The top 8 decklists](#top-8) have also been published on th
 
 Copies of decklists supplied by the players.
 
-#### <b>BG Shallow Grave</b> --- <i>Grzegorz "Dauthi" Jezierski</i>
+#### <b>GB Shallow Grave</b> --- <i>Grzegorz "Dauthi" Jezierski</i>
 
 ```
 2 Archon of Cruelty
@@ -352,11 +352,11 @@ Unfortunately, the access to full standings after swiss has been lost, but the b
 | $$ 3. $$  | Filip Kwiatkowski           | 8-cast             |
 | $$ 4. $$  | Adam Gerwatowski            | Nadu Combo         |
 | $$ 5. $$  | Tomasz "tomjab" Jabłoński   | UB Reanimator      |
-| $$ 6. $$  | Grzegorz "Dauthi" Jezierski | BG Shallow Grave   |
+| $$ 6. $$  | Grzegorz "Dauthi" Jezierski | GB Shallow Grave   |
 | $$ 7. $$  | Wiktor Werner               | UG Show and Tell   |
 | $$ 8. $$  | Marcin Nowakowski           | RUG Delver         |
 | $$ 9. $$  | Stanisław Olszak            | Doomsday           |
-| $$ 10. $$ | Antoine Albertelli          | WB Death and Taxes |
+| $$ 10. $$ | Antoine Albertelli          | BW Death and Taxes |
 | $$ 11. $$ | Sylwester Strużyna          | Sneak and Show     |
 | $$ 12. $$ | Ziemowit Strużyna           | Red Painter        |
 | $$ 13. $$ | Filip Pawłowski             | BUG Food Chain     |
@@ -747,7 +747,7 @@ Below you can find all the decklists (excluding [top 8](#top-8)), without any pa
 ```
 {: file="UG Food Chain" }
 
-#### <b>WB Death and Taxes</b> --- <i>Antoine Albertelli</i>
+#### <b>BW Death and Taxes</b> --- <i>Antoine Albertelli</i>
 
 ```
 4 Aether Vial
@@ -789,7 +789,7 @@ Below you can find all the decklists (excluding [top 8](#top-8)), without any pa
 1 Grafdigger's Cage
 1 Pithing Needle
 ```
-{: file="WB Death and Taxes" }
+{: file="BW Death and Taxes" }
 
 #### <b>Lands</b> --- <i>Arkadiusz Podgórni</i>
 

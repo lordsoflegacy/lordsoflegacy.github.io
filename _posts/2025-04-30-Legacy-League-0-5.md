@@ -12,7 +12,7 @@ The league's fifth FNM ended with the following results:
 
 |   Place   | Name and surname            | Result      | Deck               |
 |:---------:|-----------------------------|-------------|--------------------|
-| $$ 1. $$  | Krzysztof Mazurek           | $$ 4-0-0 $$ | UR Delver          |
+| $$ 1. $$  | Krzysztof Mazurek           | $$ 4-0-0 $$ | UR Cori            |
 | $$ 2. $$  | Ludwik "Prezes" Jachowicz   | $$ 3-1-0 $$ | Red Painter        |
 | $$ 3. $$  | Ziemowit Strużyna           | $$ 3-1-0 $$ | Red Painter        |
 | $$ 4. $$  | Sylwester Strużyna          | $$ 3-1-0 $$ | UB Reanimator      |
@@ -21,7 +21,7 @@ The league's fifth FNM ended with the following results:
 | $$ 7. $$  | Waldemar Piekarz            | $$ 2-2-0 $$ | Bant Nadu          |
 | $$ 8. $$  | Grzegorz "Dauthi" Jezierski | $$ 2-2-0 $$ | UW Dreadnaught     |
 | $$ 9. $$  | Błażej Ruba                 | $$ 2-2-0 $$ | 4c Beanstalk       |
-| $$ 10. $$ | Antoine Albertelli          | $$ 1-2-1 $$ | WB Death and Taxes |
+| $$ 10. $$ | Antoine Albertelli          | $$ 1-2-1 $$ | BW Death and Taxes |
 | $$ 11. $$ | Marcin Nowakowski           | $$ 1-3-0 $$ | RUG Delver         |
 | $$ 12. $$ | Tomasz Dąbrowski            | $$ 1-3-0 $$ | Oops All Spells    |
 | $$ 13. $$ | Filip Adamczyk              | $$ 1-3-0 $$ | Jeskai Control     |

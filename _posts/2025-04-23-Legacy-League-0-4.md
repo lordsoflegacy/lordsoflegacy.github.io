@@ -12,8 +12,8 @@ The league's fourth FNM ended with the following results:
 
 |   Place   | Name and surname            | Result      | Deck                  |
 |:---------:|-----------------------------|-------------|-----------------------|
-| $$ 1. $$  | Krzysztof Mazurek           | $$ 4-0-0 $$ | UR Delver             |
-| $$ 2. $$  | Piotr Szejko                | $$ 3-1-0 $$ | Cradle Control        |
+| $$ 1. $$  | Krzysztof Mazurek           | $$ 4-0-0 $$ | UR Cori               |
+| $$ 2. $$  | Piotr Szejko                | $$ 3-1-0 $$ | BG Midrange           |
 | $$ 3. $$  | Grzegorz "Dauthi" Jezierski | $$ 3-1-0 $$ | UR Aggro[^otters]     |
 | $$ 4. $$  | Filip Kwiatkowski           | $$ 3-1-0 $$ | 8-cast                |
 | $$ 5. $$  | Sylwester Strużyna          | $$ 2-2-0 $$ | UR Sneak and Show     |

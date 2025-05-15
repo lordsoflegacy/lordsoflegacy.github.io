@@ -31,7 +31,7 @@ it (alongside Premodern) is starting to see a resurgence here. We (Polish player
 Taking place at the rapidly growing and flourishing local game store (LGS) [CentrumMTG](https://www.centrum-mtg.com.pl/), Warsaw Eternal Challenge managed to gather 40 Premodern and 29 Legacy players. These numbers, at least according to the shared gut feeling of many, are only to keep growing, perhaps even to double in the not-so-distant future.
 
 ![jezierski-vs-struzyna_z](/assets/warsaw-eternal-challenge-report/img/jezierski-vs-struzyna_z.JPG){: width="835" height="730" .w-75 }
-_Grzegorz "Dauthi" Jezierski (left), piloting BG Shallow Grave, facing Ziemowit Strużyna (right) piloting Red Painter_
+_Grzegorz "Dauthi" Jezierski (left), piloting GB Shallow Grave, facing Ziemowit Strużyna (right) piloting Red Painter_
 
 From here on, I'll focus only on the Legacy tournament.
 
@@ -343,11 +343,11 @@ $$ 3 - 0 - 2 $$
 [The top 8 meta](Warsaw-Eternal-Challenge-Chapter-1/) didn't seem that favorable to me, and, in my opinion, I am paired with the worst of any possible matchups from that mix during my first top 8 match.
 
 ![Top8](/assets/warsaw-eternal-challenge-report/img/top8.JPG){: width="835" height="730" .w-75 }
-_Going left-to-right: Mariusz Krzywicki (Red Painter), Grzegorz "Dauthi" Jezierski (BG Shallow Grave), Wiktor Werner (UG Show and Tell), Tomasz "tomjab" Jabłoński (UB Reanimator), (<em>below</em>) Marcin Nowakowski (RUG Delver), (<em>up again</em>) Adam Gerwatowski (Nadu Combo), Filip Kwiatkowski (8-cast), and Maciej "Fidzio" Fidziński (RUG Delver)_
+_Going left-to-right: Mariusz Krzywicki (Red Painter), Grzegorz "Dauthi" Jezierski (GB Shallow Grave), Wiktor Werner (UG Show and Tell), Tomasz "tomjab" Jabłoński (UB Reanimator), (<em>below</em>) Marcin Nowakowski (RUG Delver), (<em>up again</em>) Adam Gerwatowski (Nadu Combo), Filip Kwiatkowski (8-cast), and Maciej "Fidzio" Fidziński (RUG Delver)_
 
-#### Quick loss to BG Shallow Grave
+#### Quick loss to GB Shallow Grave
 
-BG Shallow Grave
+GB Shallow Grave
 : ~ Grzegorz "Dauthi" Jezierski
 
 My notes for each game say:
@@ -368,7 +368,7 @@ That's it. That concludes my journey in this tournament with 8-cast. As for the 
 -1 Pithing Needle
 -1 Thought Monitor
 ```
-{: file="vs. BG Shallow Grave" .nolineno }
+{: file="vs. GB Shallow Grave" .nolineno }
 
 Grzegorz is a great and versatile player. He plays in many formats, he plays many different decks and knows all of them pretty well. No shame in losing to him, especially given the matchup.
 
@@ -388,7 +388,7 @@ But maybe I'm incorrect to look at it from this very perspective. Maybe, despite
 
 But the deck felt good. _I_ felt good playing it. I felt like I had a chance against pretty much any matchup, especially in longer games.
 
-There are exceptions, of course. Because of the lack of traditional cantrips and "safe" card advantage, I don't feel comfortable playing against all-in combo decks such as Doomsday, Oops, or the nemesistic BG Shallow Grave (and Cradle Control...). Nowadays, those decks are way more consistent than they used to. If I aggressively mulligan for counters, I feel like they can rebuild quicker, especially since mulliganing implies having access to fewer cards. If I don't, I usually end up with a possibly great-feeling hand that has a good mix of interaction and board presence. Then they just overpower me with just enough discard / protection and combo off anyway.
+There are exceptions, of course. Because of the lack of traditional cantrips and "safe" card advantage, I don't feel comfortable playing against all-in combo decks such as Doomsday, Oops, or the nemesistic GB Shallow Grave (and Cradle Control...). Nowadays, those decks are way more consistent than they used to. If I aggressively mulligan for counters, I feel like they can rebuild quicker, especially since mulliganing implies having access to fewer cards. If I don't, I usually end up with a possibly great-feeling hand that has a good mix of interaction and board presence. Then they just overpower me with just enough discard / protection and combo off anyway.
 
 But maybe it's variance. Maybe it should not be like this, and in my experiences I have just been unlucky.
 
@@ -396,7 +396,7 @@ But, again, on the other hand, it may as well mean that I was simply lucky to wi
 
 ### The winner
 
-Grzegorz "Dauthi" Jezierski, piloting his [BG Shallow Grave](https://moxfield.com/decks/9ka5Dl4IkUq8ZNFA1ZZW0w), after [defeating me in our first match of the top 8](#quick-loss-to-bg-shallow-grave), managed to beat both Mariusz Krzywicki's [Red Painter](https://moxfield.com/decks/31cr_2mPvk2Jd_rpzVxOng) and Tomasz "tomjab" Jabłoński's [UB Reanimator](https://moxfield.com/decks/GQ8mZ9SyIk2t7ARsq9CXoQ), earning his spot in the next ELM and winning a signed &#8288;<mtg-card>Show and Tell</mtg-card> playmat:
+Grzegorz "Dauthi" Jezierski, piloting his [GB Shallow Grave](https://moxfield.com/decks/9ka5Dl4IkUq8ZNFA1ZZW0w), after [defeating me in our first match of the top 8](#quick-loss-to-bg-shallow-grave), managed to beat both Mariusz Krzywicki's [Red Painter](https://moxfield.com/decks/31cr_2mPvk2Jd_rpzVxOng) and Tomasz "tomjab" Jabłoński's [UB Reanimator](https://moxfield.com/decks/GQ8mZ9SyIk2t7ARsq9CXoQ), earning his spot in the next ELM and winning a signed &#8288;<mtg-card>Show and Tell</mtg-card> playmat:
 
 ![People](/assets/warsaw-eternal-challenge-report/img/grzegorz.JPG){: width="835" height="730" .w-75 }
 _Grzegorz "Dauthi" Jezierski - winner of Warsaw Legacy Challenge vol. 1_
@@ -406,7 +406,7 @@ _Grzegorz "Dauthi" Jezierski - winner of Warsaw Legacy Challenge vol. 1_
 It was great to see both relatively new and seasoned players. People come and go, but it's always sad to see dedicated players losing interest. That's why the presence of the format veterans was such a pleasurable experience.
 
 ![People](/assets/warsaw-eternal-challenge-report/img/fidzio-i-grzesiek.JPG){: width="835" height="730" .w-75 }
-_Maciej "Fidzio" Fidziński (left, piloting RUG Delver) and Grzegorz "Dauthi" Jezierski (right, piloting BG Shallow Grave)_
+_Maciej "Fidzio" Fidziński (left, piloting RUG Delver) and Grzegorz "Dauthi" Jezierski (right, piloting GB Shallow Grave)_
 
 ![People](/assets/warsaw-eternal-challenge-report/img/jabol.JPG){: width="835" height="730" .w-75 }
 _Tomasz "tomjab" Jabłoński, very sneakily piloting UB Reanimator_
