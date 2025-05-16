@@ -153,7 +153,7 @@ Unfortunately, it comes with a cost. You need to buy or borrow cards. I opted fo
 The tournament began. It has officially started at 10:00 and was meant to span over five rounds + top 8. For now, I will focus on reporting my results, my thoughts, and interpreting my notes taken throughout the games.
 
 ![People](/assets/warsaw-eternal-challenge-report/img/ludziki.JPG){: width="835" height="730" .w-75 }
-_Clockwise, starting from top-left: Krzysiek Mazurek (UR Delver), Mikołaj Wyspiański (Mono U Jewel), Piotr Szejko (Cradle Control), and Arkadiusz Chojaczyk (Merfolk)_
+_Clockwise, starting from top-left: Krzysztof Mazurek (UR Cori), Mikołaj Wyspiański (Mono U Jewel), Piotr Szejko (Cradle Control), and Arkadiusz Chojaczyk (Merfolk)_
 
 It's worth mentioning that I skipped a crucial step in preparation---making a sideboard guide. I would definitely recommend having one. Nevertheless, having played for a couple of hours the previous day and having analyzed the meta, I felt decently prepared.
 

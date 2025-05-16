@@ -360,7 +360,7 @@ Unfortunately, the access to full standings after swiss has been lost, but the b
 | $$ 11. $$ | Sylwester Strużyna          | Sneak and Show     |
 | $$ 12. $$ | Ziemowit Strużyna           | Red Painter        |
 | $$ 13. $$ | Filip Pawłowski             | BUG Food Chain     |
-| $$ 14. $$ | Krzysztof Mazurek           | UR Delver          |
+| $$ 14. $$ | Krzysztof Mazurek           | UR Cori            |
 | $$ 15. $$ | Piotr Szejko                | Cradle Control     |
 | $$ 16. $$ | Mikołaj Machowski           | The Epic Gamble    |
 
@@ -991,7 +991,7 @@ Below you can find all the decklists (excluding [top 8](#top-8)), without any pa
 ```
 {: file="Bant Nadu" }
 
-#### <b>UR Delver</b> --- <i>Krzysztof Mazurek</i>
+#### <b>UR Cori</b> --- <i>Krzysztof Mazurek</i>
 
 ```
 1 Brazen Borrower // Petty Theft
