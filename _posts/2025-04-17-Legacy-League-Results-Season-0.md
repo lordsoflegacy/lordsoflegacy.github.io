@@ -20,13 +20,13 @@ Current scores are as follows:
 | $$ 4. $$  | Filip Kwiatkowski           |   $$ 52 $$   |        4        |       12        |        9        |        9        |        6        |        6        |        6        |
 | $$ 5. $$  | Piotr Szejko                |   $$ 49 $$   |        9        |        3        |       12        |        9        |                 |        7        |        9        |
 | $$ 6. $$  | Filip Adamczyk              |   $$ 36 $$   |        3        |        9        |        6        |        0        |        3        |        6        |        9        |
-| $$ 7. $$  | Maciej Staniszewski         |   $$ 26 $$   |        9        |        7        |        6        |                 |                 |        4        |        0        |
-| $$ 8. $$  | Tomasz Dąbrowski            |   $$ 26 $$   |        4        |        1        |        9        |                 |        3        |        3        |        6        |
-| $$ 9. $$  | Sylwester Strużyna          |   $$ 24 $$   |        3        |                 |        3        |        6        |        9        |                 |        3        |
-| $$ 10. $$ | Jeremiasz "Yerba" Lubimow   |   $$ 24 $$   |        6        |        6        |        3        |                 |                 |        6        |        3        |
-| $$ 11. $$ | Filip Pawłowski             |   $$ 21 $$   |                 |        6        |                 |                 |                 |        9        |        6        |
-| $$ 12. $$ | Antoine Albertelli          |   $$ 21 $$   |        5        |                 |        6        |                 |        3        |                 |        7        |
-| $$ 13. $$ | Marcin Nowakowski           |   $$ 18 $$   |        4        |        1        |        3        |                 |        3        |        3        |        4        |
+| $$ 7. $$  | Maciej Staniszewski         |   $$ 29 $$   |        9        |        7        |        6        |                 |                 |        4        |        3        |
+| $$ 8. $$  | Jeremiasz "Yerba" Lubimow   |   $$ 27 $$   |        6        |        6        |        3        |                 |                 |        6        |        6        |
+| $$ 9. $$  | Tomasz Dąbrowski            |   $$ 26 $$   |        4        |        1        |        9        |                 |        3        |        3        |        6        |
+| $$ 10. $$ | Sylwester Strużyna          |   $$ 24 $$   |        3        |                 |        3        |        6        |        9        |                 |        3        |
+| $$ 11. $$ | Antoine Albertelli          |   $$ 23 $$   |        5        |                 |        6        |                 |        3        |                 |        9        |
+| $$ 12. $$ | Filip Pawłowski             |   $$ 21 $$   |                 |        6        |                 |                 |                 |        9        |        6        |
+| $$ 13. $$ | Marcin Nowakowski           |   $$ 20 $$   |        4        |        1        |        3        |                 |        3        |        3        |        6        |
 | $$ 14. $$ | Bartosz Litwin              |   $$ 12 $$   |        3        |        3        |        0        |        6        |                 |        0        |                 |
 | $$ 15. $$ | Ziemowit Strużyna           |   $$ 12 $$   |                 |                 |                 |        3        |        9        |                 |                 |
 | $$ 16. $$ | Mikołaj Wyspiański          |   $$ 12 $$   |        9        |                 |                 |                 |                 |                 |        3        |
