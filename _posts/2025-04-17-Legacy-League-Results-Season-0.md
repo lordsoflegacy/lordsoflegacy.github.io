@@ -48,6 +48,6 @@ Current scores are as follows:
 [league-0-6]: ../Legacy-League-0-6
 [league-0-7]: ../Legacy-League-0-7
 [league-0-8]: ../Legacy-League-0-8
-[league-0-8]: ../Legacy-League-0-9
+[league-0-9]: ../Legacy-League-0-9
 
 ---
