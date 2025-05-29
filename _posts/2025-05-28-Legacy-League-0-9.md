@@ -19,7 +19,7 @@ The league's ninth FNM ended with the following results:
 | $$ 5. $$  | Grzegorz "Dauthi" Jezierski | $$ 2-2-0 $$ | BUG Reanimator          |
 | $$ 6. $$  | Jeremiasz "Yerba" Lubomir   | $$ 2-2-0 $$ | Pox                     |
 | $$ 7. $$  | Filip Adamczyk              | $$ 2-2-0 $$ | Jeskai Control          |
-| $$ 8. $$  | Bartosz Litwin              | $$ 2-2-0 $$ | UR Draco Blast          |
+| $$ 8. $$  | Bartosz Litwin              | $$ 2-2-0 $$ | Grixis Show and Blast   |
 | $$ 9. $$  | Tomasz Dąbrowski            | $$ 1-2-1 $$ | Esper Saga Control      |
 | $$ 10. $$ | Marcin Nowakowski           | $$ 1-3-0 $$ | 4c Punishing Waterfalls |
 | $$ 11. $$ | Maciej Staniszewski         | $$ 0-3-1 $$ | 4c Beanstalk            |
