@@ -14,7 +14,7 @@ The league's sixth FNM ended with the following results:
 |:---------:|-----------------------------|-------------|------------------|
 | $$ 1. $$  | Krzysztof Mazurek           | $$ 4-0-0 $$ | UR Cori          |
 | $$ 2. $$  | Filip Pawłowski             | $$ 3-1-0 $$ | UG Show and Tell |
-| $$ 3. $$  | Ludwik "Prezes" Jachowicz   | $$ 3-1-0 $$ | Red Painter      |
+| $$ 3. $$  | Ludwik "Explor" Jachowicz   | $$ 3-1-0 $$ | Red Painter      |
 | $$ 4. $$  | Grzegorz "Dauthi" Jezierski | $$ 3-1-0 $$ | UW Dreadnaught   |
 | $$ 5. $$  | Piotr Szejko                | $$ 2-1-1 $$ | BG Midrange      |
 | $$ 6. $$  | Filip Adamczyk              | $$ 2-2-0 $$ | Esper Control    |

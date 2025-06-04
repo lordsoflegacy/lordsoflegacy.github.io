@@ -15,7 +15,7 @@ The league's third FNM ended with the following results:
 | $$ 1. $$  | Piotr Szejko                | $$ 4-0-0 $$ | BG Midrange        |
 | $$ 2. $$  | Filip Kwiatkowski           | $$ 3-1-0 $$ | 8-cast             |
 | $$ 3. $$  | Tomasz Dąbrowski            | $$ 3-1-0 $$ | UG Show and Tell   |
-| $$ 4. $$  | Ludwik "Prezes" Jachowicz   | $$ 3-1-0 $$ | Blue Painter       |
+| $$ 4. $$  | Ludwik "Explor" Jachowicz   | $$ 3-1-0 $$ | Blue Painter       |
 | $$ 5. $$  | Grzegorz "Dauthi" Jezierski | $$ 3-1-0 $$ | Beanstalk Miracles |
 | $$ 6. $$  | Maciej Staniszewski         | $$ 2-2-0 $$ | BUG Beanstalk      |
 | $$ 7. $$  | Filip Adamczyk              | $$ 2-2-0 $$ | Blue Painter       |

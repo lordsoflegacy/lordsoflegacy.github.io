@@ -17,7 +17,7 @@ The league's first FNM ended with the following results:
 | $$ 3. $$  | Grzegorz "Dauthi" Jezierski | $$ 3-1-1 $$ | Beanstalk Miracles |
 | $$ 4. $$  | Maciej Staniszewski         | $$ 3-1-1 $$ | BUG Beanstalk      |
 | $$ 5. $$  | Mikołaj Wyspiański          | $$ 3-1-1 $$ | Mono U Jewel       |
-| $$ 6. $$  | Ludwik "Prezes" Jachowicz   | $$ 2-2-0 $$ | Blue Painter       |
+| $$ 6. $$  | Ludwik "Explor" Jachowicz   | $$ 2-2-0 $$ | Blue Painter       |
 | $$ 7. $$  | Arkadiusz Podgórni          | $$ 2-2-0 $$ | GW Lands           |
 | $$ 8. $$  | Jeremiasz "Yerba" Lubimow   | $$ 2-2-0 $$ | Pox                |
 | $$ 9. $$  | Antoine Albertelli          | $$ 1-1-2 $$ | BW Death and Taxes |

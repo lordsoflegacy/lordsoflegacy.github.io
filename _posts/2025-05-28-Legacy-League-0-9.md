@@ -13,7 +13,7 @@ The league's ninth FNM ended with the following results:
 |   Place   | Name and surname            | Result      | Deck                    |
 |:---------:|-----------------------------|-------------|-------------------------|
 | $$ 1. $$  | Krzysztof Mazurek           | $$ 4-0-0 $$ | UR Cori                 |
-| $$ 2. $$  | Ludwik "Prezes" Jachowicz   | $$ 3-1-0 $$ | RW Energy               |
+| $$ 2. $$  | Ludwik "Explor" Jachowicz   | $$ 3-1-0 $$ | RW Energy               |
 | $$ 3. $$  | Piotr Szejko                | $$ 3-1-0 $$ | BG Midrange             |
 | $$ 4. $$  | Filip Kwiatkowski           | $$ 2-2-0 $$ | UB Reanimator           |
 | $$ 5. $$  | Grzegorz "Dauthi" Jezierski | $$ 2-2-0 $$ | BUG Reanimator          |

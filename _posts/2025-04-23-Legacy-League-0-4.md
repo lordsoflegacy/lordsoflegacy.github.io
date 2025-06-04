@@ -18,7 +18,7 @@ The league's fourth FNM ended with the following results:
 | $$ 4. $$  | Filip Kwiatkowski           | $$ 3-1-0 $$ | 8-cast                |
 | $$ 5. $$  | Sylwester Strużyna          | $$ 2-2-0 $$ | UR Sneak and Show     |
 | $$ 6. $$  | Adam Kwak                   | $$ 2-2-0 $$ | BG Elves!             |
-| $$ 7. $$  | Ludwik "Prezes" Jachowicz   | $$ 2-2-0 $$ | Blue Painter          |
+| $$ 7. $$  | Ludwik "Explor" Jachowicz   | $$ 2-2-0 $$ | Blue Painter          |
 | $$ 8. $$  | Bartosz Litwin              | $$ 2-2-0 $$ | UG Infect             |
 | $$ 9. $$  | Ziemowit Strużyna           | $$ 1-3-0 $$ | Blue Painter          |
 | $$ 10. $$ | Andrzej Kwas                | $$ 0-4-0 $$ | Grixis Sneak and Show |

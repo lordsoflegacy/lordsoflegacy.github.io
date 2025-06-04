@@ -19,7 +19,7 @@ The league's second FNM ended with the following results:
 | $$ 5. $$  | Grzegorz "Dauthi" Jezierski | $$ 2-2-0 $$ | 4c Rhino Cascade   |
 | $$ 6. $$  | Jeremiasz "Yerba" Lubimow   | $$ 2-2-0 $$ | Pox                |
 | $$ 6. $$  | Filip Pawłowski             | $$ 2-2-0 $$ | 4c Beanstalk       |
-| $$ 7. $$  | Ludwik "Prezes" Jachowicz   | $$ 2-2-0 $$ | Blue Painter       |
+| $$ 7. $$  | Ludwik "Explor" Jachowicz   | $$ 2-2-0 $$ | Blue Painter       |
 | $$ 8. $$  | Bartosz Litwin              | $$ 1-3-0 $$ | UG Infect          |
 | $$ 9. $$  | Piotr Szejko                | $$ 1-2-0 $$ | BW Death and Taxes |
 | $$ 10. $$ | Tomasz Dąbrowski            | $$ 0-2-1 $$ | Jeskai Wizards     |

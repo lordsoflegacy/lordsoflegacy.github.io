@@ -13,7 +13,7 @@ The league's fifth FNM ended with the following results:
 |   Place   | Name and surname            | Result      | Deck               |
 |:---------:|-----------------------------|-------------|--------------------|
 | $$ 1. $$  | Krzysztof Mazurek           | $$ 4-0-0 $$ | UR Cori            |
-| $$ 2. $$  | Ludwik "Prezes" Jachowicz   | $$ 3-1-0 $$ | Red Painter        |
+| $$ 2. $$  | Ludwik "Explor" Jachowicz   | $$ 3-1-0 $$ | Red Painter        |
 | $$ 3. $$  | Ziemowit Strużyna           | $$ 3-1-0 $$ | Red Painter        |
 | $$ 4. $$  | Sylwester Strużyna          | $$ 3-1-0 $$ | UB Reanimator      |
 | $$ 5. $$  | Rafał Mikołajczuk           | $$ 2-1-1 $$ | RUG Delver         |

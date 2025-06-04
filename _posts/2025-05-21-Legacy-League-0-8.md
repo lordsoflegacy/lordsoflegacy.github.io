@@ -13,7 +13,7 @@ The league's eighth FNM ended with the following results:
 |   Place   | Name and surname            | Result      | Deck                    |
 |:---------:|-----------------------------|-------------|-------------------------|
 | $$ 1. $$  | Krzysztof Mazurek           | $$ 4-0-0 $$ | UR Cori                 |
-| $$ 2. $$  | Ludwik "Prezes" Jachowicz   | $$ 3-1-0 $$ | RW Energy               |
+| $$ 2. $$  | Ludwik "Explor" Jachowicz   | $$ 3-1-0 $$ | RW Energy               |
 | $$ 3. $$  | Filip Kwiatkowski           | $$ 3-1-0 $$ | UB Reanimator           |
 | $$ 4. $$  | Piotr Szejko                | $$ 3-1-0 $$ | BG Midrange             |
 | $$ 5. $$  | Maciej Staniszewski         | $$ 2-2-0 $$ | 4c Beanstalk            |
