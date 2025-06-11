@@ -25,6 +25,6 @@ The league's eleventh FNM ended with the following results:
 | $$ 11. $$ | Filip Adamczyk              | $$ 1-3-0 $$ | 4c Beanstalk   |
 | $$ 12. $$ | Rafał Mikołajczuk           | $$ 1-3-0 $$ | Sneak and Show |
 | $$ 13. $$ | Sylwester Strużyna          | $$ 1-3-0 $$ | Red Painter    |
-| $$ 14. $$ | Filip Pawłowski             | $$ 1-3-0 $$ | BUG Nic Fit    |
+| $$ 14. $$ | Filip Pawłowski             | $$ 1-3-0 $$ | Smog Fit       |
 
 ---
