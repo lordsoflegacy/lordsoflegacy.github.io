@@ -20,9 +20,10 @@ The league's third FNM ended with the following results:
 | $$ 6. $$  | Maciej Staniszewski         | $$ 2-2-0 $$ | BUG Beanstalk      |
 | $$ 7. $$  | Filip Adamczyk              | $$ 2-2-0 $$ | Blue Painter       |
 | $$ 8. $$  | Antoine Albertelli          | $$ 2-2-0 $$ | BW Death and Taxes |
-| $$ 9. $$  | Jeremiasz "Yerba" Lubimow   | $$ 1-3-0 $$ | Pox                |
-| $$ 10. $$ | Sylwester Strużyna          | $$ 1-2-0 $$ | Red Painter        |
-| $$ 11. $$ | Marcin Nowakowski           | $$ 1-3-0 $$ | Aluren             |
-| $$ 12. $$ | Bartosz Litwin              | $$ 0-4-0 $$ | Zombies            |
+| $$ 9. $$  | Krzysztof Mazurek           | $$ 2-2-0 $$ | UR Cori            |
+| $$ 10. $$ | Jeremiasz "Yerba" Lubimow   | $$ 1-3-0 $$ | Pox                |
+| $$ 11. $$ | Sylwester Strużyna          | $$ 1-2-0 $$ | Red Painter        |
+| $$ 12. $$ | Marcin Nowakowski           | $$ 1-3-0 $$ | Aluren             |
+| $$ 13. $$ | Bartosz Litwin              | $$ 0-4-0 $$ | Zombies            |
 
 ---
