@@ -18,7 +18,7 @@ The league's third FNM ended with the following results:
 | $$ 4. $$  | Ludwik "Explor" Jachowicz   | $$ 3-1-0 $$ | Blue Painter       |
 | $$ 5. $$  | Grzegorz "Dauthi" Jezierski | $$ 3-1-0 $$ | Beanstalk Miracles |
 | $$ 6. $$  | Maciej Staniszewski         | $$ 2-2-0 $$ | BUG Beanstalk      |
-| $$ 7. $$  | Filip Adamczyk              | $$ 2-2-0 $$ | Blue Painter       |
+| $$ 7. $$  | Filip Adamczyk              | $$ 2-2-0 $$ | Blue Mystic Forge  |
 | $$ 8. $$  | Antoine Albertelli          | $$ 2-2-0 $$ | BW Death and Taxes |
 | $$ 9. $$  | Krzysztof Mazurek           | $$ 2-2-0 $$ | UR Cori            |
 | $$ 10. $$ | Jeremiasz "Yerba" Lubimow   | $$ 1-3-0 $$ | Pox                |
