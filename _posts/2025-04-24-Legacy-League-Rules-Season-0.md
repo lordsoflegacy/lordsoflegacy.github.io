@@ -52,11 +52,14 @@ Unless the store organizing the FNM introduces any changes, all pairings are dis
 
 For every FNM and for certain achievements in this League season, the following prizes are distributed:
 
-1. For each FNM, store credit is distributed among the top players. Typically, a significant portion goes to the player that ended up in the first place, while the remaining pool is shared among players who scored at least $$ \mathbf{X}-1 $$.
+1. For each FNM, store credit is distributed among the top players. The majority of the winnings goes to the player that finished in the first place, while the remaining pool is shared among other players who scored at least $$ \mathbf{X}-1 $$.
 2. For each FNM, the store may distribute mini-boosters, which are to be redrafted (draft order follows that FNM's standings).
-3. At the end of the season, the following prizes are awarded[^gib-info]:
+3. At the end of the season, the following prizes are awarded:
+  - Top 1: &#8288;<mtg-card>The Monarch</mtg-card> token to be signed and kept throughout every league season, later to be passed on to the next season's winner.
+  - Top 4: Redraft of playsets of the following cards in Japanese language: &#8288;<mtg-card>Stoneforge Mystic</mtg-card> (WWK), &#8288;<mtg-card>Tarmogoyf</mtg-card> (TSR), &#8288;<mtg-card>Daze</mtg-card> (EMA), &#8288;<mtg-card>Mishra's Bauble</mtg-card> (2XM). Players pick playsets, not individual cards. One playset per player.
+  - Top 5: One MTG booster each, to be opened. A player whose rare + foil card has the **lowest** combined value (according to [Cardmarket](https://www.cardmarket.com/en/Magic)'s price trend) is additionally given a Hareruya playmat.
+  - Top 15: Lords of Legacy foil tokens: &#8288;<mtg-card>Orc Army</mtg-card> and &#8288;<mtg-card>Clue</mtg-card>.
+  - All the remaining players who participated in this season: Lords of Legacy tokens: &#8288;<mtg-card>Orc Army</mtg-card> and &#8288;<mtg-card>Clue</mtg-card>.
 4. The first person to score at least 20 points (or in the case of a tie, the first to surpass their tied opponents---the "last man standing") wins a unique version of the card &#8288;<mtg-card>Surgical Extraction</mtg-card>.
-
-[^gib-info]: Waiting on info from Filip <i class="fa-solid fa-face-grin-beam-sweat"></i>
 
 ---
