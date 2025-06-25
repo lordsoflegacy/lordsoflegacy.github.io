@@ -2,15 +2,17 @@
 title: Legacy League results - season <span>#0</span>
 date: 2025-04-17 18:20:00 +0200
 categories: [Legacy League, Season 0]
-tags: [results]
+tags: [standings]
 description: Standings report.
 math: true
-pin: true
 ---
 
 ---
 
 > This season has ended on 25.06.2025.
+{: .prompt-warning }
+
+> The full list of all seasons' standings can be found [here](../../tags/standings/).
 {: .prompt-info }
 
 ## Standings

@@ -4,7 +4,6 @@ categories: [Legacy League, Season 0]
 tags: [rules]
 description: Legacy League rules for season 0.
 math: true
-pin: true
 ---
 
 ---
