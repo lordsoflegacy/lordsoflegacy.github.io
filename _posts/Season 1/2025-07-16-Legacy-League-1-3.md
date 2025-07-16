@@ -13,7 +13,7 @@ math: true
 | $$ 1.  $$ | Mikołaj Wyspiański          | $$ 4-0-0 $$ | Mono U Jewel         |
 | $$ 2.  $$ | Ludwik "Explor" Jachowicz   | $$ 3-1-0 $$ | Red Painter          |
 | $$ 3.  $$ | Sylwester Strużyna          | $$ 3-1-0 $$ | Sneak and Show       |
-| $$ 4.  $$ | Grzegorz "Dauthi" Jezierski | $$ 3-1-0 $$ | Grixis Tempo         |
+| $$ 4.  $$ | Grzegorz "Dauthi" Jezierski | $$ 3-1-0 $$ | Grixis Wizards       |
 | $$ 5.  $$ | Bernard Sawicki             | $$ 3-1-0 $$ | Eldrazi              |
 | $$ 6.  $$ | Filip Adamczyk              | $$ 3-1-0 $$ | UWr Miracles         |
 | $$ 7.  $$ | Adam Kwak                   | $$ 2-2-0 $$ | Red Prison           |
