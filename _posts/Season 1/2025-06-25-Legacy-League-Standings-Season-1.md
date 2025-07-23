@@ -11,6 +11,9 @@ pin: true
 
 ## Standings
 
+> You may need to horizontally scroll the table below to view full information.
+{: .prompt-info } 
+
 |   Place   | Name and surname                                                          | Total points | [1][league-1-1] | [2][league-1-2] | [3][league-1-3] | [4][league-1-4] |
 |:---------:|---------------------------------------------------------------------------|:------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 | $$ 1. $$  | Ludwik "Explor" Jachowicz                                                 |   $$ 36 $$   |        6        |       12        |        9        |        9        |
