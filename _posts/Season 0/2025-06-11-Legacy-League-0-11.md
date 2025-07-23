@@ -8,7 +8,7 @@ math: true
 
 ---
 
-This season's full standings can be found [here](../Legacy-League-Results-Season-0).
+This season's full standings can be found [here](../Legacy-League-Standings-Season-0).
 
 |   Place   | Name and surname            | Result      | Deck           |
 |:---------:|-----------------------------|-------------|----------------|
