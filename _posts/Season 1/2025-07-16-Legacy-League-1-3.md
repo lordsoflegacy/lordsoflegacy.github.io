@@ -8,6 +8,8 @@ math: true
 
 ---
 
+This season's full results can be found [here](../Legacy-League-Results-Season-1).
+
 |   Place   | Name and surname            | Result      | Deck                 |
 |:---------:|-----------------------------|-------------|----------------------|
 | $$ 1.  $$ | Mikołaj Wyspiański          | $$ 4-0-0 $$ | Mono U Jewel         |

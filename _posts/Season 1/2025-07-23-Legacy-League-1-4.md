@@ -8,6 +8,8 @@ math: true
 
 ---
 
+This season's full results can be found [here](../Legacy-League-Results-Season-1).
+
 |   Place   | Name and surname            | Result      | Deck               |
 |:---------:|-----------------------------|-------------|--------------------|
 | $$ 1.  $$ | Filip Kwiatkowski           | $$ 3-1-0 $$ | UB Reanimator      |
@@ -19,21 +21,5 @@ math: true
 | $$ 7.  $$ | Maciej Staniszewski         | $$ 1-3-0 $$ | 4c Bean Reanimator |
 | $$ 8.  $$ | Jeremiasz "Yerba" Lubimow   | $$ 0-4-0 $$ | BG Pox             |
 | $$ 9.  $$ | Bogdan Płonecki             | $$ 0-2-0 $$ | WR Stoneblade      |
-
----
-
-
-
-
-
-
- 
- 
- 
- 
- 
- 
- 
- 
 
 ---
