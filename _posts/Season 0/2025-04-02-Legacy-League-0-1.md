@@ -1,14 +1,14 @@
 ---
 title: Legacy League <span>#1</span>
 categories: [Legacy League, Season 0]
-tags: [meta, results]
-description: Results and meta report.
+tags: [meta, standings]
+description: Standings and meta report.
 math: true
 ---
 
 ---
 
-The league's first FNM ended with the following results:
+This season's full standings can be found [here](../Legacy-League-Results-Season-0).
 
 |   Place   | Name and surname            | Result      | Deck               |
 |:---------:|-----------------------------|-------------|--------------------|
