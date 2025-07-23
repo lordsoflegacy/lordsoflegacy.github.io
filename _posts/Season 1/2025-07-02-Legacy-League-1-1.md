@@ -1,14 +1,14 @@
 ---
 title: Legacy League <span>#1</span>
 categories: [Legacy League, Season 1]
-tags: [meta, results]
-description: Results and meta report.
+tags: [meta, standings]
+description: Standings and meta report.
 math: true
 ---
 
 ---
 
-This season's full results can be found [here](../Legacy-League-Results-Season-1).
+This season's full standings can be found [here](../Legacy-League-Results-Season-1).
 
 |   Place   | Name and surname            | Result      | Deck              |
 |:---------:|-----------------------------|-------------|-------------------|
