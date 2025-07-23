@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I probably should add some relevant information here someday, but I can't think of anything of value to put here. In the meantime, here are some valuable resources:
+I should probably add some relevant information here someday, but I can't think of anything of value to put here. In the meantime, here are some valuable resources:
 
 ## Magic: The Gathering Comprehensive Rules
 
