@@ -31,22 +31,6 @@ math: true
 Today we managed to beat the previous attendance record! This is a big deal, especially for those who try to keep the Legacy format living in Poland <i class="fa-solid fa-heart"></i>
 
 ![Attending players](/assets/img/16-07-2025-league-photo-attendance-17-people.jpg)
-_Players attending this FNM_
-
-
-
-
-
-
-
-
- 
- 
- 
- 
- 
- 
- 
- 
+_Players attending this FNM_ 
 
 ---
