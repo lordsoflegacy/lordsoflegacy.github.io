@@ -1,5 +1,5 @@
 ---
-title: Legacy League Results - Season <span>#1</span>
+title: Legacy League Standings - Season <span>#1</span>
 categories: [Legacy League, Season 1]
 tags: [standings, full standings]
 description: Standings report.
