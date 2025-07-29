@@ -1,5 +1,5 @@
 ---
-title: Legacy League <span>#8</span>
+title: "Legacy League #8"
 categories: [Legacy League, Season 0]
 tags: [meta, standings]
 description: Standings and meta report.

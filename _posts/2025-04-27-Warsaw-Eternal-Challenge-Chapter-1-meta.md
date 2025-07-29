@@ -1,5 +1,5 @@
 ---
-title: Warsaw Legacy Challenge <span>#1</span> - Meta Report
+title: "Warsaw Legacy Challenge #1 — Meta Report"
 date: 2025-04-27 23:30:00 +0200
 categories: [Warsaw Legacy Challenge, meta]
 tags: [meta]

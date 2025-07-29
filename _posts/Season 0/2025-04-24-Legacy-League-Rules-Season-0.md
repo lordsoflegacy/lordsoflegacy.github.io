@@ -1,5 +1,5 @@
 ---
-title: Legacy League Rules for Season <span>#0</span>
+title: "Legacy League Rules for Season #0"
 categories: [Legacy League, Season 0]
 tags: [rules]
 description: Legacy League rules for season 0.

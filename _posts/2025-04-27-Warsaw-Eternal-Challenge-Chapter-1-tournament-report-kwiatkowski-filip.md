@@ -1,9 +1,9 @@
 ---
-title: Warsaw Eternal Challenge - Legacy Tournament Report
+title: "Warsaw Eternal Challenge — Legacy Tournament Report"
 date: 2025-04-28 00:00:00 +0200
 categories: [Personal, Filip Kwiatkowski]
 tags: [tournament report]
-description: Tournament report - battling the Warsaw Eternal Challenge's Legacy tournament with 8-cast.
+description: Tournament report — battling the Warsaw Eternal Challenge's Legacy tournament with 8-cast.
 math: true
 ---
 
