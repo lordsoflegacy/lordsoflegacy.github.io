@@ -23,9 +23,9 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 9.  $$  | Mateusz Widłak              | $$ 2-2-0 $$ | Mono U Affinity   |
 | $$ 10.  $$ | Rafał "Rav" Buczowski       | $$ 2-2-0 $$ | Oops! All Spells  |
 | $$ 11.  $$ | Filip Kwiatkowski           | $$ 2-2-0 $$ | Ur 8-cast         |
-| $$ 11.  $$ | Łukasz "Matys" Matusiak     | $$ 1-3-0 $$ | Red Prison        |
-| $$ 11.  $$ | Filip Pawłowski             | $$ 1-3-0 $$ | Nic Fit           |
-| $$ 11.  $$ | Piotr Figiel                | $$ 1-2-0 $$ | TES               |
-| $$ 11.  $$ | Jeremiasz "Yerba" Lubimow   | $$ 0-4-0 $$ | GB Pox            |
+| $$ 12.  $$ | Łukasz "Matys" Matusiak     | $$ 1-3-0 $$ | Red Prison        |
+| $$ 13.  $$ | Filip Pawłowski             | $$ 1-3-0 $$ | Nic Fit           |
+| $$ 14.  $$ | Piotr Figiel                | $$ 1-2-0 $$ | TES               |
+| $$ 15.  $$ | Jeremiasz "Yerba" Lubimow   | $$ 0-4-0 $$ | GB Pox            |
 
 ---
