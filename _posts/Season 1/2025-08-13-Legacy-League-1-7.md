@@ -28,4 +28,21 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 14.  $$ | Paweł Szostek               | $$ 1-3-0 $$ | UB Reanimator      |
 | $$ 15.  $$ | Piotr Szejko                | $$ 1-2-0 $$ | BG Midrange        |
 
+This time again we managed to take some photos during the FNM (thanks to Filip Pawłowski for them):
+
+![pic1](/assets/img/13-08-2025-fnm1.jpg)
+_Foreground: Filip Kwiatkowski (Ur 8-cast) vs. Filip Adamczyk (Jeskai Wizards). Background: Piotr Figiel (TES) vs. Błażej Ruba (Mardu Energy)_
+
+![pic2](/assets/img/13-08-2025-fnm2.jpg)
+_Grzegorz "Dauthi" Jezierski (GD Shallow Grave) showing off his hand that has it all in a match vs. Bartosz Litwin (BW Vampires)_
+
+![pic3](/assets/img/13-08-2025-fnm3.jpg)
+_Top: Adrian Rybczonek (Red Painter) vs. Piotr Figiel (TES). Bottom: Unseen Paweł Szostek (UB Reanimator) vs. Rafał "Rav" Buczowski (Oops! All Spells)_
+
+![pic4](/assets/img/13-08-2025-fnm4.jpg)
+_Same players as in the picture above, but from a different angle_
+
+![pic5](/assets/img/13-08-2025-fnm5.jpg)
+_Krzysztof Mazurek (UB Doomsday) vs. Ludwik "Explor" Jachowicz (Nadu Midrange)_
+
 ---
