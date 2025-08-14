@@ -31,7 +31,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 This time again we managed to take some photos during the FNM (thanks to Filip Pawłowski for them):
 
 ![pic1](/assets/img/13-08-2025-fnm1.jpg)
-_Foreground: Filip Kwiatkowski (Ur 8-cast) vs. Filip Adamczyk (Jeskai Wizards). Background: Piotr Figiel (TES) vs. Błażej Ruba (Mardu Energy)_
+_Foreground: Filip Kwiatkowski (Ur 8-cast) vs. Filip Adamczyk (Jeskai Wizards). Background: Antoine Albertelli (TES) vs. Błażej Ruba (Mardu Energy)_
 
 ![pic2](/assets/img/13-08-2025-fnm2.jpg)
 _Grzegorz "Dauthi" Jezierski (GD Shallow Grave) showing off his hand that has it all in a match vs. Bartosz Litwin (BW Vampires)_
