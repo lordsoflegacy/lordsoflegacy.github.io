@@ -23,6 +23,6 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 9. $$  | Marcin Nowakowski           | $$ 1-2-1 $$ | 4c Punishing Waterfalls |
 | $$ 10. $$ | Filip Pawłowski             | $$ 1-3-0 $$ | Jund Sneak Fit          |
 | $$ 11. $$ | Bartosz Litwin              | $$ 0-3-1 $$ | UR Draco Blast          |
-| $$ 12. $$ | Jonathan Joestar              | $$ 0-4-0 $$ | 4c Beanstalk            |
+| $$ 12. $$ | Jonathan Joestar            | $$ 0-4-0 $$ | 4c Beanstalk            |
 
 ---

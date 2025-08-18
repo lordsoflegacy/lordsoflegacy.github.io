@@ -18,7 +18,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 4. $$  | Krzysztof Mazurek           | $$ 3-1-0 $$ | UR Cori            |
 | $$ 5. $$  | Jeremiasz "Yerba" Lubimow   | $$ 2-2-0 $$ | Pox                |
 | $$ 6. $$  | Piotr Szejko                | $$ 2-2-0 $$ | BG Midrange        |
-| $$ 7. $$  | Jonathan Joestar              | $$ 2-2-0 $$ | UB Reanimator      |
+| $$ 7. $$  | Jonathan Joestar            | $$ 2-2-0 $$ | UB Reanimator      |
 | $$ 8. $$  | Filip Kwiatkowski           | $$ 2-2-0 $$ | UB Reanimator      |
 | $$ 9. $$  | Filip Brożyński             | $$ 1-3-0 $$ | Eldrazi            |
 | $$ 10. $$ | Maciej Kołodziejak          | $$ 1-3-0 $$ | WB Katramose       |

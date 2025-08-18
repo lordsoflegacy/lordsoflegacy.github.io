@@ -13,7 +13,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 |   Place    | Name and surname            | Result      | Deck               |
 |:----------:|-----------------------------|-------------|--------------------|
 | $$ 1.  $$  | Ludwik "Explor" Jachowicz   | $$ 4-0-0 $$ | Nadu Midrange      |
-| $$ 2.  $$  | Jonathan Joestar              | $$ 3-1-0 $$ | Jeskai Wizards     |
+| $$ 2.  $$  | Jonathan Joestar            | $$ 3-1-0 $$ | Jeskai Wizards     |
 | $$ 3.  $$  | Krzysztof Mazurek           | $$ 3-1-0 $$ | UB Doomsday        |
 | $$ 4.  $$  | Grzegorz "Dauthi" Jezierski | $$ 3-1-0 $$ | GB Shallow Grave   |
 | $$ 5.  $$  | Piotr Figiel                | $$ 3-1-0 $$ | TES                |

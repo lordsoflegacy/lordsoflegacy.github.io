@@ -17,7 +17,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 3. $$  | Ludwik "Explor" Jachowicz   | $$ 3-1-0 $$ | Red Painter      |
 | $$ 4. $$  | Grzegorz "Dauthi" Jezierski | $$ 3-1-0 $$ | UW Dreadnaught   |
 | $$ 5. $$  | Piotr Szejko                | $$ 2-1-1 $$ | BG Midrange      |
-| $$ 6. $$  | Jonathan Joestar              | $$ 2-2-0 $$ | Esper Control    |
+| $$ 6. $$  | Jonathan Joestar            | $$ 2-2-0 $$ | Esper Control    |
 | $$ 7. $$  | Jeremiasz "Yerba" Lubimow   | $$ 2-2-0 $$ | Pox              |
 | $$ 8. $$  | Adrian Perdyan              | $$ 2-2-0 $$ | GB Shallow Grave |
 | $$ 9. $$  | Filip Kwiatkowski           | $$ 2-2-0 $$ | UB Tempo         |

@@ -15,7 +15,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 1.  $$  | Ludwik "Explor" Jachowicz   | $$ 4-0-0 $$ | Red Painter        |
 | $$ 2.  $$  | Rafał "Rav" Buczowski       | $$ 3-1-0 $$ | Oops! All Spells   |
 | $$ 3.  $$  | Piotr Szejko                | $$ 3-1-0 $$ | BG Midrange        |
-| $$ 4.  $$  | Jonathan Joestar              | $$ 2-2-0 $$ | UWr Miracles       |
+| $$ 4.  $$  | Jonathan Joestar            | $$ 2-2-0 $$ | UWr Miracles       |
 | $$ 5.  $$  | Maciej Staniszewski         | $$ 2-2-0 $$ | 4c Bean Reanimator |
 | $$ 6.  $$  | Jeremiasz "Yerba" Lubimow   | $$ 2-2-0 $$ | BG Pox             |
 | $$ 7.  $$  | Grzegorz "Dauthi" Jezierski | $$ 2-2-0 $$ | BG Shallow Grave   |
