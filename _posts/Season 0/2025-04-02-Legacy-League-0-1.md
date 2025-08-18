@@ -25,7 +25,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 11. $$ | Marcin Nowakowski           | $$ 1-2-1 $$ | Aluren             |
 | $$ 12. $$ | Filip Kwiatkowski           | $$ 1-2-1 $$ | Red Painter        |
 | $$ 13. $$ | Bartosz Litwin              | $$ 1-3-0 $$ | UG Infect          |
-| $$ 14. $$ | Filip Adamczyk              | $$ 1-3-0 $$ | Esper Control      |
+| $$ 14. $$ | Jonathan Joestar              | $$ 1-3-0 $$ | Esper Control      |
 | $$ 15. $$ | Błażej Ruba                 | $$ 0-3-1 $$ | Necro Midrange     |
 | $$ 16. $$ | Maciej Kołodziejak          | $$ 0-3-0 $$ | Red Prison         |
 

@@ -19,7 +19,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 5. $$ | Antoine Albertelli        | $$ 2-2-0 $$ | BW Death and Taxes |
 | $$ 6. $$ | Krzysztof Mazurek         | $$ 2-2-0 $$ | UR Cori            |
 | $$ 7. $$ | Waldemar Piekarz          | $$ 1-1-0 $$ | Bant Nadu          |
-| $$ 8. $$ | Filip Adamczyk            | $$ 1-2-0 $$ | Jeskai Wizards     |
+| $$ 8. $$ | Jonathan Joestar            | $$ 1-2-0 $$ | Jeskai Wizards     |
 | $$ 9. $$ | Sylwester Strużyna        | $$ 1-2-0 $$ | UG Show and Tell   |
 
 ---

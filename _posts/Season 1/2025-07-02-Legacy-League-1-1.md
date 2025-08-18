@@ -19,7 +19,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 5. $$  | Ludwik "Explor" Jachowicz   | $$ 2-2-0 $$ | Mardu Tempo       |
 | $$ 6. $$  | Jeremiasz "Yerba" Lubimow   | $$ 2-2-0 $$ | Pox               |
 | $$ 7. $$  | Grzegorz "Dauthi" Jezierski | $$ 2-2-0 $$ | UB Dreadnought    |
-| $$ 8. $$  | Filip Adamczyk              | $$ 2-2-0 $$ | UB Reanimator     |
+| $$ 8. $$  | Jonathan Joestar              | $$ 2-2-0 $$ | UB Reanimator     |
 | $$ 9. $$  | Piotr Figiel                | $$ 1-3-0 $$ | TES               |
 | $$ 10. $$ | Arkadiusz Podgórni          | $$ 1-3-0 $$ | GW Lands          |
 | $$ 11. $$ | Bartosz Litwin              | $$ 1-3-0 $$ | WB Vampries       |

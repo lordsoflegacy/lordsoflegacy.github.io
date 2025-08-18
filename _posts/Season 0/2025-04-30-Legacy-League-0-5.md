@@ -24,6 +24,6 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 10. $$ | Antoine Albertelli          | $$ 1-2-1 $$ | BW Death and Taxes |
 | $$ 11. $$ | Marcin Nowakowski           | $$ 1-3-0 $$ | RUG Delver         |
 | $$ 12. $$ | Tomasz Dąbrowski            | $$ 1-3-0 $$ | Oops All Spells    |
-| $$ 13. $$ | Filip Adamczyk              | $$ 1-3-0 $$ | Jeskai Control     |
+| $$ 13. $$ | Jonathan Joestar              | $$ 1-3-0 $$ | Jeskai Control     |
 
 ---

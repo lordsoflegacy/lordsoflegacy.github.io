@@ -22,7 +22,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 8. $$  | Piotr Figiel                | $$ 2-2-0 $$ | TES            |
 | $$ 9. $$  | Filip Kwiatkowski           | $$ 2-2-0 $$ | UB Tempo       |
 | $$ 10. $$ | Krzysztof Mazurek           | $$ 1-3-0 $$ | UR Cori        |
-| $$ 11. $$ | Filip Adamczyk              | $$ 1-3-0 $$ | The Solution   |
+| $$ 11. $$ | Jonathan Joestar              | $$ 1-3-0 $$ | The Solution   |
 | $$ 12. $$ | Rafał Mikołajczuk           | $$ 1-3-0 $$ | Sneak and Show |
 | $$ 13. $$ | Sylwester Strużyna          | $$ 1-3-0 $$ | Red Painter    |
 | $$ 14. $$ | Filip Pawłowski             | $$ 1-3-0 $$ | Smog Fit       |

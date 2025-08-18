@@ -15,7 +15,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 1. $$  | Krzysztof Mazurek           | $$ 4-0-0 $$ | UR Cori              |
 | $$ 2. $$  | Ludwik "Explor" Jachowicz   | $$ 3-1-0 $$ | RW Energy            |
 | $$ 3. $$  | Piotr Szejko                | $$ 3-1-0 $$ | BG Midrange          |
-| $$ 4. $$  | Filip Adamczyk              | $$ 3-1-0 $$ | 4c Beanstalk         |
+| $$ 4. $$  | Jonathan Joestar              | $$ 3-1-0 $$ | 4c Beanstalk         |
 | $$ 5. $$  | Antoine Albertelli          | $$ 3-1-1 $$ | BW Death and Taxes   |
 | $$ 6. $$  | Tomasz Dąbrowski            | $$ 2-2-0 $$ | Esper Saga Control   |
 | $$ 7. $$  | Filip Pawłowski             | $$ 2-2-0 $$ | UG Show and Tell     |

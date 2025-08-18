@@ -13,7 +13,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 |   Place   | Name and surname            | Result      | Deck               |
 |:---------:|-----------------------------|-------------|--------------------|
 | $$ 1. $$  | Filip Kwiatkowski           | $$ 4-0-0 $$ | 8-cast             |
-| $$ 2. $$  | Filip Adamczyk              | $$ 3-1-0 $$ | Blue Mystic Forge  |
+| $$ 2. $$  | Jonathan Joestar              | $$ 3-1-0 $$ | Blue Mystic Forge  |
 | $$ 3. $$  | Maciej Staniszewski         | $$ 2-1-1 $$ | BUG Beanstalk      |
 | $$ 4. $$  | Krzysztof Mazurek           | $$ 2-1-1 $$ | RUG Delver         |
 | $$ 5. $$  | Grzegorz "Dauthi" Jezierski | $$ 2-2-0 $$ | 4c Rhino Cascade   |

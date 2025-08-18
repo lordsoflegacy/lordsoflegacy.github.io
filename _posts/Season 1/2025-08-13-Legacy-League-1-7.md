@@ -13,7 +13,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 |   Place    | Name and surname            | Result      | Deck               |
 |:----------:|-----------------------------|-------------|--------------------|
 | $$ 1.  $$  | Ludwik "Explor" Jachowicz   | $$ 4-0-0 $$ | Nadu Midrange      |
-| $$ 2.  $$  | Filip Adamczyk              | $$ 3-1-0 $$ | Jeskai Wizards     |
+| $$ 2.  $$  | Jonathan Joestar              | $$ 3-1-0 $$ | Jeskai Wizards     |
 | $$ 3.  $$  | Krzysztof Mazurek           | $$ 3-1-0 $$ | UB Doomsday        |
 | $$ 4.  $$  | Grzegorz "Dauthi" Jezierski | $$ 3-1-0 $$ | GB Shallow Grave   |
 | $$ 5.  $$  | Piotr Figiel                | $$ 3-1-0 $$ | TES                |
@@ -31,7 +31,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 This time again we managed to take some photos during the FNM (thanks to Filip Pawłowski for them):
 
 ![pic1](/assets/img/13-08-2025-fnm1.jpg)
-_Foreground: Filip Kwiatkowski (Ur 8-cast) vs. Filip Adamczyk (Jeskai Wizards). Background: Antoine Albertelli (TES) vs. Błażej Ruba (Mardu Energy)_
+_Foreground: Filip Kwiatkowski (Ur 8-cast) vs. Jonathan Joestar (Jeskai Wizards). Background: Antoine Albertelli (TES) vs. Błażej Ruba (Mardu Energy)_
 
 ![pic2](/assets/img/13-08-2025-fnm2.jpg)
 _Grzegorz "Dauthi" Jezierski (GD Shallow Grave) showing off his hand that has it all in a match vs. Bartosz Litwin (BW Vampires)_

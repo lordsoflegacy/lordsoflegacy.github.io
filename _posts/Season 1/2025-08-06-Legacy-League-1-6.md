@@ -19,7 +19,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 5.  $$  | Sylwester Strużyna          | $$ 3-1-0 $$ | Sneak and Show    |
 | $$ 6.  $$  | Maciej Staniszewski         | $$ 2-2-0 $$ | BUG Beanstalk     |
 | $$ 7.  $$  | Ludwik "Explor" Jachowicz   | $$ 2-2-0 $$ | Red Painter       |
-| $$ 8.  $$  | Filip Adamczyk              | $$ 2-2-0 $$ | UWr Miracles      |
+| $$ 8.  $$  | Jonathan Joestar              | $$ 2-2-0 $$ | UWr Miracles      |
 | $$ 9.  $$  | Mateusz Widłak              | $$ 2-2-0 $$ | Karn Echo         |
 | $$ 10.  $$ | Rafał "Rav" Buczowski       | $$ 2-2-0 $$ | Oops! All Spells  |
 | $$ 11.  $$ | Filip Kwiatkowski           | $$ 2-2-0 $$ | Ur 8-cast         |
