@@ -865,7 +865,7 @@ Below you can find all the decklists (excluding [top 8](#top-8)), without any pa
 ```
 {: file="Merfolk" }
 
-#### <b>UR Tamiyo</b> --- <i>Jonathan Joestar</i>
+#### <b>UR Tamiyo</b> --- <i>Jeskai Frieren</i>
 
 ```
 1 Brazen Borrower // Petty Theft

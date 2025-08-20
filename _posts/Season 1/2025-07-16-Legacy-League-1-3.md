@@ -17,7 +17,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 3.  $$ | Sylwester Strużyna          | $$ 3-1-0 $$ | Sneak and Show       |
 | $$ 4.  $$ | Grzegorz "Dauthi" Jezierski | $$ 3-1-0 $$ | Grixis Wizards       |
 | $$ 5.  $$ | Bernard Sawicki             | $$ 3-1-0 $$ | Eldrazi              |
-| $$ 6.  $$ | Jonathan Joestar            | $$ 3-1-0 $$ | UWr Miracles         |
+| $$ 6.  $$ | Jeskai Frieren              | $$ 3-1-0 $$ | UWr Miracles         |
 | $$ 7.  $$ | Adam Kwak                   | $$ 2-2-0 $$ | Red Prison           |
 | $$ 8.  $$ | Filip Kwiatkowski           | $$ 2-2-0 $$ | UB Reanimator        |
 | $$ 9.  $$ | Antoine Albertelli          | $$ 2-2-0 $$ | BW Death and Taxes   |
