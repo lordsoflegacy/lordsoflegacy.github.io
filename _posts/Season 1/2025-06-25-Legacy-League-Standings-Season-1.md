@@ -43,7 +43,7 @@ pin: true
 | $$ 25. $$ | Filip Brożyński                                                           |   $$ 3 $$    |                 |        3        |                 |                 |                 |                 |                 |                 |
 | $$ 26. $$ | Bogdan Płonecki                                                           |   $$ 3 $$    |                 |                 |                 |        0        |        3        |                 |                 |                 |
 | $$ 27. $$ | Paweł Szostek                                                             |   $$ 3 $$    |                 |                 |                 |                 |                 |                 |        3        |                 |
-| $$ 28. $$ | Patryk B?                                                                 |   $$ 3 $$    |                 |                 |                 |                 |                 |                 |                 |        3        |
+| $$ 28. $$ | Patryk Barciak                                                            |   $$ 3 $$    |                 |                 |                 |                 |                 |                 |                 |        3        |
 
 [league-1-1]: ../Legacy-League-1-1
 [league-1-2]: ../Legacy-League-1-2

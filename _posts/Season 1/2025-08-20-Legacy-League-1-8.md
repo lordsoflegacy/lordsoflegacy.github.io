@@ -24,7 +24,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 10.  $$ | Filip Pawłowski             | $$ 1-2-1 $$ | BUG Food Chain   |
 | $$ 11.  $$ | Filip Kwiatkowski           | $$ 1-2-1 $$ | Leyline Helm     |
 | $$ 12.  $$ | Mateusz Widłak              | $$ 1-2-0 $$ | Karn Echo        |
-| $$ 13.  $$ | Patryk B?                   | $$ 1-3-0 $$ | ?                |
+| $$ 13.  $$ | Patryk Barciak              | $$ 1-3-0 $$ | Oops! All Spells |
 
 This time again we managed to take some photos during the FNM (thanks to Filip Pawłowski for them):
 
