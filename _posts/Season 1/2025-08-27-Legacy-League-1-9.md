@@ -1,5 +1,5 @@
 ---
-title: "Legacy League #8"
+title: "Legacy League #9"
 categories: [Legacy League, Season 1]
 tags: [meta, standings]
 description: Standings and meta report.
