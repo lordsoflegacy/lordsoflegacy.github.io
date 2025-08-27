@@ -20,7 +20,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 6.  $$  | Sylwester Strużyna          | $$ 2-2-0 $$ | UG Infect        |
 | $$ 7.  $$  | Bartosz Litwin              | $$ 2-2-0 $$ | UG Infect        |
 | $$ 8.  $$  | Jeskai Frieren              | $$ 2-2-0 $$ | Jeskai Wizards   |
-| $$ 9.  $$  | Błażej Ruba                 | $$ 1-3-0 $$ | Mardu Energy     |
+| $$ 9.  $$  | Błażej Ruba                 | $$ 1-3-0 $$ | BUG Beanstalk    |
 | $$ 10.  $$ | Filip Pawłowski             | $$ 1-3-0 $$ | UG Omnitell      |
 | $$ 11.  $$ | Artur Sobczyński            | $$ 1-2-0 $$ | Red Prison       |
 
