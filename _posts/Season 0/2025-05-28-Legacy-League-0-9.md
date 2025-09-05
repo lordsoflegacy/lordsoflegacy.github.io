@@ -17,7 +17,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 3. $$  | Piotr Szejko                | $$ 3-1-0 $$ | BG Midrange             |
 | $$ 4. $$  | Filip Kwiatkowski           | $$ 2-2-0 $$ | UB Reanimator           |
 | $$ 5. $$  | Grzegorz "Dauthi" Jezierski | $$ 2-2-0 $$ | BUG Reanimator          |
-| $$ 6. $$  | Jeremiasz "Yerba" Lubimow   | $$ 2-2-0 $$ | Pox                     |
+| $$ 6. $$  | Jeremiasz "Yerbaa" Lubimow  | $$ 2-2-0 $$ | Pox                     |
 | $$ 7. $$  | Jeskai Frieren              | $$ 2-2-0 $$ | Jeskai Control          |
 | $$ 8. $$  | Bartosz Litwin              | $$ 2-2-0 $$ | Grixis Show and Blast   |
 | $$ 9. $$  | Tomasz Dąbrowski            | $$ 1-2-1 $$ | Esper Saga Control      |

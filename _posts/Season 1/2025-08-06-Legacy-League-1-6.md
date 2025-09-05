@@ -26,6 +26,6 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 12.  $$ | Łukasz "Matys" Matusiak     | $$ 1-3-0 $$ | Red Prison        |
 | $$ 13.  $$ | Filip Pawłowski             | $$ 1-3-0 $$ | Nic Fit           |
 | $$ 14.  $$ | Piotr Figiel                | $$ 1-2-0 $$ | TES               |
-| $$ 15.  $$ | Jeremiasz "Yerba" Lubimow   | $$ 0-4-0 $$ | GB Pox            |
+| $$ 15.  $$ | Jeremiasz "Yerbaa" Lubimow  | $$ 0-4-0 $$ | GB Pox            |
 
 ---

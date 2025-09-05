@@ -16,7 +16,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 2. $$  | Maciej Staniszewski         | $$ 3-1-0 $$ | 4c Bean Reanimator |
 | $$ 3. $$  | Grzegorz "Dauthi" Jezierski | $$ 3-1-0 $$ | GB Shallow Grave   |
 | $$ 4. $$  | Krzysztof Mazurek           | $$ 3-1-0 $$ | UR Cori            |
-| $$ 5. $$  | Jeremiasz "Yerba" Lubimow   | $$ 2-2-0 $$ | Pox                |
+| $$ 5. $$  | Jeremiasz "Yerbaa" Lubimow  | $$ 2-2-0 $$ | Pox                |
 | $$ 6. $$  | Piotr Szejko                | $$ 2-2-0 $$ | BG Midrange        |
 | $$ 7. $$  | Jeskai Frieren              | $$ 2-2-0 $$ | UB Reanimator      |
 | $$ 8. $$  | Filip Kwiatkowski           | $$ 2-2-0 $$ | UB Reanimator      |

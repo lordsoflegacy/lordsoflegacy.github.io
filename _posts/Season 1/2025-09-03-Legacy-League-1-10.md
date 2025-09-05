@@ -19,7 +19,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 5.  $$  | Piotr Szejko                | $$ 2-2-0 $$ | BG Midrange         |
 | $$ 6.  $$  | Błażej Ruba                 | $$ 2-2-0 $$ | BUG Beanstalk       |
 | $$ 7.  $$  | Piotr Figiel                | $$ 2-2-0 $$ | TES                 |
-| $$ 8.  $$  | Jeremiasz "Yerba" Lubimow   | $$ 2-2-0 $$ | GB Pox              |
+| $$ 8.  $$  | Jeremiasz "Yerbaa" Lubimow  | $$ 2-2-0 $$ | GB Pox              |
 | $$ 9.  $$  | Grzegorz "Dauthi" Jezierski | $$ 1-3-0 $$ | GB Shallow Grave    |
 | $$ 10.  $$ | Bartosz Litwin              | $$ 1-3-0 $$ | UG Infect           |
 | $$ 11.  $$ | Ludwik "Explor" Jachowicz   | $$ 1-3-0 $$ | Bant Nadu           |

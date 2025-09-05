@@ -17,7 +17,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 3. $$  | Ludwik "Explor" Jachowicz   | $$ 3-1-0 $$ | RW Energy      |
 | $$ 4. $$  | Piotr Szejko                | $$ 3-1-0 $$ | BG Midrange    |
 | $$ 5. $$  | Filip Brożyński             | $$ 2-2-0 $$ | Burn           |
-| $$ 6. $$  | Jeremiasz "Yerba" Lubimow   | $$ 2-2-0 $$ | Pox            |
+| $$ 6. $$  | Jeremiasz "Yerbaa" Lubimow  | $$ 2-2-0 $$ | Pox            |
 | $$ 7. $$  | Maciej Staniszewski         | $$ 2-2-0 $$ | 4c Beanstalk   |
 | $$ 8. $$  | Piotr Figiel                | $$ 2-2-0 $$ | TES            |
 | $$ 9. $$  | Filip Kwiatkowski           | $$ 2-2-0 $$ | UB Tempo       |

@@ -21,7 +21,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 7. $$  | Jeskai Frieren              | $$ 2-2-0 $$ | Blue Mystic Forge  |
 | $$ 8. $$  | Antoine Albertelli          | $$ 2-2-0 $$ | BW Death and Taxes |
 | $$ 9. $$  | Krzysztof Mazurek           | $$ 2-2-0 $$ | UR Cori            |
-| $$ 10. $$ | Jeremiasz "Yerba" Lubimow   | $$ 1-3-0 $$ | Pox                |
+| $$ 10. $$ | Jeremiasz "Yerbaa" Lubimow  | $$ 1-3-0 $$ | Pox                |
 | $$ 11. $$ | Sylwester Strużyna          | $$ 1-2-0 $$ | Red Painter        |
 | $$ 12. $$ | Marcin Nowakowski           | $$ 1-3-0 $$ | Aluren             |
 | $$ 13. $$ | Bartosz Litwin              | $$ 0-4-0 $$ | Zombies            |

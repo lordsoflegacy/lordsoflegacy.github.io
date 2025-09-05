@@ -19,7 +19,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 5. $$  | Maciej Staniszewski         | $$ 2-2-0 $$ | 4c Beanstalk            |
 | $$ 6. $$  | Emanuel Broda               | $$ 2-2-0 $$ | UB Reanimator           |
 | $$ 7. $$  | Grzegorz "Dauthi" Jezierski | $$ 2-2-0 $$ | BG Shallow Grave        |
-| $$ 8. $$  | Jeremiasz "Yerba" Lubimow   | $$ 2-2-0 $$ | Pox                     |
+| $$ 8. $$  | Jeremiasz "Yerbaa" Lubimow  | $$ 2-2-0 $$ | Pox                     |
 | $$ 9. $$  | Marcin Nowakowski           | $$ 1-2-1 $$ | 4c Punishing Waterfalls |
 | $$ 10. $$ | Filip Pawłowski             | $$ 1-3-0 $$ | Jund Sneak Fit          |
 | $$ 11. $$ | Bartosz Litwin              | $$ 0-3-1 $$ | UR Draco Blast          |

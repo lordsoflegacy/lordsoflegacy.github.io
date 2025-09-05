@@ -18,7 +18,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 4. $$  | Grzegorz "Dauthi" Jezierski | $$ 3-1-0 $$ | UW Dreadnaught   |
 | $$ 5. $$  | Piotr Szejko                | $$ 2-1-1 $$ | BG Midrange      |
 | $$ 6. $$  | Jeskai Frieren              | $$ 2-2-0 $$ | Esper Control    |
-| $$ 7. $$  | Jeremiasz "Yerba" Lubimow   | $$ 2-2-0 $$ | Pox              |
+| $$ 7. $$  | Jeremiasz "Yerbaa" Lubimow  | $$ 2-2-0 $$ | Pox              |
 | $$ 8. $$  | Adrian Perdyan              | $$ 2-2-0 $$ | GB Shallow Grave |
 | $$ 9. $$  | Filip Kwiatkowski           | $$ 2-2-0 $$ | UB Tempo         |
 | $$ 10. $$ | Maciej Staniszewski         | $$ 1-2-1 $$ | BUG Beanstalk    |

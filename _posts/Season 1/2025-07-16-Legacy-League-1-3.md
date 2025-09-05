@@ -26,7 +26,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 12. $$ | Piotr Figiel                | $$ 2-2-0 $$ | TES                  |
 | $$ 13. $$ | Krzysztof Mazurek           | $$ 2-2-0 $$ | UB Doomsday Tempo    |
 | $$ 14. $$ | Maciej Kołodziejak          | $$ 1-3-0 $$ | BW Death and Taxes   |
-| $$ 15. $$ | Jeremiasz "Yerba" Lubimow   | $$ 1-3-0 $$ | BG Pox               |
+| $$ 15. $$ | Jeremiasz "Yerbaa" Lubimow  | $$ 1-3-0 $$ | BG Pox               |
 | $$ 16. $$ | Filip Pawłowski             | $$ 0-4-0 $$ | UG Omnitell          |
 | $$ 17. $$ | Maciej Staniszewski         | $$ 0-3-0 $$ | 4c Bean Reanimator   |
 

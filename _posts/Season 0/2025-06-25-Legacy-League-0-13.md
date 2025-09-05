@@ -16,7 +16,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 2. $$  | Grzegorz "Dauthi" Jezierski | $$ 3-1-0 $$ | Beanstalk Miracles                         |
 | $$ 3. $$  | Arkadiusz Podgórni          | $$ 2-0-2 $$ | GW Lands                                   |
 | $$ 4. $$  | Piotr Figiel                | $$ 2-1-1 $$ | TES                                        |
-| $$ 5. $$  | Jeremiasz "Yerba" Lubimow   | $$ 2-1-1 $$ | Pox                                        |
+| $$ 5. $$  | Jeremiasz "Yerbaa" Lubimow  | $$ 2-1-1 $$ | Pox                                        |
 | $$ 6. $$  | Maciej Staniszewski         | $$ 2-2-0 $$ | BUG Beanstalk                              |
 | $$ 7. $$  | Filip Pawłowski             | $$ 1-3-0 $$ | <span title="Śnieżyca">BUG Nic Feat</span> |
 | $$ 8. $$  | Filip Kwiatkowski           | $$ 1-3-0 $$ | 8-cast                                     |

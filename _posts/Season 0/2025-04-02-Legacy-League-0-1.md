@@ -19,7 +19,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 5. $$  | Mikołaj Wyspiański          | $$ 3-1-1 $$ | Mono U Jewel       |
 | $$ 6. $$  | Ludwik "Explor" Jachowicz   | $$ 2-2-0 $$ | Blue Painter       |
 | $$ 7. $$  | Arkadiusz Podgórni          | $$ 2-2-0 $$ | GW Lands           |
-| $$ 8. $$  | Jeremiasz "Yerba" Lubimow   | $$ 2-2-0 $$ | Pox                |
+| $$ 8. $$  | Jeremiasz "Yerbaa" Lubimow  | $$ 2-2-0 $$ | Pox                |
 | $$ 9. $$  | Antoine Albertelli          | $$ 1-1-2 $$ | BW Death and Taxes |
 | $$ 10. $$ | Tomasz Dąbrowski            | $$ 1-1-1 $$ | Jeskai Wizards     |
 | $$ 11. $$ | Marcin Nowakowski           | $$ 1-2-1 $$ | Aluren             |
