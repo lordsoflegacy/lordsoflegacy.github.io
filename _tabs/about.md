@@ -8,7 +8,7 @@ I should probably add some relevant information here someday, but I can't think 
 
 ## Magic: The Gathering Comprehensive Rules
 
-<object id="MagicCompRules-20250606.pdf" data="{{ site.url }}{{ site.baseurl }}/assets/pdfs/MagicCompRules-20250606.pdf" class="pdf-object" type="application/pdf"></object>
+<object id="MagicCompRules-20250606.pdf" data="{{ site.url }}{{ site.baseurl }}/assets/pdfs/MagicCompRules 20250725.pdf" class="pdf-object" type="application/pdf"></object>
 
 ## Magic Infraction Procedure Guide
 
