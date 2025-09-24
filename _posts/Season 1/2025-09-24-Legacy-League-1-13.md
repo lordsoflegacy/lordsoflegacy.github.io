@@ -13,8 +13,8 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 |   Place   | Name and surname            | Result      | Deck                    |
 |:---------:|-----------------------------|-------------|-------------------------|
 | $$ 1.  $$ | Maciej Staniszewski         | $$ 4-0-0 $$ | 5c Beanstalk            |
-| $$ 2.  $$ | Jeskai Frieren              | $$ 3-1-0 $$ | Jeskai Control          |
-| $$ 3.  $$ | Krzysztof Mazurek           | $$ 3-1-0 $$ | UR Delver               |
+| $$ 2.  $$ | Jeskai Frieren              | $$ 3-1-0 $$ | Jeskai Narset Undoing   |
+| $$ 3.  $$ | Krzysztof Mazurek           | $$ 3-1-0 $$ | RUG Delver              |
 | $$ 4.  $$ | Grzegorz "Dauthi" Jezierski | $$ 2-2-0 $$ | 4c Punishing Waterfalls |
 | $$ 5.  $$ | Piotr Wróblewski            | $$ 2-2-0 $$ | UB Doomsday             |
 | $$ 6.  $$ | Piotr Szejko                | $$ 2-2-0 $$ | Ocelot Pride Midrange   |
