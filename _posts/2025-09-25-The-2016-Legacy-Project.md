@@ -89,4 +89,8 @@ We currently have two scheduled tournaments (FNMs) for _Legacy 2016_:
 1. 12.11.2026
 2. 03.12.2026
 
+## Resources
+
+For players who would like to join but are lacking a starting point, it is recommended to take a look at [the top 64 of Grand Prix Prague 2016](https://mtgdecks.net/Legacy/grand-prix-prague-2016-tournament-28721) or [the top 32 of Grand Prix Columbus 2016](https://mtgdecks.net/Legacy/grand-prix-columbus-2016-tournament-28751).
+
 ---
