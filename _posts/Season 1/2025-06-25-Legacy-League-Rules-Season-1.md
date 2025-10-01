@@ -22,7 +22,7 @@ During Legacy FNMs organized by [CentrumMTG](https://www.centrum-mtg.com.pl/) (h
 
 ## Season
 
-The first season starts with the publication of [Banned and Restricted Announcement on 30.06.2025](https://magic.wizards.com/en/news/announcements/banned-and-restricted-june-30-2025). The planned end of the season is November 19, 2025 (Wednesday). Points scored during the tournament held on that day are **included** in the season's results.
+The first season starts with the publication of [Banned and Restricted Announcement on 30.06.2025](https://magic.wizards.com/en/news/announcements/banned-and-restricted-june-30-2025). The planned end of the season is November 5, 2025 (Wednesday). Points scored during the tournament held on that day are **included** in the season's results.
 
 ## FNMs
 
