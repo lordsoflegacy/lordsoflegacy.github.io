@@ -10,35 +10,13 @@ math: true
 
 This season's full standings can be found [here](../Legacy-League-Standings-Season-1).
 
-|   Place   | Name and surname | Result      | Deck |
-|:---------:|------------------|-------------|------|
-| $$ 1.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 2.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 3.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 4.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 5.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 6.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 7.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 8.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 9.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 10. $$ |                  | $$ x-x-x $$ |      |
-| $$ 11. $$ |                  | $$ x-x-x $$ |      |
-| $$ 12. $$ |                  | $$ x-x-x $$ |      |
-| $$ 13. $$ |                  | $$ x-x-x $$ |      |
-| $$ 14. $$ |                  | $$ x-x-x $$ |      |
-
-
-
-
-
-
-
-
-
-
- 
- 
- 
- 
+|   Place   | Name and surname            | Result      | Deck            |
+|:---------:|-----------------------------|-------------|-----------------|
+| $$ 1.  $$ | Krzysztof Mazurek           | $$ 4-0-0 $$ | UB Tempo        |
+| $$ 2.  $$ | Grzegorz "Dauthi" Jezierski | $$ 2-2-0 $$ | Blue Cloudpost  |
+| $$ 3.  $$ | Piotr Szejko                | $$ 2-2-0 $$ | Lands           |
+| $$ 4.  $$ | Ludwik "Explor" Jachowicz   | $$ 2-2-0 $$ | Nadu Cephalid   |
+| $$ 5.  $$ | Jeremiasz "Yerbaa" Lubimow  | $$ 2-2-0 $$ | Blue Wizards    |
+| $$ 6.  $$ | Bartosz Litwin              | $$ 0-4-0 $$ | BUG Painter Fit |
 
 ---
