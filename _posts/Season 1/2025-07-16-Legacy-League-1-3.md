@@ -30,7 +30,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 16. $$ | Filip Pawłowski             | $$ 0-4-0 $$ | UG Omnitell          |
 | $$ 17. $$ | Maciej Staniszewski         | $$ 0-3-0 $$ | 4c Bean Reanimator   |
 
-Today we managed to beat the previous attendance record! This is a big deal, especially for those who try to keep the Legacy format living in Poland <i class="fa-solid fa-heart"></i>
+Today we managed to beat the previous attendance record! This is a big deal, especially for those who try to keep the Legacy format alive in Poland <i class="fa-solid fa-heart"></i>
 
 ![Attending players](/assets/img/16-07-2025-league-photo-attendance-17-people.jpg)
 _Players attending this FNM_ 
