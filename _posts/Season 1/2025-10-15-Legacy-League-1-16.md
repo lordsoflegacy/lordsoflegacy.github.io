@@ -10,22 +10,16 @@ math: true
 
 This season's full standings can be found [here](../Legacy-League-Standings-Season-1).
 
-|   Place   | Name and surname | Result      | Deck |
-|:---------:|------------------|-------------|------|
-| $$ 1.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 2.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 3.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 4.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 5.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 6.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 7.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 8.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 9.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 10. $$ |                  | $$ x-x-x $$ |      |
-| $$ 11. $$ |                  | $$ x-x-x $$ |      |
-| $$ 12. $$ |                  | $$ x-x-x $$ |      |
-| $$ 13. $$ |                  | $$ x-x-x $$ |      |
-| $$ 14. $$ |                  | $$ x-x-x $$ |      |
+|   Place   | Name and surname            | Result      | Deck                  |
+|:---------:|-----------------------------|-------------|-----------------------|
+| $$ 1.  $$ | Grzegorz "Dauthi" Jezierski | $$ 3-1-0 $$ | Beanstalk Miracles    |
+| $$ 2.  $$ | Piotr Szejko                | $$ 3-1-0 $$ | Ocelot Pride Midrange |
+| $$ 3.  $$ | Ludwik "Explor" Jachowicz   | $$ 3-1-0 $$ | Jeskai Stoneblade     |
+| $$ 4.  $$ | Antoine Albertelli          | $$ 2-2-0 $$ | BW Death and Taxes    |
+| $$ 5.  $$ | Krzysztof Mazurek           | $$ 2-2-0 $$ | UR Cori               |
+| $$ 6.  $$ | Filip Kwiatkowski           | $$ 1-3-0 $$ | Blue Cloudpost        |
+| $$ 7.  $$ | Piotr Wróblewski            | $$ 1-3-0 $$ | UB Reanimator         |
+| $$ 8.  $$ | Jeremiasz "Yerbaa" Lubimow  | $$ 1-3-0 $$ | GB Pox                |
 
 
 
