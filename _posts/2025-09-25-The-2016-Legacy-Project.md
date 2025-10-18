@@ -17,10 +17,12 @@ _Legacy 2016_ is an initiative to bring back _the good old days_ of the Legacy f
 ### Rules
 
 Matches of _Legacy 2016_ are subject to the following rules:
-- All newest Comprehensive Rules apply (including the mulligan procedure, shortcuts policy and specific interactions such as &#8288;<mtg-card>Blood Moon</mtg-card> and &#8288;<mtg-card>Humility</mtg-card>[^before]).
+- All newest Comprehensive Rules apply (including the mulligan procedure, shortcuts policy and specific interactions such as &#8288;<mtg-card>Blood Moon</mtg-card> with some lands[^depths] and &#8288;<mtg-card>Humility</mtg-card>) with some creatures[^painter].
 - Card legality is determined by the state of the format at the very end of the year 2016. This means that all cards from all sets up to (and including) _Kaladesh_[^no-revolt] are legal, excluding all banned cards.
 
-[^before]: Previously those cards differed how they affect permanents that enter play. &#8288;<mtg-card>Dark Depths</mtg-card> used to enter with 10 ice counters despite &#8288;<mtg-card>Blood Moon</mtg-card> being present on the battlefield.
+[^depths]: &#8288;<mtg-card>Blood Moon</mtg-card> used to make &#8288;<mtg-card>Dark Depths</mtg-card> enter with counters, not without them.
+
+[^depths]: &#8288;<mtg-card>Humility</mtg-card> used to allow &#8288;<mtg-card>Painter's Servant</mtg-card> to choose a color when it enters.
 
 [^no-revolt]: Cards from _Aether Revolt_ (and onwards) are not legal.
 
