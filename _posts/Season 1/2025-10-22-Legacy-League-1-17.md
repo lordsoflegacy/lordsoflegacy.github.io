@@ -10,35 +10,16 @@ math: true
 
 This season's full standings can be found [here](../Legacy-League-Standings-Season-1).
 
-|   Place   | Name and surname | Result      | Deck |
-|:---------:|------------------|-------------|------|
-| $$ 1.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 2.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 3.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 4.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 5.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 6.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 7.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 8.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 9.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 10. $$ |                  | $$ x-x-x $$ |      |
-| $$ 11. $$ |                  | $$ x-x-x $$ |      |
-| $$ 12. $$ |                  | $$ x-x-x $$ |      |
-| $$ 13. $$ |                  | $$ x-x-x $$ |      |
-| $$ 14. $$ |                  | $$ x-x-x $$ |      |
-
-
-
-
-
-
-
-
-
-
- 
- 
- 
- 
+|   Place   | Name and surname            | Result      | Deck                  |
+|:---------:|-----------------------------|-------------|-----------------------|
+| $$ 1.  $$ | Piotr Wróblewski            | $$ 3-1-0 $$ | Mystic Forge          |
+| $$ 2.  $$ | Krzysztof Mazurek           | $$ 3-1-0 $$ | UB Tempo              |
+| $$ 3.  $$ | Filip Kwiatkowski           | $$ 3-1-0 $$ | Ub Cloudpost          |
+| $$ 4.  $$ | Grzegorz "Dauthi" Jezierski | $$ 2-2-0 $$ | GB Shallow Grave      |
+| $$ 5.  $$ | Jeremiasz "Yerbaa" Lubimow  | $$ 2-2-0 $$ | GB Pox                |
+| $$ 6.  $$ | Piotr Szejko                | $$ 2-2-0 $$ | Ocelot Pride Midrange |
+| $$ 7.  $$ | Filip Pawłowski             | $$ 2-2-0 $$ | Green Cloudpost       |
+| $$ 8.  $$ | Ludwik "Explor" Jachowicz   | $$ 1-3-x $$ | Beanstalk Miracles    |
+| $$ 9.  $$ | Sylwester Strużyna          | $$ 1-2-x $$ | Sneak and Show        |
 
 ---
