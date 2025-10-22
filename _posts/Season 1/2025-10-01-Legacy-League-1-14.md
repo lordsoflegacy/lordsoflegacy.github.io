@@ -23,18 +23,4 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 9.  $$ | Sylwester Strużyna          | $$ 1-3-1 $$ | UG Infect               |
 | $$ 10. $$ | Błażej Ruba                 | $$ 0-3-0 $$ | Mono Black Necropotence |
 
-
-
-
-
-
-
-
-
-
- 
- 
- 
- 
-
 ---

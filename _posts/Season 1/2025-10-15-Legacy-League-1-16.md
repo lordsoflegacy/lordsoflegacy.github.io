@@ -21,18 +21,4 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 7.  $$ | Piotr Wróblewski            | $$ 1-3-0 $$ | UB Reanimator         |
 | $$ 8.  $$ | Jeremiasz "Yerbaa" Lubimow  | $$ 1-3-0 $$ | GB Pox                |
 
-
-
-
-
-
-
-
-
-
- 
- 
- 
- 
-
 ---

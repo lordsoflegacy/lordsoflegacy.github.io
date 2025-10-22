@@ -27,18 +27,4 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 13. $$ |                  | $$ x-x-x $$ |      |
 | $$ 14. $$ |                  | $$ x-x-x $$ |      |
 
-
-
-
-
-
-
-
-
-
- 
- 
- 
- 
-
 ---

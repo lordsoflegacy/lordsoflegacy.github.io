@@ -27,17 +27,4 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 13. $$ | Jeremiasz "Yerbaa" Lubimow  | $$ 0-3-1 $$ | GB Pox                  |
 
 
-
-
-
-
-
-
-
-
- 
- 
- 
- 
-
 ---
