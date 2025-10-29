@@ -10,21 +10,18 @@ math: true
 
 This season's full standings can be found [here](../Legacy-League-Standings-Season-1).
 
-|   Place   | Name and surname | Result      | Deck |
-|:---------:|------------------|-------------|------|
-| $$ 1.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 2.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 3.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 4.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 5.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 6.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 7.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 8.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 9.  $$ |                  | $$ x-x-x $$ |      |
-| $$ 10. $$ |                  | $$ x-x-x $$ |      |
-| $$ 11. $$ |                  | $$ x-x-x $$ |      |
-| $$ 12. $$ |                  | $$ x-x-x $$ |      |
-| $$ 13. $$ |                  | $$ x-x-x $$ |      |
-| $$ 14. $$ |                  | $$ x-x-x $$ |      |
+|   Place   | Name and surname            | Result      | Deck                  |
+|:---------:|-----------------------------|-------------|-----------------------|
+| $$ 1.  $$ | Krzysztof Mazurek           | $$ 3-1-0 $$ | UB Tempo              |
+| $$ 2.  $$ | Bartosz Litwin              | $$ 3-1-0 $$ | UG Infect             |
+| $$ 3.  $$ | Filip Pawłowski             | $$ 3-1-0 $$ | Green Cloudpost       |
+| $$ 4.  $$ | Grzegorz "Dauthi" Jezierski | $$ 3-1-0 $$ | GB Shallow Grave      |
+| $$ 5.  $$ | Jeremiasz "Yerbaa" Lubimow  | $$ 2-2-0 $$ | GB Pox                |
+| $$ 6.  $$ | Piotr Figiel                | $$ 2-2-0 $$ | TES                   |
+| $$ 7.  $$ | Piotr Szejko                | $$ 2-2-0 $$ | Ocelot Pride Midrange |
+| $$ 8.  $$ | Sylwester Strużyna          | $$ 2-2-0 $$ | Sneak and Show        |
+| $$ 9.  $$ | Ludwik "Explor" Jachowicz   | $$ 1-2-0 $$ | Bant Nadu             |
+| $$ 10. $$ | Filip Kwiatkowski           | $$ 1-3-0 $$ | Blue Cloudpost        |
+| $$ 11. $$ | Maciej Staniszewski         | $$ 1-3-0 $$ | 5c Beanstalk          |
 
 ---
