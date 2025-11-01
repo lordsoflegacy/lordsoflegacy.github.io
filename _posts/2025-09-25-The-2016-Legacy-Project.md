@@ -22,7 +22,7 @@ Matches of _Legacy 2016_ are subject to the following rules:
 
 [^depths]: &#8288;<mtg-card>Blood Moon</mtg-card> used to make &#8288;<mtg-card>Dark Depths</mtg-card> enter with counters, not without them.
 
-[^depths]: &#8288;<mtg-card>Humility</mtg-card> used to allow &#8288;<mtg-card>Painter's Servant</mtg-card> to choose a color when it enters.
+[^painter]: &#8288;<mtg-card>Humility</mtg-card> used to allow &#8288;<mtg-card>Painter's Servant</mtg-card> to choose a color when it enters.
 
 [^no-revolt]: Cards from _Aether Revolt_ (and onwards) are not legal.
 
