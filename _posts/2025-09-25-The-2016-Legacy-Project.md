@@ -88,8 +88,8 @@ The full banlist is as follows:
 
 We currently have two scheduled tournaments (FNMs) for _Legacy 2016_:
 
-1. 12.11.2026
-2. 03.12.2026
+1. 12.11.2025
+2. 03.12.2025
 
 ## Resources
 
