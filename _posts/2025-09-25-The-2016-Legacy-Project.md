@@ -4,6 +4,7 @@ date: 2025-09-25
 description: Details of the "Legacy 2016" project.
 math: true
 pin: true
+categories: [Legacy 2016]
 image:
   path: /assets/img/Leg2016.png
 ---
