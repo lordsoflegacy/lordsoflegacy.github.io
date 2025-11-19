@@ -4,7 +4,6 @@ categories: [Legacy League, Season 1]
 tags: [standings, full standings]
 description: Standings report.
 math: true
-pin: true
 ---
 
 ---

@@ -1,10 +1,11 @@
 ---
-title: "Legacy League Rules for Season #1"
-categories: [Legacy League, Season 1]
+title: "Legacy League Rules for Season #2"
+categories: [Legacy League, Season 2]
 tags: [rules]
-description: Legacy League rules for season 1.
+description: Legacy League rules for season 2.
 math: true
 mermaid: true
+pin: true
 ---
 
 ---
@@ -21,7 +22,9 @@ During Legacy FNMs organized by [CentrumMTG](https://www.centrum-mtg.com.pl/) (h
 
 ## Season
 
-The first season starts with the publication of [Banned and Restricted Announcement on 30.06.2025](https://magic.wizards.com/en/news/announcements/banned-and-restricted-june-30-2025). The planned end of the season is November 5, 2025 (Wednesday). Points scored during the tournament held on that day are **included** in the season's results.
+The second season starts with the publication of [Banned and Restricted Announcement on 10.11.2025](https://magic.wizards.com/en/news/announcements/banned-and-restricted-november-10-2025). The planned end of the season is not yet specified[^when].
+
+[^when]: According to the [linked B&R](https://magic.wizards.com/en/news/announcements/banned-and-restricted-june-30-2025), the next announcement is just 2 weeks afterward. We will decide later when to exactly end the season.
 
 ## FNMs
 
