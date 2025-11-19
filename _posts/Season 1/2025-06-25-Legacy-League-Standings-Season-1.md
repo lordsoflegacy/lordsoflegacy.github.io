@@ -10,6 +10,9 @@ math: true
 
 ## Standings
 
+> This season has ended on 10.11.2025.
+{: .prompt-warning }
+
 > You may need to horizontally scroll the table below to view full information.
 {: .prompt-info } 
 
