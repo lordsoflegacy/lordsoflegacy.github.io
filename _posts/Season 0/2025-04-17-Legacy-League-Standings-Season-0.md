@@ -1,5 +1,5 @@
 ---
-title: "Legacy League Standings - Season #0"
+title: "Legacy League Standings for Season #0"
 date: 2025-04-17 18:20:00 +0200
 categories: [Legacy League, Season 0]
 tags: [standings, full standings]

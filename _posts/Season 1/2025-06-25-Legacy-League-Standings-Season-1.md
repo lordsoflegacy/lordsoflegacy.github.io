@@ -1,5 +1,5 @@
 ---
-title: "Legacy League Standings - Season #1"
+title: "Legacy League Standings for Season #1"
 categories: [Legacy League, Season 1]
 tags: [standings, full standings]
 description: Standings report.
