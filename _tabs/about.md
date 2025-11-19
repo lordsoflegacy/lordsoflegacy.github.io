@@ -17,3 +17,7 @@ I should probably add some relevant information here someday, but I can't think 
 ## Magic: The Gathering Tournament Rules
 
 <object id="MTG_MTR_2025_Apr_21_EN.pdf" data="{{ site.url }}{{ site.baseurl }}/assets/pdfs/MTG_MTR_2025_Apr_21_EN.pdf" class="pdf-object" type="application/pdf"></object>
+
+## Diffs of Magic: The Gathering Resources
+
+<https://academyruins.com/archives>
