@@ -22,9 +22,7 @@ During Legacy FNMs organized by [CentrumMTG](https://www.centrum-mtg.com.pl/) (h
 
 ## Season
 
-The second season starts with the publication of [Banned and Restricted Announcement on 10.11.2025](https://magic.wizards.com/en/news/announcements/banned-and-restricted-november-10-2025). The planned end of the season is not yet specified[^when].
-
-[^when]: According to the [linked B&R](https://magic.wizards.com/en/news/announcements/banned-and-restricted-june-30-2025), the next announcement is just 2 weeks afterward. We will decide later when to exactly end the season.
+The second season starts with the publication of [Banned and Restricted Announcement on 10.11.2025](https://magic.wizards.com/en/news/announcements/banned-and-restricted-november-10-2025). The planned end of the season is on 04.02.2026.
 
 ## FNMs
 
