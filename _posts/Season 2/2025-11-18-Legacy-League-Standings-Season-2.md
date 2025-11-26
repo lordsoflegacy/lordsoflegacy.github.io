@@ -14,7 +14,7 @@ pin: true
 > You may need to horizontally scroll the table below to view full information.
 {: .prompt-info } 
 
-|   Place   | Name and surname            | Total points | [1][league-1-1] | [2][league-1-2] |
+|   Place   | Name and surname            | Total points | [1][league-2-1] | [2][league-2-2] |
 |:---------:|-----------------------------|:------------:|:---------------:|:---------------:|
 | $$ 1. $$  | Krzysztof Mazurek           |   $$ 18 $$   |        9        |        9        |
 | $$ 2. $$  | Filip Kwiatkowski           |   $$ 18 $$   |        6        |       12        |
@@ -32,7 +32,7 @@ pin: true
 | $$ 14. $$ | Piotr Figiel                |   $$ 0 $$    |                 |        0        |
 
 [league-2-1]: ../Legacy-League-2-1
-[league-1-2]: ../Legacy-League-1-2
+[league-2-2]: ../Legacy-League-1-2
 
 ---
 
