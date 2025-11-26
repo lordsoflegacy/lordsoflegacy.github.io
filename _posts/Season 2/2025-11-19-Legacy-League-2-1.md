@@ -22,6 +22,6 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 8. $$  | Filip Kwiatkowski           | $$ 2-2-0 $$ | Blue Cloudpost   |
 | $$ 9. $$  | Piotr Jurek                 | $$ 1-3-0 $$ | Blue Riddler     |
 | $$ 10. $$ | Piotr Wróblewski            | $$ 1-3-0 $$ | UB Doomsday      |
-| $$ 11. $$ | Ludwik "Explor" Jachowicz   | $$ 1-3-0 $$ | UW Blink         |
+| $$ 11. $$ | Ludwik "Explor" Jachowicz   | $$ 1-3-0 $$ | UW Riddler       |
 
 ---
