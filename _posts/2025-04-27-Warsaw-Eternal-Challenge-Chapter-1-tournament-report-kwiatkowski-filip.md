@@ -1,5 +1,5 @@
 ---
-title: "Warsaw Eternal Challenge — Legacy Tournament Report"
+title: "Warsaw Eternal Challenge #1 — Legacy Tournament Report"
 date: 2025-04-28 00:00:00 +0200
 categories: [Personal, Filip Kwiatkowski]
 tags: [tournament report]
@@ -12,7 +12,7 @@ math: true
 > This article's purpose is twofold---it serves as a tournament report from the perspective of an 8-cast player and as a general overview of the event. For those who seek just the former, [click here to skip to the appropriate section](#the-tournament-from-the-first-person-perspective).
 {: .prompt-info }
 
-## Legacy Scene in Poland
+## Legacy scene in poland
 
 Warsaw is the capital of Poland, which means:
 
@@ -26,7 +26,7 @@ Legacy has had its ups and downs in terms of its active player base, but thanks 
 
 it (alongside Premodern) is starting to see a resurgence here. We (Polish players and tournament organizers) are not yet able to draw the attention and attendance of foreign players, but we certainly aim to get there sooner rather than later.
 
-### Warsaw Eternal Challenge - Filip Pawłowski's Initiative
+### Warsaw Eternal Challenge - Filip Pawłowski's initiative
 
 Taking place at the rapidly growing and flourishing local game store (LGS) [CentrumMTG](https://www.centrum-mtg.com.pl/), Warsaw Eternal Challenge managed to gather 40 Premodern and 29 Legacy players. These numbers, at least according to the shared gut feeling of many, are only to keep growing, perhaps even to double in the not-so-distant future.
 
@@ -41,7 +41,7 @@ The stakes were raised after it was announced that the winner will be granted an
 
 This, paired with a relatively low number of players, meant that people who are knowledgeable about others' preferences may be much better prepared. Personally, I expected a little bit more Show and Tells (there were only 2), but other than that, I feel like I managed to predict the meta quite well. 
 
-## The Tournament from the First-Person Perspective
+## The tournament from the first-person perspective
 
 From here on, I'll focus on my personal perspective of the tournament. We'll go back to a more objective point of view [later in the article](#the-winner).
 
@@ -89,7 +89,7 @@ It's worth mentioning that Legacy has faced some important bans recently. [&#828
 
 So, despite not being certain which deck I would be playing, I felt happy thanks to those bans.
 
-### My Experience
+### My experience
 
 It's worth noting that I have played very little Magic for the last 1.5 years. Occasionally, I'd show up at my friend's house to play a bit of mixed Eternal formats, but that was it. I didn't have much free time. Fortunately, that changed in April. I started attending local Legacy FNMs[^wednesday], and I've been doing [pretty][1] [okay][2] [there][3].
 
@@ -136,7 +136,7 @@ This is the moment where I lose all credibility---everything I've said thus far 
 
 I joined the [8-cast Discord](https://discord.gg/26GeYKYtM5) server and received great help, mainly from ItsSchwiftyTime. I pondered some ideas, reported some results, ~~stole~~borrowed some decklists, and practiced.
 
-#### Local Events
+#### Local events
 
 With 8-cast, I managed to go $$ 4 - 0 $$, $$ 3 - 1 $$ and $$ 3 - 1 $$ in locals. Losing, twice, only to Cradle Control. It's a tough matchup. On one hand, I wish I could play more &#8288;<mtg-card>Dismember</mtg-card>s, but on the other, why devote that many sideboard slots to a matchup we're likely losing anyway.
 

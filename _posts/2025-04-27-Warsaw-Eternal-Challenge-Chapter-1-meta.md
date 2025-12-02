@@ -1,5 +1,5 @@
 ---
-title: "Warsaw Legacy Challenge #1 — Meta Report"
+title: "Warsaw Eternal Challenge #1 — Legacy Meta Report"
 date: 2025-04-27 23:30:00 +0200
 categories: [Warsaw Legacy Challenge, meta]
 tags: [meta]
@@ -341,7 +341,7 @@ Copies of decklists supplied by the players.
 ```
 {: file="RUG Delver" }
 
-## The Rest of the Results
+## The rest of the results
 
 Unfortunately, the access to full standings after swiss has been lost, but the by-then top 16 presented itself as follows:
 
