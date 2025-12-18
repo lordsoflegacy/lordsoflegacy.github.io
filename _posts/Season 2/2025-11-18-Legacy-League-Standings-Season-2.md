@@ -9,6 +9,9 @@ pin: true
 
 ---
 
+> The full list of all seasons' standings can be found [here](../../tags/full-standings/).
+{: .prompt-info }
+
 ## Standings
 
 > You may need to horizontally scroll the table below to view full information.
