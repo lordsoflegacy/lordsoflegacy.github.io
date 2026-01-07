@@ -8,13 +8,16 @@ math: true
 
 ---
 
-## Standings
-
-> This season has ended on 10.11.2025.
+> This season has ended on 05.11.2025.
 {: .prompt-warning }
 
+> The full list of all seasons' standings can be found [here](../../tags/full-standings/).
+{: .prompt-info }
+
+## Standings
+
 > You may need to horizontally scroll the table below to view full information.
-{: .prompt-info } 
+{: .prompt-info }
 
 |   Place   | Name and surname                                                           | Total points | [1][league-1-1] | [2][league-1-2] | [3][league-1-3] | [4][league-1-4] | [5][league-1-5] | [6][league-1-6] | [7][league-1-7] | [8][league-1-8] | [9][league-1-9] | [10][league-1-10] | [11][league-1-11] | [12][league-1-12] | [13][league-1-13] | [14][league-1-14] | [15][league-1-15] | [16][league-1-16] | [17][league-1-17] | [18][league-1-18] | [19][league-1-19] |
 |:---------:|----------------------------------------------------------------------------|:------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
