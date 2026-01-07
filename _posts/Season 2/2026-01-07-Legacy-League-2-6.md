@@ -19,7 +19,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 5. $$  | Bartosz Litwin            | $$ 2-2-0 $$ | UG Infect                               |
 | $$ 6. $$  | Sylwester Strużyna        | $$ 2-2-0 $$ | UB Tempo<sub><sub>with Hymn</sub></sub> |
 | $$ 7. $$  | Jeskai Frieren            | $$ 1-3-0 $$ | 4c Miracles                             |
-| $$ 8. $$  | Piotr Figiel              | $$ 1-3-0 $$ | BUG Food Chain                          |
+| $$ 8. $$  | Piotr Figiel              | $$ 1-3-0 $$ | TES                                     |
 | $$ 9. $$  | Filip Kwiatkowski         | $$ 1-3-0 $$ | Affinity                                |
 | $$ 10. $$ | Ziemowit Strużyna         | $$ 1-3-0 $$ | RW Painter                              |
 
