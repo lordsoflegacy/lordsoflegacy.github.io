@@ -12,9 +12,6 @@ math: true
 > This season has ended on 25.06.2025.
 {: .prompt-warning }
 
-> The full list of all seasons' standings can be found [here](../../tags/full-standings/).
-{: .prompt-info }
-
 ## Standings
 
 > You may need to horizontally scroll the table below to view full information.
@@ -63,5 +60,7 @@ math: true
 [league-0-11]: ../Legacy-League-0-11
 [league-0-12]: ../Legacy-League-0-12
 [league-0-13]: ../Legacy-League-0-13
+
+The full list of all seasons' standings can be found [here](../../tags/full-standings/).
 
 ---
