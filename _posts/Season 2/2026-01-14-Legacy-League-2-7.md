@@ -23,6 +23,6 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 9.  $$ | Maciej Staniszewski        | $$ 1-2-1 $$ | Domain Legends |
 | $$ 10. $$ | Filip Pawłowski            | $$ 1-2-1 $$ | Rector Fit     |
 | $$ 11. $$ | Piotr Figiel               | $$ 1-3-0 $$ | TES            |
-| $$ 12. $$ | Patryk "Kurczak" Skowroń   | $$ 0-4-0 $$ | UR Delver      |
+| $$ 12. $$ | Patryk "Kurczak" Skowroń   | $$ 0-4-0 $$ | UR Cori        |
 
 ---
