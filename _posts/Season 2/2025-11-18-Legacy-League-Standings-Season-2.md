@@ -14,28 +14,30 @@ pin: true
 > You may need to horizontally scroll the table below to view full information.
 {: .prompt-info }
 
-|   Place   | Name and surname            | Total points | [1][league-2-1] | [2][league-2-2] | [3][league-2-3] | [4][league-2-4] | [5][league-2-5] | [6][league-2-6] |
-|:---------:|-----------------------------|:------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
-| $$ 1. $$  | Krzysztof Mazurek           |   $$ 57 $$   |        9        |        9        |        6        |       12        |        9        |       12        |
-| $$ 2. $$  | Piotr Szejko                |   $$ 46 $$   |        7        |        6        |        9        |        9        |        6        |        9        |
-| $$ 3. $$  | Filip Kwiatkowski           |   $$ 37 $$   |        6        |       12        |        3        |        7        |        6        |        3        |
-| $$ 4. $$  | Jeskai Frieren              |   $$ 33 $$   |        6        |        3        |        3        |        6        |       12        |        3        |
-| $$ 5. $$  | Ludwik "Explor" Jachowicz   |   $$ 30 $$   |        3        |        3        |        6        |        6        |        3        |        9        |
-| $$ 6. $$  | Maciej Staniszewski         |   $$ 28 $$   |        6        |        6        |        3        |                 |        7        |        6        |
-| $$ 7. $$  | Piotr Wróblewski            |   $$ 24 $$   |        3        |        9        |                 |        3        |        9        |                 |
-| $$ 8. $$  | Grzegorz "Dauthi" Jezierski |   $$ 21 $$   |       12        |                 |                 |        9        |                 |                 |
-| $$ 9. $$  | Sylwester Strużyna          |   $$ 18 $$   |                 |        3        |                 |        9        |                 |        6        |
-| $$ 10. $$ | Filip Pawłowski             |   $$ 13 $$   |        7        |                 |                 |                 |        6        |                 |
-| $$ 11. $$ | Jeremiasz "Yerbaa" Lubimow  |   $$ 12 $$   |        9        |                 |                 |        3        |        0        |                 |
-| $$ 12. $$ | Bartosz Litwin              |   $$ 12 $$   |                 |                 |        6        |                 |                 |        6        |
-| $$ 13. $$ | Tomasz Ługowski             |   $$ 10 $$   |                 |        6        |                 |        4        |                 |                 |
-| $$ 14. $$ | Piotr Figiel                |   $$ 9 $$    |                 |        0        |                 |        3        |        3        |        3        |
-| $$ 15. $$ | Błażej Ruba                 |   $$ 7 $$    |                 |                 |                 |                 |        7        |                 |
-| $$ 16. $$ | Mikołaj Wyspiański          |   $$ 6 $$    |                 |                 |                 |                 |        6        |                 |
-| $$ 17. $$ | Antoine Albertelli          |   $$ 4 $$    |                 |                 |                 |                 |        4        |                 |
-| $$ 18. $$ | Piotr Jurek                 |   $$ 3 $$    |        3        |                 |                 |                 |                 |                 |
-| $$ 19. $$ | Rafał Mikołajczuk           |   $$ 3 $$    |                 |                 |                 |                 |        3        |                 |
-| $$ 20. $$ | Ziemowit Strużyna           |   $$ 3 $$    |                 |                 |                 |                 |                 |        3        |
+|   Place   | Name and surname            | Total points | [1][league-2-1] | [2][league-2-2] | [3][league-2-3] | [4][league-2-4] | [5][league-2-5] | [6][league-2-6] | [7][league-2-7] |
+|:---------:|-----------------------------|:------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
+| $$ 1. $$  | Krzysztof Mazurek           |   $$ 66 $$   |        9        |        9        |        6        |       12        |        9        |       12        |        9        |
+| $$ 2. $$  | Piotr Szejko                |   $$ 55 $$   |        7        |        6        |        9        |        9        |        6        |        9        |        9        |
+| $$ 3. $$  | Filip Kwiatkowski           |   $$ 43 $$   |        6        |       12        |        3        |        7        |        6        |        3        |        6        |
+| $$ 4. $$  | Ludwik "Explor" Jachowicz   |   $$ 39 $$   |        3        |        3        |        6        |        6        |        3        |        9        |        9        |
+| $$ 5. $$  | Jeskai Frieren              |   $$ 33 $$   |        6        |        3        |        3        |        6        |       12        |        3        |                 |
+| $$ 6. $$  | Maciej Staniszewski         |   $$ 32 $$   |        6        |        6        |        3        |                 |        7        |        6        |        4        |
+| $$ 7. $$  | Sylwester Strużyna          |   $$ 27 $$   |                 |        3        |                 |        9        |                 |        6        |        9        |
+| $$ 8. $$  | Piotr Wróblewski            |   $$ 24 $$   |        3        |        9        |                 |        3        |        9        |                 |                 |
+| $$ 9. $$  | Grzegorz "Dauthi" Jezierski |   $$ 21 $$   |       12        |                 |                 |        9        |                 |                 |                 |
+| $$ 10. $$ | Jeremiasz "Yerbaa" Lubimow  |   $$ 21 $$   |        9        |                 |                 |        3        |        0        |                 |        9        |
+| $$ 11. $$ | Filip Pawłowski             |   $$ 17 $$   |        7        |                 |                 |                 |        6        |                 |        4        |
+| $$ 12. $$ | Bartosz Litwin              |   $$ 12 $$   |                 |                 |        6        |                 |                 |        6        |                 |
+| $$ 13. $$ | Piotr Figiel                |   $$ 12 $$   |                 |        0        |                 |        3        |        3        |        3        |        3        |
+| $$ 14. $$ | Tomasz Ługowski             |   $$ 10 $$   |                 |        6        |                 |        4        |                 |                 |                 |
+| $$ 15. $$ | Ziemowit Strużyna           |   $$ 9 $$    |                 |                 |                 |                 |                 |        3        |        6        |
+| $$ 16. $$ | Błażej Ruba                 |   $$ 7 $$    |                 |                 |                 |                 |        7        |                 |                 |
+| $$ 17. $$ | Mikołaj Wyspiański          |   $$ 6 $$    |                 |                 |                 |                 |        6        |                 |                 |
+| $$ 18. $$ | Rafał "Rav" Buczowski       |   $$ 6 $$    |                 |                 |                 |                 |                 |                 |        6        |
+| $$ 19. $$ | Antoine Albertelli          |   $$ 4 $$    |                 |                 |                 |                 |        4        |                 |                 |
+| $$ 20. $$ | Piotr Jurek                 |   $$ 3 $$    |        3        |                 |                 |                 |                 |                 |                 |
+| $$ 21. $$ | Rafał Mikołajczuk           |   $$ 3 $$    |                 |                 |                 |                 |        3        |                 |                 |
+| $$ 22. $$ | Patryk "Kurczak" Skowroń    |   $$ 0 $$    |                 |                 |                 |                 |                 |                 |        0        |
 
 [league-2-1]: ../Legacy-League-2-1
 [league-2-2]: ../Legacy-League-1-2
@@ -43,7 +45,9 @@ pin: true
 [league-2-4]: ../Legacy-League-2-4
 [league-2-5]: ../Legacy-League-2-5
 [league-2-6]: ../Legacy-League-2-6
+[league-2-7]: ../Legacy-League-2-7
 
 The full list of all seasons' standings can be found [here](../../tags/full-standings/).
 
 ---
+
