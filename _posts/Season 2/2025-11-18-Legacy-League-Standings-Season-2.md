@@ -20,7 +20,7 @@ pin: true
 | $$ 2. $$  | Piotr Szejko                |   $$ 67 $$   |        7        |        6        |        9        |        9        |        6        |        9        |        9        |        3        |        9        |
 | $$ 3. $$  | Ludwik "Explor" Jachowicz   |   $$ 54 $$   |        3        |        3        |        6        |        6        |        3        |        9        |        9        |        6        |        9        |
 | $$ 4. $$  | Filip Kwiatkowski           |   $$ 52 $$   |        6        |       12        |        3        |        7        |        6        |        3        |        6        |        6        |        3        |
-| $$ 5. $$  | Jeskai Frieren              |   $$ 42 $$   |        6        |        3        |        3        |        6        |       12        |        3        |                 |        9        |                 |
+| $$ 5. $$  | Jeskai Frieren              |   $$ 51 $$   |        6        |        3        |        3        |        6        |       12        |        3        |                 |        9        |        9        |
 | $$ 6. $$  | Maciej Staniszewski         |   $$ 38 $$   |        6        |        6        |        3        |                 |        7        |        6        |        4        |        0        |        6        |
 | $$ 7. $$  | Sylwester Strużyna          |   $$ 36 $$   |                 |        3        |                 |        9        |                 |        6        |        9        |        9        |                 |
 | $$ 8. $$  | Filip Pawłowski             |   $$ 32 $$   |        7        |                 |                 |                 |        6        |                 |        4        |       12        |        3        |
@@ -32,15 +32,14 @@ pin: true
 | $$ 14. $$ | Rafał "Rav" Buczowski       |   $$ 12 $$   |                 |                 |                 |                 |                 |                 |        6        |        6        |                 |
 | $$ 15. $$ | Tomasz Ługowski             |   $$ 10 $$   |                 |        6        |                 |        4        |                 |                 |                 |                 |                 |
 | $$ 16. $$ | Ziemowit Strużyna           |   $$ 9 $$    |                 |                 |                 |                 |                 |        3        |        6        |                 |                 |
-| $$ 17. $$ | Bant Frieren                |   $$ 9 $$    |                 |                 |                 |                 |                 |                 |                 |                 |        9        |
-| $$ 18. $$ | Błażej Ruba                 |   $$ 7 $$    |                 |                 |                 |                 |        7        |                 |                 |                 |                 |
-| $$ 19. $$ | Mikołaj Wyspiański          |   $$ 6 $$    |                 |                 |                 |                 |        6        |                 |                 |                 |                 |
-| $$ 20. $$ | Antoine Albertelli          |   $$ 4 $$    |                 |                 |                 |                 |        4        |                 |                 |                 |                 |
-| $$ 21. $$ | Jacek Woloszcz...           |   $$ 4 $$    |                 |                 |                 |                 |                 |                 |                 |                 |        4        |
-| $$ 22. $$ | Piotr Jurek                 |   $$ 3 $$    |        3        |                 |                 |                 |                 |                 |                 |                 |                 |
-| $$ 23. $$ | Rafał Mikołajczuk           |   $$ 3 $$    |                 |                 |                 |                 |        3        |                 |                 |                 |                 |
-| $$ 24. $$ | Tomasz Gradkowski           |   $$ 2 $$    |                 |                 |                 |                 |                 |                 |                 |                 |        2        |
-| $$ 25. $$ | Patryk "Kurczak" Skowroń    |   $$ 0 $$    |                 |                 |                 |                 |                 |                 |        0        |                 |                 |
+| $$ 17. $$ | Błażej Ruba                 |   $$ 7 $$    |                 |                 |                 |                 |        7        |                 |                 |                 |                 |
+| $$ 18. $$ | Mikołaj Wyspiański          |   $$ 6 $$    |                 |                 |                 |                 |        6        |                 |                 |                 |                 |
+| $$ 19. $$ | Antoine Albertelli          |   $$ 4 $$    |                 |                 |                 |                 |        4        |                 |                 |                 |                 |
+| $$ 20. $$ | Jacek Woloszcz...           |   $$ 4 $$    |                 |                 |                 |                 |                 |                 |                 |                 |        4        |
+| $$ 21. $$ | Piotr Jurek                 |   $$ 3 $$    |        3        |                 |                 |                 |                 |                 |                 |                 |                 |
+| $$ 22. $$ | Rafał Mikołajczuk           |   $$ 3 $$    |                 |                 |                 |                 |        3        |                 |                 |                 |                 |
+| $$ 23. $$ | Tomasz Gradkowski           |   $$ 2 $$    |                 |                 |                 |                 |                 |                 |                 |                 |        2        |
+| $$ 24. $$ | Patryk "Kurczak" Skowroń    |   $$ 0 $$    |                 |                 |                 |                 |                 |                 |        0        |                 |                 |
 
 [league-2-1]: ../Legacy-League-2-1
 [league-2-2]: ../Legacy-League-1-2
