@@ -54,5 +54,5 @@ pin: true
 [league-2-9]: ../Legacy-League-2-9
 
 The full list of all seasons' standings can be found [here](../../tags/full-standings/).
----
 
+---
