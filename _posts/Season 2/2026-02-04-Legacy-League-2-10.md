@@ -25,6 +25,6 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 11. $$ | Ludwik "Explor" Jachowicz | $$ 1-3-0 $$ | Cradle Control                                  |
 | $$ 12. $$ | Piotr Wróblewski          | $$ 1-3-0 $$ | Dredge                                          |
 | $$ 13. $$ | Marcin Nowakowski         | $$ 0-2-2 $$ | 4c Punishing Waterfalls                         |
-| $$ 14. $$ | Filip Pawłowski           | $$ 0-3-1 $$ | BUG Nic Fit<sub>with Wan Shi Tong</sub>         |
+| $$ 14. $$ | Filip Pawłowski           | $$ 0-3-1 $$ | BUG Food Chain<sub>with Wan Shi Tong</sub>      |
 
 ---
