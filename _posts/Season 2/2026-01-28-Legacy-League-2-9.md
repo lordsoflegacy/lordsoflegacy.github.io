@@ -13,7 +13,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 |   Place   | Name and surname           | Result      | Deck               |
 |:---------:|----------------------------|-------------|--------------------|
 | $$ 1.  $$ | Krzysztof Mazurek          | $$ 4-0-0 $$ | UB Tempo           |
-| $$ 2.  $$ | Bant Frieren               | $$ 3-1-0 $$ | 4c Miracels        |
+| $$ 2.  $$ | Jeskai Frieren             | $$ 3-1-0 $$ | 4c Miracels        |
 | $$ 3.  $$ | Piotr Szejko               | $$ 3-1-0 $$ | Mono G Lands       |
 | $$ 4.  $$ | Ludwik "Explor" Jachowicz  | $$ 3-1-0 $$ | Cradle Control     |
 | $$ 5.  $$ | Bartosz Litwin             | $$ 3-1-0 $$ | UG Birthing Ritual |
