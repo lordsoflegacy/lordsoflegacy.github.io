@@ -4,10 +4,12 @@ categories: [Legacy League, Season 2]
 tags: [standings, full standings]
 description: Standings report.
 math: true
-pin: true
 ---
 
 ---
+
+> This season has ended on 04.02.2025.
+{: .prompt-warning }
 
 ## Standings
 
@@ -56,5 +58,5 @@ pin: true
 [league-2-10]: ../Legacy-League-2-10
 
 The full list of all seasons' standings can be found [here](../../tags/full-standings/).
----
 
+---

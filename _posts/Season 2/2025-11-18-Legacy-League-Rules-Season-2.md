@@ -5,7 +5,6 @@ tags: [rules]
 description: Legacy League rules for season 2.
 math: true
 mermaid: true
-pin: true
 ---
 
 ---
