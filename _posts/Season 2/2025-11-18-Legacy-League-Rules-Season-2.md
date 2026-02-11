@@ -1,17 +1,18 @@
 ---
-title: "Legacy League Rules for Season #2"
-categories: [Legacy League, Season 2]
+title: "Legacy League Rules for Season #3"
+categories: [Legacy League, Season 3]
 tags: [rules]
-description: Legacy League rules for season 2.
+description: Legacy League rules for season 3.
 math: true
 mermaid: true
+pin: true
 ---
 
 ---
 
 ## Introduction
 
-To avoid any unpleasantness related to potential ambiguities during Legacy League matches, the following rules have been written down and adopted for the zeroth season of the Legacy League.
+To avoid any unpleasantness related to potential ambiguities during Legacy League matches, the following rules have been written down and adopted for the second season of the Legacy League.
 
 Additionally, this article outlines the general way the League operates.
 

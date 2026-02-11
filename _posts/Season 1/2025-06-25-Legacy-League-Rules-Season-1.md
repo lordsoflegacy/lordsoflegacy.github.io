@@ -11,7 +11,7 @@ mermaid: true
 
 ## Introduction
 
-To avoid any unpleasantness related to potential ambiguities during Legacy League matches, the following rules have been written down and adopted for the zeroth season of the Legacy League.
+To avoid any unpleasantness related to potential ambiguities during Legacy League matches, the following rules have been written down and adopted for the first season of the Legacy League.
 
 Additionally, this article outlines the general way the League operates.
 
