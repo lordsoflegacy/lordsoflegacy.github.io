@@ -9,9 +9,6 @@ pin: true
 
 ---
 
-> This season has ended on 04.02.2025.
-{: .prompt-warning }
-
 ## Standings
 
 > You may need to horizontally scroll the table below to view full information.
