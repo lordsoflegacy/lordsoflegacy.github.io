@@ -1,11 +1,10 @@
 ---
-title: "Legacy League Rules for Season #3"
+title: "Legacy League Rules for Season #2"
 categories: [Legacy League, Season 3]
 tags: [rules]
 description: Legacy League rules for season 3.
 math: true
 mermaid: true
-pin: true
 ---
 
 ---
