@@ -16,7 +16,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 2. $$  | Filip Kwiatkowski          | $$ 3-1-0 $$ | Affinity         |
 | $$ 3. $$  | Jeskai Frieren             | $$ 3-1-0 $$ | UW Tempo         |
 | $$ 4. $$  | Sylwester Strużyna         | $$ 3-1-0 $$ | Maverick         |
-| $$ 5. $$  | Piotr Szejko               | $$ 2-2-0 $$ | BW Ocelote Pride |
+| $$ 5. $$  | Piotr Szejko               | $$ 2-2-0 $$ | BW Ocelot Pride  |
 | $$ 6. $$  | Błażej Ruba                | $$ 2-2-0 $$ | Mardu Energy     |
 | $$ 7. $$  | Ludwik "Explor" Jachowicz  | $$ 2-2-0 $$ | Cradle Control   |
 | $$ 8. $$  | Tomasz Gradkowski          | $$ 2-2-0 $$ | Blue Cloudpost   |
