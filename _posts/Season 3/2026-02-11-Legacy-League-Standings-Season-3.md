@@ -14,25 +14,27 @@ pin: true
 > You may need to horizontally scroll the table below to view full information.
 {: .prompt-info }
 
-|   Place   | Name and surname           | Total points | [1][league-3-1] | [2][league-3-2] |
-|:---------:|----------------------------|:------------:|:---------------:|:---------------:|
-| $$ 1. $$  | Filip Kwiatkowski          |   $$ 21 $$   |       12        |        9        |
-| $$ 2. $$  | Krzysztof Mazurek          |   $$ 18 $$   |        9        |        9        |
-| $$ 3. $$  | Rafał "Rav" Buczowski      |   $$ 15 $$   |        9        |        6        |
-| $$ 4. $$  | Jeskai Frieren             |   $$ 12 $$   |        9        |        3        |
-| $$ 5. $$  | Ludwik "Explor" Jachowicz  |   $$ 12 $$   |        6        |        6        |
-| $$ 6. $$  | Jeremiasz "Yerbaa" Lubimow |   $$ 12 $$   |        3        |        9        |
-| $$ 7. $$  | Sylwester Strużyna         |   $$ 12 $$   |                 |       12        |
-| $$ 8. $$  | Piotr Szejko               |   $$ 9 $$    |        6        |        3        |
-| $$ 9. $$  | Maciej Staniszewski        |   $$ 9 $$    |        6        |        3        |
-| $$ 10. $$ | Piotr Figiel               |   $$ 6 $$    |                 |        6        |
-| $$ 11. $$ | Łukasz "Matys" Matusiak    |   $$ 6 $$    |                 |        6        |
-| $$ 12. $$ | Tomasz Gradkowski          |   $$ 4 $$    |        4        |                 |
-| $$ 13. $$ | Filip Pawłowski            |   $$ 4 $$    |        4        |                 |
-| $$ 14. $$ | Bartosz Litwin             |   $$ 3 $$    |        3        |                 |
+|   Place   | Name and surname           | Total points | [1][league-3-1] | [2][league-3-2] | [3][league-3-3] |
+|:---------:|----------------------------|:------------:|:---------------:|:---------------:|:---------------:|
+| $$ 1. $$  | Filip Kwiatkowski          |   $$ 30 $$   |       12        |        9        |        9        |
+| $$ 2. $$  | Krzysztof Mazurek          |   $$ 30 $$   |        9        |        9        |       12        |
+| $$ 3. $$  | Jeskai Frieren             |   $$ 21 $$   |        9        |        3        |        9        |
+| $$ 4. $$  | Sylwester Strużyna         |   $$ 21 $$   |                 |       12        |        9        |
+| $$ 5. $$  | Ludwik "Explor" Jachowicz  |   $$ 18 $$   |        6        |        6        |        6        |
+| $$ 6. $$  | Rafał "Rav" Buczowski      |   $$ 15 $$   |        9        |        6        |                 |
+| $$ 7. $$  | Jeremiasz "Yerbaa" Lubimow |   $$ 15 $$   |        3        |        9        |        3        |
+| $$ 8. $$  | Piotr Szejko               |   $$ 15 $$   |        6        |        3        |        6        |
+| $$ 9. $$  | Tomasz Gradkowski          |   $$ 10 $$   |        4        |                 |        6        |
+| $$ 10. $$ | Maciej Staniszewski        |   $$ 9 $$    |        6        |        3        |                 |
+| $$ 11. $$ | Piotr Figiel               |   $$ 9 $$    |                 |        6        |        3        |
+| $$ 12. $$ | Łukasz "Matys" Matusiak    |   $$ 6 $$    |                 |        6        |                 |
+| $$ 13. $$ | Bartosz Litwin             |   $$ 6 $$    |        3        |                 |        3        |
+| $$ 14. $$ | Błażej Ruba                |   $$ 6 $$    |                 |                 |        6        |
+| $$ 15. $$ | Filip Pawłowski            |   $$ 4 $$    |        4        |                 |                 |
 
 [league-3-1]: ../Legacy-League-3-1
 [league-3-2]: ../Legacy-League-3-2
+[league-3-3]: ../Legacy-League-3-3
 
 The full list of all seasons' standings can be found [here](../../tags/full-standings/).
 
