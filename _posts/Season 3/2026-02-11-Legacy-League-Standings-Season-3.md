@@ -22,6 +22,22 @@ pin: true
   background-clip: text;
   color: transparent;
 }
+.fririp-style {
+  background: linear-gradient(
+    90deg,
+    #fffbd5 0%,
+    #AAE0FA 50%,
+    #f9aa8f 90%
+  );
+  background-size: 200% 200%;
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+
+  animation: gradientMove 6s ease infinite;
+}
 .stanisz-style {
   background: linear-gradient(
     120deg,
@@ -54,7 +70,7 @@ pin: true
 | $$ 3. $$  | <span title="Ludwik is UWU" class="ludwik-style">Ludwik "Explor" Jachowicz</span> |   $$ 33 $$   |        6        |        6        |        6        |        9        |        6        |
 | $$ 4. $$  | Piotr Szejko                                                                      |   $$ 33 $$   |        6        |        3        |        6        |       12        |        6        |
 | $$ 5. $$  | Sylwester Strużyna                                                                |   $$ 33 $$   |                 |       12        |        9        |        3        |        9        |
-| $$ 6. $$  | Jeskai Frieren                                                                    |   $$ 30 $$   |        9        |        3        |        9        |                 |        9        |
+| $$ 6. $$  | <span title="Frieren is UWr" class="fririp-style">Jeskai Frieren</span>           |   $$ 30 $$   |        9        |        3        |        9        |                 |        9        |
 | $$ 7. $$  | Jeremiasz "Yerbaa" Lubimow                                                        |   $$ 27 $$   |        3        |        9        |        3        |        6        |        6        |
 | $$ 8. $$  | <span title="Stanisz is BUG" class="stanisz-style">Maciek Staniszewski</span>     |   $$ 21 $$   |        6        |        3        |                 |        9        |        3        |
 | $$ 9. $$  | Rafał "Rav" Buczowski                                                             |   $$ 15 $$   |        9        |        6        |                 |                 |                 |
