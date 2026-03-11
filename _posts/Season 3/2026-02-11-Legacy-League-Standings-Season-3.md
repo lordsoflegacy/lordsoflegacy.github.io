@@ -23,7 +23,27 @@ pin: true
   color: transparent;
 }
 .stanisz-style {
-  color: #69a658;
+  background: linear-gradient(
+    120deg,
+    #3a3336,
+    #AAE0FA,
+    #9BD3AE,
+    #AAE0FA
+  );
+  background-size: 200% 200%;
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+
+  animation: gradientMove 6s ease infinite;
+}
+
+@keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
 }
 </style>
 
@@ -36,7 +56,7 @@ pin: true
 | $$ 5. $$  | Sylwester Strużyna                                                                |   $$ 33 $$   |                 |       12        |        9        |        3        |        9        |
 | $$ 6. $$  | Jeskai Frieren                                                                    |   $$ 30 $$   |        9        |        3        |        9        |                 |        9        |
 | $$ 7. $$  | Jeremiasz "Yerbaa" Lubimow                                                        |   $$ 27 $$   |        3        |        9        |        3        |        6        |        6        |
-| $$ 8. $$  | <span title="Stanisz is green" class="stanisz-style">Maciej Staniszewski</span>   |   $$ 21 $$   |        6        |        3        |                 |        9        |        3        |
+| $$ 8. $$  | <span title="Stanisz is BUG" class="stanisz-style">Maciej Staniszewski</span>       |   $$ 21 $$   |        6        |        3        |                 |        9        |        3        |
 | $$ 9. $$  | Rafał "Rav" Buczowski                                                             |   $$ 15 $$   |        9        |        6        |                 |                 |                 |
 | $$ 10. $$ | Tomasz Gradkowski                                                                 |   $$ 13 $$   |        4        |                 |        6        |        3        |                 |
 | $$ 11. $$ | Piotr Figiel                                                                      |   $$ 9 $$    |                 |        6        |        3        |                 |                 |
