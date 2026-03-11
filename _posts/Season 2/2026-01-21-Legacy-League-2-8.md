@@ -21,6 +21,6 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 7.  $$ | Filip Kwiatkowski          | $$ 2-2-0 $$ | Affinity           |
 | $$ 8.  $$ | Piotr Szejko               | $$ 1-3-0 $$ | Mono G Lands       |
 | $$ 9.  $$ | Krzysztof Mazurek          | $$ 1-3-1 $$ | Jeskai Stoneblade  |
-| $$ 10. $$ | Maciej Staniszewski        | $$ 0-4-0 $$ | Artifact Legends   |
+| $$ 10. $$ | Maciek Staniszewski        | $$ 0-4-0 $$ | Artifact Legends   |
 
 ---

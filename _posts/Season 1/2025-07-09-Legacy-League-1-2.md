@@ -13,7 +13,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 |   Place   | Name and surname            | Result      | Deck               |
 |:---------:|-----------------------------|-------------|--------------------|
 | $$ 1. $$  | Ludwik "Explor" Jachowicz   | $$ 4-0-0 $$ | Red Painter        |
-| $$ 2. $$  | Maciej Staniszewski         | $$ 3-1-0 $$ | 4c Bean Reanimator |
+| $$ 2. $$  | Maciek Staniszewski         | $$ 3-1-0 $$ | 4c Bean Reanimator |
 | $$ 3. $$  | Grzegorz "Dauthi" Jezierski | $$ 3-1-0 $$ | GB Shallow Grave   |
 | $$ 4. $$  | Krzysztof Mazurek           | $$ 3-1-0 $$ | UR Cori            |
 | $$ 5. $$  | Jeremiasz "Yerbaa" Lubimow  | $$ 2-2-0 $$ | Pox                |

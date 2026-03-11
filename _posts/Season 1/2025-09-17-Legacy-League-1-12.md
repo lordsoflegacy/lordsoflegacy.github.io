@@ -20,7 +20,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 6.  $$  | Jeremiasz "Yerbaa" Lubimow  | $$ 2-2-0 $$ | GB Pox              |
 | $$ 7.  $$  | Jeskai Frieren              | $$ 2-2-0 $$ | Bant Nadu Breakfast |
 | $$ 8.  $$  | Ludwik "Explor" Jachowicz   | $$ 2-2-0 $$ | UB Tempo            |
-| $$ 9.  $$  | Maciej Staniszewski         | $$ 2-2-0 $$ | 5c Beanstalk        |
+| $$ 9.  $$  | Maciek Staniszewski         | $$ 2-2-0 $$ | 5c Beanstalk        |
 | $$ 10.  $$ | Filip Kwiatkowski           | $$ 1-3-0 $$ | Ur 8-cast           |
 | $$ 11.  $$ | Filip Pawłowski             | $$ 1-3-0 $$ | Turbo Madness       |
 

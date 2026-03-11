@@ -21,7 +21,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 7. $$  | Jeremiasz "Yerbaa" Lubimow  | $$ 2-2-0 $$ | Pox              |
 | $$ 8. $$  | Adrian Perdyan              | $$ 2-2-0 $$ | GB Shallow Grave |
 | $$ 9. $$  | Filip Kwiatkowski           | $$ 2-2-0 $$ | UB Tempo         |
-| $$ 10. $$ | Maciej Staniszewski         | $$ 1-2-1 $$ | BUG Beanstalk    |
+| $$ 10. $$ | Maciek Staniszewski         | $$ 1-2-1 $$ | BUG Beanstalk    |
 | $$ 11. $$ | Marcin Nowakowski           | $$ 1-3-0 $$ | Aluren           |
 | $$ 12. $$ | Rafał Mikołajczuk           | $$ 1-3-0 $$ | UR Delver        |
 | $$ 13. $$ | Tomasz Dąbrowski            | $$ 1-3-0 $$ | UB Reanimator    |

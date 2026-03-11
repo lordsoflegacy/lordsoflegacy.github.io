@@ -19,7 +19,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 5.  $$  | Jeskai Frieren              | $$ 3-1-0 $$ | Jeskai Wizards   |
 | $$ 6.  $$  | Łukasz "Matys" Matusiak     | $$ 2-2-0 $$ | Nadu Breakfast   |
 | $$ 7.  $$  | Krzysztof Mazurek           | $$ 2-2-0 $$ | UB Doomsday      |
-| $$ 8.  $$  | Maciej Staniszewski         | $$ 2-2-0 $$ | BUG Beanstalk    |
+| $$ 8.  $$  | Maciek Staniszewski         | $$ 2-2-0 $$ | BUG Beanstalk    |
 | $$ 9.  $$  | Piotr Szejko                | $$ 2-2-0 $$ | BG Midrange      |
 | $$ 10.  $$ | Filip Pawłowski             | $$ 1-3-0 $$ | BUG Food Chain   |
 | $$ 11.  $$ | Filip Kwiatkowski           | $$ 1-2-0 $$ | Leyline Helm     |

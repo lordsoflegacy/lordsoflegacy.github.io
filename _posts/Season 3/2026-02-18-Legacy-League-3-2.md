@@ -20,7 +20,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 6. $$  | Łukasz "Matys" Matusiak    | $$ 2-2-0 $$ | UW Blink         |
 | $$ 7. $$  | Rafał "Rav" Buczowski      | $$ 2-2-0 $$ | Oops! All Spells |
 | $$ 8. $$  | Ludwik "Explor" Jachowicz  | $$ 2-2-0 $$ | Cradle Control   |
-| $$ 9. $$  | Maciej Staniszewski        | $$ 1-3-0 $$ | BUG Legends      |
+| $$ 9. $$  | Maciek Staniszewski        | $$ 1-3-0 $$ | BUG Legends      |
 | $$ 10. $$ | Piotr Szejko               | $$ 1-3-0 $$ | Cradle Midrange  |
 | $$ 11. $$ | Jeskai Frieren             | $$ 1-3-0 $$ | Death and Taxes  |
 

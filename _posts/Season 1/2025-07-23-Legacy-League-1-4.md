@@ -18,7 +18,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 4.  $$ | Jeskai Frieren              | $$ 3-1-0 $$ | UWr Miracles       |
 | $$ 5.  $$ | Krzysztof Mazurek           | $$ 3-1-0 $$ | UB Doomsday Tempo  |
 | $$ 6.  $$ | Piotr Figiel                | $$ 2-2-0 $$ | TES                |
-| $$ 7.  $$ | Maciej Staniszewski         | $$ 1-3-0 $$ | 4c Bean Reanimator |
+| $$ 7.  $$ | Maciek Staniszewski         | $$ 1-3-0 $$ | 4c Bean Reanimator |
 | $$ 8.  $$ | Jeremiasz "Yerbaa" Lubimow  | $$ 0-4-0 $$ | BG Pox             |
 | $$ 9.  $$ | Bogdan Płonecki             | $$ 0-2-0 $$ | WR Stoneblade      |
 

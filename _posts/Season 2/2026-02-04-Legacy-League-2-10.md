@@ -12,7 +12,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 
 |   Place   | Name and surname          | Result      | Deck                                            |
 |:---------:|---------------------------|-------------|-------------------------------------------------|
-| $$ 1.  $$ | Maciej Staniszewski       | $$ 3-0-1 $$ | BUG Legends                                     |
+| $$ 1.  $$ | Maciek Staniszewski       | $$ 3-0-1 $$ | BUG Legends                                     |
 | $$ 2.  $$ | Sylwester Strużyna        | $$ 3-1-0 $$ | GW Maverick                                     |
 | $$ 3.  $$ | Krzysztof Mazurek         | $$ 3-1-0 $$ | Jeskai Stoneblade                               |
 | $$ 4.  $$ | Tomasz Ługowski           | $$ 3-1-0 $$ | UW Stoneblade<sub>sideboard into Cephalid</sub> |

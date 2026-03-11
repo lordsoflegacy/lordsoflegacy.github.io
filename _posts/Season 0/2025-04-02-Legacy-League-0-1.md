@@ -15,7 +15,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 1. $$  | Krzysztof Mazurek           | $$ 4-0-0 $$ | RUG Delver         |
 | $$ 2. $$  | Piotr Szejko                | $$ 3-1-1 $$ | UB Tempo           |
 | $$ 3. $$  | Grzegorz "Dauthi" Jezierski | $$ 3-1-1 $$ | Beanstalk Miracles |
-| $$ 4. $$  | Maciej Staniszewski         | $$ 3-1-1 $$ | BUG Beanstalk      |
+| $$ 4. $$  | Maciek Staniszewski         | $$ 3-1-1 $$ | BUG Beanstalk      |
 | $$ 5. $$  | Mikołaj Wyspiański          | $$ 3-1-1 $$ | Mono U Jewel       |
 | $$ 6. $$  | Ludwik "Explor" Jachowicz   | $$ 2-2-0 $$ | Blue Painter       |
 | $$ 7. $$  | Arkadiusz Podgórni          | $$ 2-2-0 $$ | GW Lands           |

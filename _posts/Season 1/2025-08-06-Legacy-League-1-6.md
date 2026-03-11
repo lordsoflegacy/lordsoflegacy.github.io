@@ -17,7 +17,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 3.  $$  | Piotr Szejko                | $$ 3-1-0 $$ | BG Midrange       |
 | $$ 4.  $$  | Błażej Ruba                 | $$ 3-1-0 $$ | Mardu Energy      |
 | $$ 5.  $$  | Sylwester Strużyna          | $$ 3-1-0 $$ | Sneak and Show    |
-| $$ 6.  $$  | Maciej Staniszewski         | $$ 2-2-0 $$ | BUG Beanstalk     |
+| $$ 6.  $$  | Maciek Staniszewski         | $$ 2-2-0 $$ | BUG Beanstalk     |
 | $$ 7.  $$  | Ludwik "Explor" Jachowicz   | $$ 2-2-0 $$ | Red Painter       |
 | $$ 8.  $$  | Jeskai Frieren              | $$ 2-2-0 $$ | UWr Miracles      |
 | $$ 9.  $$  | Mateusz Widłak              | $$ 2-2-0 $$ | Karn Echo         |

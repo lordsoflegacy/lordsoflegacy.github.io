@@ -20,7 +20,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 6.  $$ | Rafał "Rav" Buczowski      | $$ 2-2-0 $$ | Mystic Forge   |
 | $$ 7.  $$ | Filip Kwiatkowski          | $$ 2-2-0 $$ | Affinity       |
 | $$ 8.  $$ | Ziemowit Strużyna          | $$ 2-2-0 $$ | Rw Painter     |
-| $$ 9.  $$ | Maciej Staniszewski        | $$ 1-2-1 $$ | Domain Legends |
+| $$ 9.  $$ | Maciek Staniszewski        | $$ 1-2-1 $$ | Domain Legends |
 | $$ 10. $$ | Filip Pawłowski            | $$ 1-2-1 $$ | Rector Fit     |
 | $$ 11. $$ | Piotr Figiel               | $$ 1-3-0 $$ | TES            |
 | $$ 12. $$ | Patryk "Kurczak" Skowroń   | $$ 0-4-0 $$ | UR Cori        |

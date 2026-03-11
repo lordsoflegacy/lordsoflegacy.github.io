@@ -18,7 +18,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 4. $$  | Jeskai Frieren             | $$ 3-1-0 $$ | BW Death and Taxes  |
 | $$ 5. $$  | Ludwik "Explor" Jachowicz  | $$ 2-2-0 $$ | Cradle Control      |
 | $$ 6. $$  | Piotr Szejko               | $$ 2-2-0 $$ | Mono G Lands        |
-| $$ 7. $$  | Maciej Staniszewski        | $$ 2-2-0 $$ | BUG Legends         |
+| $$ 7. $$  | Maciek Staniszewski        | $$ 2-2-0 $$ | BUG Legends         |
 | $$ 8. $$  | Tomasz Gradkowski          | $$ 1-2-1 $$ | UB Tempo            |
 | $$ 9. $$  | Filip Pawłowski            | $$ 1-2-1 $$ | BUG Food Chain      |
 | $$ 10. $$ | Bartosz Litwin             | $$ 1-3-0 $$ | BUG Birthing Ritual |

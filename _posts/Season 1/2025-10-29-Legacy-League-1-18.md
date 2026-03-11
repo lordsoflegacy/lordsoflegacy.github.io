@@ -22,6 +22,6 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 8.  $$ | Sylwester Strużyna          | $$ 2-2-0 $$ | Sneak and Show        |
 | $$ 9.  $$ | Ludwik "Explor" Jachowicz   | $$ 1-2-0 $$ | Bant Nadu             |
 | $$ 10. $$ | Filip Kwiatkowski           | $$ 1-3-0 $$ | Blue Cloudpost        |
-| $$ 11. $$ | Maciej Staniszewski         | $$ 1-3-0 $$ | 5c Beanstalk          |
+| $$ 11. $$ | Maciek Staniszewski         | $$ 1-3-0 $$ | 5c Beanstalk          |
 
 ---

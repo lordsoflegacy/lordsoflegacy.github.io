@@ -16,7 +16,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 2. $$  | Ludwik "Explor" Jachowicz   | $$ 3-1-0 $$ | RW Energy               |
 | $$ 3. $$  | Filip Kwiatkowski           | $$ 3-1-0 $$ | UB Reanimator           |
 | $$ 4. $$  | Piotr Szejko                | $$ 3-1-0 $$ | BG Midrange             |
-| $$ 5. $$  | Maciej Staniszewski         | $$ 2-2-0 $$ | 4c Beanstalk            |
+| $$ 5. $$  | Maciek Staniszewski         | $$ 2-2-0 $$ | 4c Beanstalk            |
 | $$ 6. $$  | Emanuel Broda               | $$ 2-2-0 $$ | UB Reanimator           |
 | $$ 7. $$  | Grzegorz "Dauthi" Jezierski | $$ 2-2-0 $$ | BG Shallow Grave        |
 | $$ 8. $$  | Jeremiasz "Yerbaa" Lubimow  | $$ 2-2-0 $$ | Pox                     |

@@ -19,7 +19,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 5.  $$ | Ludwik "Explor" Jachowicz   | $$ 2-2-0 $$ | Nadu Cephalid           |
 | $$ 6.  $$ | Piotr Szejko                | $$ 2-2-0 $$ | Ocelot Pride Midrange   |
 | $$ 7.  $$ | Piotr Wróblewski            | $$ 2-2-0 $$ | UB Doomsday             |
-| $$ 8.  $$ | Maciej Staniszewski         | $$ 1-2-1 $$ | 5c Beanstalk            |
+| $$ 8.  $$ | Maciek Staniszewski         | $$ 1-2-1 $$ | 5c Beanstalk            |
 | $$ 9.  $$ | Sylwester Strużyna          | $$ 1-3-1 $$ | UG Infect               |
 | $$ 10. $$ | Błażej Ruba                 | $$ 0-3-0 $$ | Mono Black Necropotence |
 

@@ -17,7 +17,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 3. $$  | Tomasz Dąbrowski            | $$ 3-1-0 $$ | UG Show and Tell   |
 | $$ 4. $$  | Ludwik "Explor" Jachowicz   | $$ 3-1-0 $$ | Blue Painter       |
 | $$ 5. $$  | Grzegorz "Dauthi" Jezierski | $$ 3-1-0 $$ | Beanstalk Miracles |
-| $$ 6. $$  | Maciej Staniszewski         | $$ 2-2-0 $$ | BUG Beanstalk      |
+| $$ 6. $$  | Maciek Staniszewski         | $$ 2-2-0 $$ | BUG Beanstalk      |
 | $$ 7. $$  | Jeskai Frieren              | $$ 2-2-0 $$ | Blue Mystic Forge  |
 | $$ 8. $$  | Antoine Albertelli          | $$ 2-2-0 $$ | BW Death and Taxes |
 | $$ 9. $$  | Krzysztof Mazurek           | $$ 2-2-0 $$ | UR Cori            |

@@ -17,7 +17,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 3.  $$ | Piotr Szejko               | $$ 3-1-0 $$ | Mono G Lands       |
 | $$ 4.  $$ | Ludwik "Explor" Jachowicz  | $$ 3-1-0 $$ | Cradle Control     |
 | $$ 5.  $$ | Bartosz Litwin             | $$ 3-1-0 $$ | UG Birthing Ritual |
-| $$ 6.  $$ | Maciej Staniszewski        | $$ 2-2-0 $$ | BUG Legends        |
+| $$ 6.  $$ | Maciek Staniszewski        | $$ 2-2-0 $$ | BUG Legends        |
 | $$ 7.  $$ | Piotr Figiel               | $$ 2-2-0 $$ | TES                |
 | $$ 8.  $$ | Jeremiasz "Yerbaa" Lubimow | $$ 1-2-1 $$ | Mono G Lands       |
 | $$ 9.  $$ | Jacek Woloszcz...          | $$ 1-2-1 $$ | Mystic Forge       |

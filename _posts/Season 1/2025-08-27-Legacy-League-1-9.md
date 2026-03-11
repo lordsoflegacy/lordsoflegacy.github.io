@@ -13,7 +13,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 |   Place    | Name and surname            | Result      | Deck             |
 |:----------:|-----------------------------|-------------|------------------|
 | $$ 1.  $$  | Rafał "Rav" Buczowski       | $$ 4-0-0 $$ | Mystic Forge     |
-| $$ 2.  $$  | Maciej Staniszewski         | $$ 3-1-0 $$ | BUG Beanstalk    |
+| $$ 2.  $$  | Maciek Staniszewski         | $$ 3-1-0 $$ | BUG Beanstalk    |
 | $$ 3.  $$  | Piotr Szejko                | $$ 3-1-0 $$ | BG Midrange      |
 | $$ 4.  $$  | Grzegorz "Dauthi" Jezierski | $$ 3-1-0 $$ | GB Shallow Grave |
 | $$ 5.  $$  | Filip Kwiatkowski           | $$ 2-2-0 $$ | Ur 8-cast        |

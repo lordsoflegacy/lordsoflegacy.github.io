@@ -18,7 +18,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 4. $$ | Piotr Szejko               | $$ 2-2-0 $$ | RW Aggro       |
 | $$ 5. $$ | Ludwik "Explor" Jachowicz  | $$ 2-2-0 $$ | Red Painter    |
 | $$ 6. $$ | Jeremiasz "Yerbaa" Lubimow | $$ 2-2-0 $$ | GB Pox         |
-| $$ 7. $$ | Maciej Staniszewski        | $$ 1-3-0 $$ | BUG            |
+| $$ 7. $$ | Maciek Staniszewski        | $$ 1-3-0 $$ | BUG            |
 | $$ 8. $$ | Krzysztof Mazurek          | $$ 0-4-0 $$ | UW Tempo       |
 
 ---

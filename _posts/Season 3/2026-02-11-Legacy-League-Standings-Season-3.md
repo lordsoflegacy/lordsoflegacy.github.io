@@ -56,7 +56,7 @@ pin: true
 | $$ 5. $$  | Sylwester Strużyna                                                                |   $$ 33 $$   |                 |       12        |        9        |        3        |        9        |
 | $$ 6. $$  | Jeskai Frieren                                                                    |   $$ 30 $$   |        9        |        3        |        9        |                 |        9        |
 | $$ 7. $$  | Jeremiasz "Yerbaa" Lubimow                                                        |   $$ 27 $$   |        3        |        9        |        3        |        6        |        6        |
-| $$ 8. $$  | <span title="Stanisz is BUG" class="stanisz-style">Maciej Staniszewski</span>       |   $$ 21 $$   |        6        |        3        |                 |        9        |        3        |
+| $$ 8. $$  | <span title="Stanisz is BUG" class="stanisz-style">Maciek Staniszewski</span>     |   $$ 21 $$   |        6        |        3        |                 |        9        |        3        |
 | $$ 9. $$  | Rafał "Rav" Buczowski                                                             |   $$ 15 $$   |        9        |        6        |                 |                 |                 |
 | $$ 10. $$ | Tomasz Gradkowski                                                                 |   $$ 13 $$   |        4        |                 |        6        |        3        |                 |
 | $$ 11. $$ | Piotr Figiel                                                                      |   $$ 9 $$    |                 |        6        |        3        |                 |                 |

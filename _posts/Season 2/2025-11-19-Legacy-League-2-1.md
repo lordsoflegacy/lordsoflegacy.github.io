@@ -18,7 +18,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 4. $$  | Piotr Szejko                | $$ 2-1-1 $$ | Mono G Lands     |
 | $$ 5. $$  | Filip Pawłowski             | $$ 2-1-1 $$ | RG Lands         |
 | $$ 6. $$  | Jeskai Frieren              | $$ 2-2-0 $$ | UW Tempo         |
-| $$ 7. $$  | Maciej Staniszewski         | $$ 2-2-0 $$ | BUG Midrange     |
+| $$ 7. $$  | Maciek Staniszewski         | $$ 2-2-0 $$ | BUG Midrange     |
 | $$ 8. $$  | Filip Kwiatkowski           | $$ 2-2-0 $$ | Blue Cloudpost   |
 | $$ 9. $$  | Piotr Jurek                 | $$ 1-3-0 $$ | Blue Riddler     |
 | $$ 10. $$ | Piotr Wróblewski            | $$ 1-3-0 $$ | UB Doomsday      |

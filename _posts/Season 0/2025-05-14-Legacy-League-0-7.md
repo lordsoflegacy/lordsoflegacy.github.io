@@ -25,7 +25,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 11. $$ | Jeremiasz "Yerbaa" Lubimow  | $$ 2-2-0 $$ | Pox                  |
 | $$ 12. $$ | Mikołaj Wyspiański          | $$ 1-3-0 $$ | Mono U Jewel         |
 | $$ 13. $$ | Sylwester Strużyna          | $$ 1-2-0 $$ | UG Infect            |
-| $$ 14. $$ | Maciej Staniszewski         | $$ 1-3-0 $$ | BUG Beanstalk        |
+| $$ 14. $$ | Maciek Staniszewski         | $$ 1-3-0 $$ | BUG Beanstalk        |
 | $$ 15. $$ | Maciej Kołodziejak          | $$ 0-4-0 $$ | UR Cori              |
 
 ---

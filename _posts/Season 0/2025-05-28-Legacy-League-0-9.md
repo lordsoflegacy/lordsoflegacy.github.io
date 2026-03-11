@@ -22,6 +22,6 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 8. $$  | Bartosz Litwin              | $$ 2-2-0 $$ | Grixis Show and Blast   |
 | $$ 9. $$  | Tomasz Dąbrowski            | $$ 1-2-1 $$ | Esper Saga Control      |
 | $$ 10. $$ | Marcin Nowakowski           | $$ 1-3-0 $$ | 4c Punishing Waterfalls |
-| $$ 11. $$ | Maciej Staniszewski         | $$ 0-3-1 $$ | 4c Beanstalk            |
+| $$ 11. $$ | Maciek Staniszewski         | $$ 0-3-1 $$ | 4c Beanstalk            |
 
 ---

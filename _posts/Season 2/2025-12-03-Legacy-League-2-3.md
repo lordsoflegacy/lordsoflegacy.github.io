@@ -18,6 +18,6 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 4. $$  | Krzysztof Mazurek         | $$ 2-1-0 $$ | UB Tempo       |
 | $$ 5. $$  | Filip Kwiatkowski         | $$ 1-2-0 $$ | Ub Cloudpost   |
 | $$ 6. $$  | Jeskai Frieren            | $$ 1-2-0 $$ | 8-cast         |
-| $$ 7. $$  | Maciej Staniszewski       | $$ 1-2-0 $$ | Bant Order     |
+| $$ 7. $$  | Maciek Staniszewski       | $$ 1-2-0 $$ | Bant Order     |
 
 ---

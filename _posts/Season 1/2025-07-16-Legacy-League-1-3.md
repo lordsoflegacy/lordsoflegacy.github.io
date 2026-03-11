@@ -28,7 +28,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 14. $$ | Maciej Kołodziejak          | $$ 1-3-0 $$ | BW Death and Taxes   |
 | $$ 15. $$ | Jeremiasz "Yerbaa" Lubimow  | $$ 1-3-0 $$ | BG Pox               |
 | $$ 16. $$ | Filip Pawłowski             | $$ 0-4-0 $$ | UG Omnitell          |
-| $$ 17. $$ | Maciej Staniszewski         | $$ 0-3-0 $$ | 4c Bean Reanimator   |
+| $$ 17. $$ | Maciek Staniszewski         | $$ 0-3-0 $$ | 4c Bean Reanimator   |
 
 Today we managed to beat the previous attendance record! This is a big deal, especially for those who try to keep the Legacy format alive in Poland <i class="fa-solid fa-heart"></i>
 

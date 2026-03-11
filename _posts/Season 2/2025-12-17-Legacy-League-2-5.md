@@ -16,7 +16,7 @@ This season's full standings can be found [here](../Legacy-League-Standings-Seas
 | $$ 2. $$  | Krzysztof Mazurek          | $$ 3-1-0 $$ | UB Tempo<sub><sub>with Hymn</sub></sub>       |
 | $$ 3. $$  | Piotr Wróblewski           | $$ 3-1-0 $$ | Oops! All Spells                              |
 | $$ 4. $$  | Błażej Ruba                | $$ 2-1-1 $$ | Bant Beanstalk                                |
-| $$ 5. $$  | Maciej Staniszewski        | $$ 2-1-1 $$ | BUG Coatl Midrange                            |
+| $$ 5. $$  | Maciek Staniszewski        | $$ 2-1-1 $$ | BUG Coatl Midrange                            |
 | $$ 6. $$  | Piotr Szejko               | $$ 2-2-0 $$ | Mono G Lands                                  |
 | $$ 7. $$  | Filip Kwiatkowski          | $$ 2-2-0 $$ | Affinity                                      |
 | $$ 8. $$  | Filip Pawłowski            | $$ 1-0-3 $$ | BUG Food Chain                                |
