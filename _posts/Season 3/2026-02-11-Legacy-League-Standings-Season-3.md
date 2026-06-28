@@ -1,6 +1,6 @@
 ---
 title: "Legacy League Standings for Season #3"
-categories: [Legacy League, Season 2]
+categories: [Legacy League, Season 3]
 tags: [standings, full standings]
 description: Standings report.
 math: true
