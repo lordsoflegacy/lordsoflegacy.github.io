@@ -7,6 +7,112 @@
 {%- endif -%}
 ';
 
+@font-face {
+  font-family: 'Concourse';
+  src: url('/assets/fonts/concourse_ot_2_thin.woff2') format('woff2');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Concourse';
+  src: url('/assets/fonts/concourse_ot_2_thin_italic.woff2') format('woff2');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Concourse';
+  src: url('/assets/fonts/concourse_ot_3_book.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Concourse';
+  src: url('/assets/fonts/concourse_ot_3_book_italic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Concourse';
+  src: url('/assets/fonts/concourse_ot_4_medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Concourse';
+  src: url('/assets/fonts/concourse_ot_4_medium_italic.woff2') format('woff2');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Concourse';
+  src: url('/assets/fonts/concourse_ot_6_semibold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Concourse';
+  src: url('/assets/fonts/concourse_ot_6_semibold_italic.woff2') format('woff2');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Concourse';
+  src: url('/assets/fonts/concourse_ot_7_bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Concourse';
+  src: url('/assets/fonts/concourse_ot_7_bold_italic.woff2') format('woff2');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Concourse';
+  src: url('/assets/fonts/concourse_ot_8_black.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Concourse';
+  src: url('/assets/fonts/concourse_ot_8_black_italic.woff2') format('woff2');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Concourse', sans-serif;
+}
+
 /* append your custom style below */
 
 mtg-card {
@@ -64,4 +170,22 @@ mtg-card:hover {
   max-width: 100%;
   height: 1000px;
   display: block;
+}
+
+.spoiler input {
+  display: none;
+}
+
+.spoiler span {
+  background: #202225;
+  color: transparent;
+  border-radius: 3px;
+  cursor: pointer;
+  user-select: none;
+  padding: 0 2px;
+}
+
+.spoiler input:checked + span {
+  background: transparent;
+  color: inherit;
 }
