@@ -5,7 +5,6 @@ tags: [rules]
 description: Legacy League rules for season 3.
 math: true
 mermaid: true
-pin: true
 ---
 
 ---

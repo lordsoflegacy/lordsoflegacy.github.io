@@ -4,7 +4,6 @@ categories: [Legacy League, Season 3]
 tags: [standings, full standings]
 description: Standings report.
 math: true
-pin: true
 ---
 
 ---
