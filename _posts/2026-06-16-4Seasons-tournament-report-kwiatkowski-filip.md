@@ -205,8 +205,7 @@ My (non-obvious) card choices, in no particular order, were:
 
 - 2 &#8288;<mtg-card>Island</mtg-card>.
   I like basics.
-  I expected plenty of: &#8288;<mtg-card>Erode</mtg-card>, &#8288;<mtg-card>Boseiju, Who Endures</mtg-card>, &#8288;<
-  mtg-card>Assassin's Trophy</mtg-card>,
+  I expected plenty of: &#8288;<mtg-card>Erode</mtg-card>, &#8288;<mtg-card>Boseiju, Who Endures</mtg-card>, &#8288;<mtg-card>Assassin's Trophy</mtg-card>,
   and &#8288;<mtg-card>White Orchid Phantom</mtg-card>.
   Being equipped with 2 fetchable basics is better than 1.
 
