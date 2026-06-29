@@ -283,7 +283,8 @@ and I am officially:
 
 My notes state that game 1 I attacked him for 3,
 then he cast &#8288;<mtg-card>Doomsday</mtg-card>,
-to which and I lost.
+to which I had no answer,
+and I lost.
 
 | Sideboard                                        |                                                            |
 |--------------------------------------------------|------------------------------------------------------------|
