@@ -11,13 +11,13 @@ math: true
 
 I attended 4Seasons Spring Edition (12--14.06.2026) suboptimally prepared,
 to say the least.
-I didn't practice most matchups that I expected to play.
+I didn't practice most matchups I expected to play.
 I didn't prepare a sideboard guide.
 I also didn't practice all variations of my deck of choice
 that I originally intended to.
 
-The results clearly indicates that
---- I went <label class="spoiler">
+The results clearly indicate that:
+I went <label class="spoiler">
 <input type="checkbox">
 <span>**6 --- 3**</span>
 </label>
@@ -29,16 +29,17 @@ and <label class="spoiler">
 in the side event
 (click to see spoilers).
 
-Nevertheless, I felt quite good registering my deck.
+Nevertheless, I felt quite good with registering my deck.
 For a very long time I have believed
 that playing a deck that you are familiar with
 gives you much better odds at winning
 compared to playing a "theoretically better" 75
-(or 95, because Yorion is a real Companion),
+(or 95, because Yorion is a real card),
 which you don't have as many reps with.
 
-This may not apply to you if you are a "real pro",
-but such person would have already developed an opinion
+This will of course not apply to you
+if you are a dedicated, very competitive player.
+But such person would have already developed an opinion
 about what's best for them to play, practice,
 and register to an event.
 
@@ -51,21 +52,21 @@ Whatever you want to call it.
 
 There are many variations to the "core build" as of right now:
 
-- Some people play Chalice of the Void.
+- Some people play &#8288;<mtg-card>Chalice of the Void</mtg-card>.
 - Some people play Tamiyo.
-- Some people play Thought Monitor, Krang, or Cori.
+- Some people play &#8288;<mtg-card>Thought Monitor</mtg-card>, Krang, or Cori.
 
 I decided to play a version that I like to call _Legendary Affinity_.
 The _legendary_ part distinguishes this version
-by introducing the addition of Mox Amber.
+by introducing the addition of &#8288;<mtg-card>Mox Amber</mtg-card>.
 
-Mox Amber is not a strong Legacy card.
+&#8288;<mtg-card>Mox Amber</mtg-card> is not a strong Legacy card.
 It's not a card this version was built around.
 
 It's a card that was added because of another addition
 --- Tamiyo.
 
-Originally, I wasn't a big fan of trying out Tamiyo.
+Originally, I wasn't a big fan of trying Tamiyo out.
 I thought that generating multiple &#8288;<mtg-card>Clue</mtg-card>s,
 consistently flipping it by cracking Baubles in a timely manner,
 and potentially being an efficient blocker was either lackluster
@@ -77,13 +78,13 @@ Very wrong.
 This proves to me that I ought to always test every card
 that _could_ work.
 
-My list played a playset of Tamiyos, two Mox Ambers,
-and precisely zero Force of Wills.
+My list played a playset of Tamiyos, two &#8288;<mtg-card>Mox Amber</mtg-card>s,
+and precisely zero &#8288;<mtg-card>Force of Will</mtg-card>s.
 
-Force of Will is a strong card
---- don't get me wrong,
+&#8288;<mtg-card>Force of Will</mtg-card> is a strong card,
+don't get me wrong,
 I don't doubt that.
-It's just too big of a card disadvantage
+I felt that it's just too big of a card disadvantage
 to be frequently worth it in game 1.
 
 And if game 2–3 is when it theoretically shines
@@ -92,10 +93,11 @@ e.g., against combo decks),
 why not play 0-mana, 2-for-1 counters exclusively in the sideboard?
 
 That's what I did.
-I substituted 4 Force of Wills with 4 Metallic Rebukes.
+I substituted four maindeck &#8288;<mtg-card>Force of Will</mtg-card>s
+with four maindeck &#8288;<mtg-card>Metallic Rebuke</mtg-card>s.
 
-Rebuke is much, much better than Force in fair matchups,
-while being noticeably, but not catastrophically
+Rebuke is a much, much better card than Force in fair matchups,
+while being noticeably, but not catastrophically,
 worse in combo matchups.
 
 Besides, how many combo decks can I face
@@ -113,8 +115,9 @@ UR Cori, UB Tempo, and Tron?
 4 &#8288;<mtg-card>Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar</mtg-card>
 
 2 &#8288;<mtg-card>Thoughtcast</mtg-card>  
-4 &#8288;<mtg-card>Sink into Stupor // Soporific Springs</mtg-card>  
-4 &#8288;<mtg-card>Metallic Rebuke</mtg-card>
+
+4 &#8288;<mtg-card>Metallic Rebuke</mtg-card>  
+4 &#8288;<mtg-card>Sink into Stupor // Soporific Springs</mtg-card>
 
 4 &#8288;<mtg-card>Lotus Petal</mtg-card>  
 4 &#8288;<mtg-card>Mishra's Bauble</mtg-card>  
@@ -124,9 +127,9 @@ UR Cori, UB Tempo, and Tron?
 1 &#8288;<mtg-card>Skateboard</mtg-card>  
 4 &#8288;<mtg-card>Urza's Bauble</mtg-card>
 
+2 &#8288;<mtg-card>Island</mtg-card>  
 2 &#8288;<mtg-card>Otawara, Soaring City</mtg-card>  
 4 &#8288;<mtg-card>Seat of the Synod</mtg-card>  
-2 &#8288;<mtg-card>Island</mtg-card>  
 4 &#8288;<mtg-card>Urza's Saga</mtg-card>
 
 #### Sideboard
@@ -141,35 +144,36 @@ UR Cori, UB Tempo, and Tron?
 
 My (non-obvious) card choices, in no particular order, were:
 
-- 3 &#8288;<mtg-card>Kappa Cannoneer</mtg-card>s.
+- Exactly 3 &#8288;<mtg-card>Kappa Cannoneer</mtg-card>s.
   It's an insanely strong card,
   but it's rarely ~~good~~ needed in multiples.
   I want to always have access to it,
   but I don't really want to drown in stuck-in-hand Kappas.
   That's why I was playing exactly three of them.
   No more, no less.
-- 3 &#8288;<mtg-card>Memory Guardian</mtg-card>s.
+- Around 3 &#8288;<mtg-card>Memory Guardian</mtg-card>s.
   Not as strong as it used to be,
   but it's a great card against UR Cori.
   At worst, it's a Tamiyo blocker that can apply decent pressure.
-  Their presence also enabled me to confidently put &#8288;<mtg-card>Shadowspear</mtg-card> in the maindeck.
-  I really wanted _lifelink_ access in game 1,
+  Their presence also enabled me 
+  to confidently include &#8288;<mtg-card>Shadowspear</mtg-card> in the maindeck.
+  I really wanted lifelink access in game 1,
   but without more decent carriers of the spear,
   its maindeck presence would have been unjustified.
 - 4 &#8288;<mtg-card>Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar</mtg-card>.
-  Flooding &#8288;<mtg-card>Clue</mtg-card>s are not a joke.
+  Flooding &#8288;<mtg-card>Clue</mtg-card>s are no joke.
   Tamiyo is a low-cost investment
-  that sets up _affinity_- / _improvise_-related payoffs,
+  that sets up affinity-related/improvise-related payoffs,
   sometimes can buyback a Sink, a Rebuke, or a &#8288;<mtg-card>Thoughtcast</mtg-card>.
   And it, occasionally, can just win the game by itself.
 
   What's worth noting is that &#8288;<mtg-card>Clue</mtg-card>s need not be tapped to draw cards.
-  You can tap them to _improvise_,
+  You can tap them to improvise (Kappa or Rebuke)
   and then sacrifice them to draw during the same turn.
-- 2 &#8288;<mtg-card>Thoughtcast</mtg-card>s.
+- Around 2 &#8288;<mtg-card>Thoughtcast</mtg-card>s.
   Originally the namesake of the deck,
   due to &#8288;<mtg-card>Orcish Bowmasters</mtg-card> being printed,
-  &#8288;<mtg-card>Thoughtcast</mtg-card> ended up being cut from the deck.
+  &#8288;<mtg-card>Thoughtcast</mtg-card> ended up being cut from the lists.
   Lately, however, we have seen an uptick in its presence.
   I like it, especially given its synergy with Tamiyo
   (buying them back or flipping her).
@@ -183,16 +187,17 @@ My (non-obvious) card choices, in no particular order, were:
   More efficient, albeit less flexible &#8288;<mtg-card>Force of Will</mtg-card>.
   Forcing a tempo play like &#8288;<mtg-card>Barrowgoyf</mtg-card> or &#8288;<mtg-card>Murktide Regent</mtg-card> seldom
   feels comfortable,
-  while Rebuking them almost always feels like an advantageous decision.
+  while Rebuking them almost always feels like an advantageous line.
 - &#8288;<mtg-card>Skateboard</mtg-card> over &#8288;<mtg-card>Lavaspur Boots</mtg-card>.
   For a long time I was against such replacement.
-  I felt like _ward 1_ is, in general, more relevant than ETB tapping.
+  I felt like ward 1 is, in general, more relevant than ETB tapping.
   Especially since I tried to argue
   that Boots are frequently better than they seem,
-  because if the opponent can't do something due to _ward 1_,
+  because if the opponent can't do something due to ward 1,
   you are sometimes unlikely to notice it
-  (and correctly label Boots as being more advantageous than &#8288;<mtg-card>Skateboard</mtg-card>),
-  while if tapping a permanent proves to be key,
+  (and correctly label Boots as being better than &#8288;<mtg-card>Skateboard</mtg-card>
+  in such situations),
+  while if tapping a permanent proves to be a key play,
   it's very easily noticeable.
 
   What ultimately convinced me
@@ -203,7 +208,7 @@ My (non-obvious) card choices, in no particular order, were:
   and if that's already the case,
   I think that more aggressive route is more frequently better.
 
-- 2 &#8288;<mtg-card>Island</mtg-card>.
+- 2 &#8288;<mtg-card>Island</mtg-card>s.
   I like basics.
   I expected plenty of: &#8288;<mtg-card>Erode</mtg-card>, &#8288;<mtg-card>Boseiju, Who Endures</mtg-card>, &#8288;<mtg-card>Assassin's Trophy</mtg-card>,
   and &#8288;<mtg-card>White Orchid Phantom</mtg-card>.
@@ -218,10 +223,13 @@ My (non-obvious) card choices, in no particular order, were:
   activating Otawara costs
   only <img src="assets/img/mana-symbols/1.svg" width="14"/> <img src="assets/img/mana-symbols/U.svg" width="14"/>.
 
+Deck registered, decklist uploaded, entry fees paid.
+Time to battle.
+
 ## Side event
 
 I started things off with the Super Legacy side event.
-6 rounds total, payouts for **4 --- 2** or better,
+Six rounds total, payouts for **4 --- 2** or better,
 depending solely on points,
 not standings.
 
@@ -229,7 +237,12 @@ not standings.
 
 I'm on the draw against a super-friendly gentleman from China.
 He plays &#8288;<mtg-card>Underground Sea</mtg-card> $$→$$ &#8288;<mtg-card>Thoughtseize</mtg-card>.
-Then cantrips, and &#8288;<mtg-card>Doomsday</mtg-card>s with protection,
+Takes something irrelevant from my hand,
+and I fortunately manage to draw a &#8288;<mtg-card>Metallic Rebuke</mtg-card>.
+I deploy a land and two 0-drops, and pass the turn.
+
+He untaps, cantrips,
+and casts &#8288;<mtg-card>Doomsday</mtg-card> with protection,
 which concludes game 1.
 
 | Sideboard                                        |                                                            |
@@ -242,10 +255,10 @@ which concludes game 1.
 |                                                  | -1 &#8288;<mtg-card>Mishra's Bauble            </mtg-card> |
 |                                                  | -1 &#8288;<mtg-card>Mox Amber                  </mtg-card> |
 
-In game 2 he drops &#8288;<mtg-card>Hexing Squelcher</mtg-card>
+In game 2, around turn 3 he drops &#8288;<mtg-card>Hexing Squelcher</mtg-card>
 and &#8288;<mtg-card>Doomsday</mtg-card>s.
-He is unable to set up a pile that wins immediately.
-This enables me to create two Saga &#8288;<mtg-card>Construct</mtg-card>s,
+But being unable to set up a pile that wins immediately,
+he gives me enough time to create two Saga &#8288;<mtg-card>Construct</mtg-card>s,
 fetch &#8288;<mtg-card>Skateboard</mtg-card>
 that taps his Squelcher,
 equip the newest &#8288;<mtg-card>Construct</mtg-card>,
@@ -253,13 +266,13 @@ and attack for lethal.
 
 Point for &#8288;<mtg-card>Skateboard</mtg-card> over 
 &#8288;<mtg-card>Lavaspur Boots</mtg-card>,
-which would not enable me to win that game 
+which would fail to enable me to win that game 
 --- he would've blocked the equipped &#8288;<mtg-card>Construct</mtg-card> with a Squelcher,
-which would've given him an extra turn he needed.
+which would've given him an extra turn he needed to win.
 
-In game 3 opponent lost some life to fetchlands, &#8288;<mtg-card>Thoughtseize</mtg-card>s,
-me attacking for 3 with &#8288;<mtg-card>Memory Guardian</mtg-card> (or 3 Drones --- not sure),
-and ultimately &#8288;<mtg-card>Doomsday</mtg-card>s while being at 8 life.
+In game 3, opponent loses some life to fetchlands, &#8288;<mtg-card>Thoughtseize</mtg-card>s,
+and me attacking for 3 with &#8288;<mtg-card>Memory Guardian</mtg-card> (or 3 Drones --- not sure).
+Finally, he casts &#8288;<mtg-card>Doomsday</mtg-card> while being at 8 life.
 I cast &#8288;<mtg-card>Sink into Stupor</mtg-card>
 that basically acts as a hard counterspell here,
 but the opponent fetches in response and counters it with
@@ -299,7 +312,7 @@ Here, my notes are a little more interesting.
 It looks like he fetched, then lost 13 life to my single attack.
 Not bad.
 
-But then he cast &#8288;<mtg-card>Doomsday</mtg-card>, and killed me.
+But then he cast &#8288;<mtg-card>Doomsday</mtg-card> and killed me.
 That's bad.
 
 **1 --- 1**
@@ -323,7 +336,7 @@ or simply being there as extra artifacts for Improvise or &#8288;<mtg-card>Const
 
 Very relevant --- I managed to cast &#8288;<mtg-card>Metallic Rebuke</mtg-card>
 by tapping two &#8288;<mtg-card>Clue</mtg-card>s,
-which I then sacrificed on the same turn to draw cards.
+which I then sacrificed on the same turn to draw two cards.
 
 | Sideboard                                        |                                                            |
 |--------------------------------------------------|------------------------------------------------------------|
@@ -334,12 +347,11 @@ which I then sacrificed on the same turn to draw cards.
 |                                                  | -2 &#8288;<mtg-card>Mox Amber                  </mtg-card> |
 
 Game 2 is also a grind.
-I recall countering like 3 &#8288;<mtg-card>Aluren</mtg-card>s.
+I recall countering three &#8288;<mtg-card>Aluren</mtg-card>s.
 Well, the last counter was &#8288;<mtg-card>Sink into Stupor</mtg-card>,
-but it acted as a final blow.
-
+but it proved to be sufficient. 
 Opponent showed me his hand and explained how he would've won the game
-if I hadn't ~~countered~~Sinked his last &#8288;<mtg-card>Aluren</mtg-card>.
+if I hadn't ~~countered~~ Sinked his last &#8288;<mtg-card>Aluren</mtg-card>.
 
 <details>
   <summary>I felt like he was making a reference...</summary>
@@ -350,10 +362,11 @@ Yet again Sink turns out to be a gamechanger.
 I'm loving it.
 
 Oh, but you got to win somehow.
-My notes say that I had &#8288;<mtg-card>Pinnacle Emissary</mtg-card> 
-and &#8288;<mtg-card>Memory Guardian</mtg-card>.
+My notes say that I warped a &#8288;<mtg-card>Pinnacle Emissary</mtg-card> 
+and deployed a &#8288;<mtg-card>Memory Guardian</mtg-card>
+some turns before that.
 I attacked for 5 twice,
-and then my opponent conceded while being at 6 life.
+and then my opponent conceded after the aforementioned &#8288;<mtg-card>Aluren</mtg-card> Sinking.
 
 **2 --- 1**
 
@@ -374,12 +387,19 @@ and just lose to T3 &#8288;<mtg-card>Atraxa, Grand Unifier</mtg-card>.
 |                                                  | -1 &#8288;<mtg-card>Mishra's Bauble            </mtg-card> |
 |                                                  | -1 &#8288;<mtg-card>Mox Amber                  </mtg-card> |
 
-I manage to win game 2 by searching for an &#8288;<mtg-card>Aether Spellbomb</mtg-card> 
-with &#8288;<mtg-card>Urza's Saga</mtg-card>,
-bouncing his Atraxa, revealing Tamiyo to &#8288;<mtg-card>Stronghold Gambit</mtg-card>,
-attacking for 5, and then attacking for at least 19.
+Yet again he reanimates Atraxa rather quickly,
+but this time I manage to find an &#8288;<mtg-card>Aether Spellbomb</mtg-card> 
+thanks to &#8288;<mtg-card>Urza's Saga</mtg-card>.
+Spellbomb bounces his Atraxa,
+but he follows up with &#8288;<mtg-card>Stronghold Gambit</mtg-card>.
+Fortunately, being aware of this line,
+I kept a Tamiyo in my hand,
+which caused him to end up with an empty board.
 
-In game 3 he mulliganed to 5 and still managed to T1 &#8288;<mtg-card>Thoughtseize</mtg-card> me,
+Afterward, I attacked for 5, then for 19,
+and then for the rest of his life total.
+
+In game 3 he mulliganed to five and still managed to T1 &#8288;<mtg-card>Thoughtseize</mtg-card> me,
 following by reanimating &#8288;<mtg-card>Raph & Mikey, Troublemakers</mtg-card>.
 
 **2 --- 2**
@@ -387,33 +407,39 @@ following by reanimating &#8288;<mtg-card>Raph & Mikey, Troublemakers</mtg-card>
 ## Break
 
 I face the decision to either
-try to win the next 2 matches and grab a small prize,
+try to win the next two matches and grab a small prize,
 or leave the venue with my friends and get something to eat.
 
 I choose the latter,
 contemplating whether I should change my list
-and register &#8288;<mtg-card>Force of Will</mtg-card>s to the main event.
+and register &#8288;<mtg-card>Force of Will</mtg-card>s to the main event,
+based on the number of combo matchups I have faced.
 
 I choose not to.
 I register the same 75 I played in the side event.
+My reasoning was that it was a common practice
+to register faster decks for that side event.
+Sort of like Magic Online meta having way more combo decks than paper one.
 
 ## Main event
 
 ### Round 1 --- BR Reanimator
 
+> Huh.
+
 I'm on the draw,
 and it looks like failing to register maindeck &#8288;<mtg-card>Force of Will</mtg-card>s
 is going to punish me yet again.
 
-Fortunately, it helps that the opponent mulligans to 5,
-and I dump my entire hand to produce 5 &#8288;<mtg-card>Drone</mtg-card>s,
+Fortunately, it helps that the opponent mulligans to five,
+and I dump my entire hand to produce five &#8288;<mtg-card>Drone</mtg-card>s,
 then proceeding to draw couple cards off of Baubles.
 
 He fetches, casts &#8288;<mtg-card>Faithless Looting</mtg-card>,
 bins two &#8288;<mtg-card>Griselbrand</mtg-card>s,
 and passes the turn.
 
-I untap, draw, play a land, and attack with 5 &#8288;<mtg-card>Drone</mtg-card>s.
+I untap, draw, play a land, and attack with five &#8288;<mtg-card>Drone</mtg-card>s.
 Opponent is down to 14.
 Then I cast &#8288;<mtg-card>Memory Guardian</mtg-card>.
 
@@ -435,7 +461,7 @@ This enables me to attack for lethal.
 |                                                  | -1 &#8288;<mtg-card>Mishra's Bauble            </mtg-card> |
 |                                                  | -1 &#8288;<mtg-card>Mox Amber                  </mtg-card> |
 
-In game 2 we both mulligan to 5,
+In game 2 we both mulligan to five,
 but I keep drawing a counterspell whenever it's needed.
 
 The game spans over a couple of turns
@@ -447,14 +473,14 @@ He can't recover from that.
 
 ### Round 2 --- RUG Sneak and Show
 
-I'm on the draw, my opponent plays a blue fetch, and passes.
+I'm on the draw, and my opponent plays a blue fetch and passes.
 I can't recall what was my initial play,
 but he &#8288;<mtg-card>Force of Will</mtg-card>s it.
 My notes say that I took 3 damage from &#8288;<mtg-card>Soporific Springs</mtg-card> on turn 1,
 so most likely it was a &#8288;<mtg-card>Pinnacle Emissary</mtg-card>
 or &#8288;<mtg-card>Emry, Lurker of the Loch</mtg-card>.
 
-I noticed that people started actively countering T1 Emissaries.
+I noticed that people started actively countering turn 1 Emissaries.
 Can't say I blame them...
 
 He then fetches a &#8288;<mtg-card>Tropical Island</mtg-card>,
@@ -464,14 +490,14 @@ plays &#8288;<mtg-card>Ancient Tomb</mtg-card>, and casts &#8288;<mtg-card>Stock
 
 Almost.
 It turned out to be RUG.
-Basically, Sneak & Show with occasional &#8288;<mtg-card>Omniscience</mtg-card>
+Basically Sneak & Show with occasional &#8288;<mtg-card>Omniscience</mtg-card>
 and &#8288;<mtg-card>Veil of Summer</mtg-card>s.
 
 Back to the game
 --- I deploy &#8288;<mtg-card>Urza's Saga</mtg-card> and pass.
 
 Opponent untaps, and casts one more &#8288;<mtg-card>Stock Up</mtg-card>.
-Notably, he already used Tomb twice,
+Notably, he already used &#8288;<mtg-card>Ancient Tomb</mtg-card> twice,
 and pairing that with him Forcing my T1 play and fetching,
 the current game state finds him at 14 life.
 
@@ -497,7 +523,7 @@ This proves to be enough.
 |                                                  | -1 &#8288;<mtg-card>Mishra's Bauble            </mtg-card> |
 |                                                  | -1 &#8288;<mtg-card>Mox Amber                  </mtg-card> |
 
-He starts game 2 by mulliganing to 6
+He starts game 2 by mulliganing to six
 and playing &#8288;<mtg-card>Ancient Tomb</mtg-card> $$→$$ &#8288;<mtg-card>Null Rod</mtg-card>.
 
 > Well, that's bad...
@@ -531,8 +557,8 @@ My game 1 notes say that I attacked for 6
 and died because I had no counters for &#8288;<mtg-card>Coveted Jewel</mtg-card>
 shenanigans.
 
-I let my opponent play out his combo
-in order to inspect his maindeck.
+I did let my opponent play out his combo
+in order to inspect his maindeck, though.
 I even tracked his mana for him to speed the process up,
 but we gave up counting after 50.
 
@@ -558,7 +584,7 @@ The Old School ANT.
 like [this one](https://mtgtop8.com/event?e=87164&d=861647).
 Loving it.
 
-I'm on the play and I cast Emry (without the help of any Baubles),
+I'm on the play and cast Emry (without the help of any Baubles),
 which mills zero artifacts.
 Quite suboptimal.
 
@@ -588,11 +614,11 @@ I make a mental note of that.
 |                                                  | -1 &#8288;<mtg-card>Mox Amber                  </mtg-card> |
 
 Game 2 proves to be fairly easy,
-because my opponent mulliganed to 4.
+because my opponent mulliganed to four.
 I just cast Kappa and sandbagged counterspells.
 
 Game 3 was stabilized in my favor fairly quickly.
-T1 &#8288;<mtg-card>Tormod's Crypt</mtg-card> prevented him
+Turn 1 &#8288;<mtg-card>Tormod's Crypt</mtg-card> prevented him
 from winning with &#8288;<mtg-card>Past in Flames</mtg-card>,
 and some quick pressure (single attack for 11) prevented him
 from winning with &#8288;<mtg-card>Ad Nauseam</mtg-card>.
@@ -607,12 +633,12 @@ from winning with &#8288;<mtg-card>Ad Nauseam</mtg-card>.
 This is an &#8288;<mtg-card>Ancient Tomb</mtg-card>, 
 &#8288;<mtg-card>Patchwork Automaton</mtg-card>, and &#8288;<mtg-card>Chalice of the Void</mtg-card> build,
 which I learn of quite quickly,
-because my opponent plays T1 &#8288;<mtg-card>Sink into Stupor</mtg-card>
+because my opponent plays turn 1 &#8288;<mtg-card>Sink into Stupor</mtg-card>
 $$→$$ &#8288;<mtg-card>Chalice of the Void</mtg-card> at 1,
-and T2 &#8288;<mtg-card>Ancient Tomb</mtg-card> $$→$$ &#8288;<mtg-card>Patchwork Automaton</mtg-card>.
+and turn 2 &#8288;<mtg-card>Ancient Tomb</mtg-card> $$→$$ &#8288;<mtg-card>Patchwork Automaton</mtg-card>.
 
 Fortunately, &#8288;<mtg-card>Kappa Cannoneer</mtg-card>,
-which I cast on my T3,
+which I cast on my turn 3,
 is a bit bigger of a threat
 than his Patchwork.
 I note a single attack for 14,
@@ -620,12 +646,12 @@ I note a single attack for 14,
 
 This puts the game out of his reach.
 
-I noticed that his play patterns suggested
+I noticed that his play and behavior patterns suggested
 that he could've countered Kappa,
 but chose not to.
 I asked him about this later,
 and he confirmed.
-His rationale was that he had hoped for outgrinding me.
+His rationale was that he had hoped to outgrind me.
 Huh.
 
 | Sideboard                                        |                                                            |
@@ -644,6 +670,8 @@ Of course, after deplying 0-drops of his own.
 > Well...
 
 He then proceeds to cast his own &#8288;<mtg-card>Emry, Lurker of the Loch</mtg-card>.
+
+> Uh-oh...
 
 I consider already thinking about game 3,
 but then I thought to myself:
@@ -667,25 +695,25 @@ after which my opponent just looks at me and says _okay_.
 
 This is where things get slightly awkward.
 The exact sequence of plays was as follows:
-+ I move Mox Opal from my hand onto the battlefield,
+1. I move &#8288;<mtg-card>Mox Opal</mtg-card> from my hand onto the battlefield,
   announce that I'm casting it,
   and immediately announce my Emissary trigger.
-+ Opponent says _okay_.
-+ I put a &#8288;<mtg-card>Drone</mtg-card> token, pause, and look at my opponent.
-+ 2 seconds go by.
-+ I move &#8288;<mtg-card>Urza's Bauble</mtg-card> from my hand onto the battlefield,
+2. Opponent says _okay_.
+3. I put a &#8288;<mtg-card>Drone</mtg-card> token, pause, and look at my opponent.
+4. 2 seconds go by.
+5. I move &#8288;<mtg-card>Urza's Bauble</mtg-card> from my hand onto the battlefield,
   announce that I'm casting it,
   and immediately announce my Emissary trigger.
-+ Opponent says _okay_.
-+ I put a &#8288;<mtg-card>Drone</mtg-card> token, pause, and look at my opponent.
-+ 2 seconds go by.
-+ I attempt to tap my land to cast Kappa,
+6. Opponent says _okay_.
+7. I put a &#8288;<mtg-card>Drone</mtg-card> token, pause, and look at my opponent.
+8. 2 seconds go by.
+9. I attempt to tap my land to cast Kappa,
   but the opponent stops me and says
   that my 0-drops are countered.
 
 I'm not sure if this enumeration faithfully represents
 the exact dynamic between me and my opponent.
---- my memory may not be serving me as well as I would like.
+My memory may not be serving me as well as I would like.
 Nevertheless, I begin to explain why I believe he missed his Chalice triggers,
 and soon after we call a judge (rightfully so).
 
@@ -700,7 +728,8 @@ judges ruling otherwise.
 I don't delve into the details,
 because I don't see the point.
 Maybe he was telling the truth.
-Maybe he misremembered something crucial.
+Maybe he misremembered something crucial
+about his past experiences that seemed similar.
 Maybe the judges
 (potentially including the one
 who intervened this match)
@@ -712,7 +741,7 @@ I feel a bit bad,
 because my opponent was super friendly,
 and this situation clearly caused his mood to shift.
 
-Okay, enough of the slight off-topic.
+Okay, enough of the off-topic.
 I cast Kappa and win.
 
 **3 --- 2**
@@ -726,14 +755,14 @@ Hyped? ✓
 Excellent.
 
 I keep a decent, but slow hand,
-which plans to drop T2 Kappa.
+which plans to drop turn 2 Kappa.
 
 I decide against playing my 0-drops immediately
 in case I draw &#8288;<mtg-card>Pinnacle Emissary</mtg-card> next turn.
 I think I played &#8288;<mtg-card>Island</mtg-card> and passed.
 
 I end up being punished for this line,
-because my opponent plays T1 &#8288;<mtg-card>Eldrazi Linebreaker</mtg-card>,
+because my opponent plays turn 1 &#8288;<mtg-card>Eldrazi Linebreaker</mtg-card>,
 hesitates for a bit,
 and follows up with &#8288;<mtg-card>Chalice of the Void</mtg-card> for 0.
 
@@ -749,12 +778,12 @@ I die shortly after.
 | +1 &#8288;<mtg-card>Aether Spellbomb</mtg-card>  | -1 &#8288;<mtg-card>Mox Amber                  </mtg-card> |
 |                                                  | -1 &#8288;<mtg-card>Mishra's Bauble            </mtg-card> |
 
-In game 2 I keep a hand that deploys 4 &#8288;<mtg-card>Drone</mtg-card>s
+In game 2 I keep a hand that deploys four &#8288;<mtg-card>Drone</mtg-card>s
 and a &#8288;<mtg-card>Memory Guardian</mtg-card> on turn 1.
 This proves to be enough.
 
 In game 3 I keep _the exact same hand_,
-and my opponent mulligans to 4.
+and my opponent mulligans to four.
 Not much more to say.
 
 **4 --- 2**
@@ -768,7 +797,7 @@ My notes say that I lost it to
 &#8288;<mtg-card>Orcish Bowmasters</mtg-card> and &#8288;<mtg-card>Scrawling Crawler</mtg-card>
 being on the battlefield,
 while my opponent searched for &#8288;<mtg-card>Lion's Eye Diamond</mtg-card> 
-off of his &#8288;<mtg-card>Urza's Saga</mtg-card>,
+off of his &#8288;<mtg-card>Urza's Saga</mtg-card>
 and used it to discard and cast &#8288;<mtg-card>Echo of Eons</mtg-card>.
 I was at exact 14 life.
 
@@ -798,7 +827,7 @@ but without any wheel effects.
 
 Back to combo _for real_...
 
-I lose game 1 to my opponent T3 &#8288;<mtg-card>Show and Tell</mtg-card>ing
+I lose game 1 to my opponent turn 3 &#8288;<mtg-card>Show and Tell</mtg-card>ing
 an &#8288;<mtg-card>Omniscience</mtg-card> into play,
 which he then follows up with &#8288;<mtg-card>Emrakul, the Aeons Torn</mtg-card>.
 
@@ -830,13 +859,13 @@ This proved to be enough.
 
 ### Round 9 --- Sneak and Show
 
-Eleven out of thirteen matches against combo.
-Mercy, please...
+> Eleven out of thirteen matches against combo.
+> Mercy, please...
 
 And mercy is shown.
 My opponent fails to find anything relevant.
-He fetches, &#8288;<mtg-card>Ponders</mtg-card>,
-&#8288;<mtg-card>Force of Wills</mtg-card> something of my own,
+He fetches, &#8288;<mtg-card>Ponder</mtg-card>s,
+&#8288;<mtg-card>Force of Will</mtg-card>s something of my own,
 fetches some more, Stocks Up,
 and loses to some &#8288;<mtg-card>Drone</mtg-card>s and &#8288;<mtg-card>Memory Guardian</mtg-card>s.
 
@@ -850,9 +879,9 @@ and it proves to be enough.
 
 **6 --- 3** is definitely not terrible,
 especially considering that I optimized my decklist to better fight fair matchups,
-which I faced 2 out of 13.
+which I faced twice out of thirteen matches.
 
-> Force of Will vs. Metallic Rebuke
+> &#8288;<mtg-card>Force of Will</mtg-card> vs. &#8288;<mtg-card>Metallic Rebuke</mtg-card>
 > --- how about a mix?
 {: .prompt-info }
 
@@ -863,7 +892,7 @@ rather than simply wish to be equipped with theoretically better cards.
 What I mean by that is:
 While &#8288;<mtg-card>Force of Will</mtg-card> is definitely better against combo
 than &#8288;<mtg-card>Metallic Rebuke</mtg-card>,
-how many situation occurred,
+how many situation occurred
 such that I had a &#8288;<mtg-card>Metallic Rebuke</mtg-card> in hand and lost,
 where had it be replaced with &#8288;<mtg-card>Force of Will</mtg-card>,
 I would have won?
@@ -873,15 +902,23 @@ Surprisingly, I don't recall many of them.
 Of course, having Rebuke and FoW in hand
 changes the dynamic of the game
 in a non-trivial manner.
-Rebuke frequently forces you not to crack Baubles,
-because you need them for _improvise_.
+Rebuke frequently forces you to not crack Baubles,
+because you need them for improvise.
 &#8288;<mtg-card>Force of Will</mtg-card> does not have that restriction.
 This does mean that it's not as easy to establish
 whether one would be better than the other
 in realistic scenarios.
 
+Another thing is if people learn
+that you do not play any &#8288;<mtg-card>Force of Will</mtg-card>s,
+they may optimize their lines for speed,
+rather than playing around a non-existent card.
+Maybe Rebuke over FoW makes sense only if it's an unknown strategy[^thanks-filip].
+
+[^thanks-filip]: Thanks to Filip for pointing this out to me.
+
 It used to be a crazy thing to even consider
-playing no &#8288;<mtg-card>Force of Will</mtg-card>s in a deck like this,
+playing zero &#8288;<mtg-card>Force of Will</mtg-card>s in a deck like this,
 but this is a second tournament where I do just that,
 and I'm quite happy with the results.
 
@@ -903,8 +940,12 @@ But it's not an excellent card in this deck.
 In my playtesting, I was flipping it way more frequently
 compared to my tournament matches.
 She sometimes bought back &#8288;<mtg-card>Thoughtcast</mtg-card>s, and created insane card advantage.
+But maybe that was due to my matchups.
+In games against combo,
+you don't really plan for the long game,
+where Tamiyo shines.
 
-But having multiples of her is not great.
+Nevertheless, having multiples of her is not great.
 I think I will be going down to 3 copies.
 
 > Kappa is an MVP.
@@ -931,12 +972,12 @@ I really like it.
 I don't want to stop playing it.
 But maybe going down to three copies would be a good decision.
 
-> &#8288;<mtg-card>Memory Guardian</mtg-card> is okay, but not great --- as it once was.
+> &#8288;<mtg-card>Memory Guardian</mtg-card> is okay, but not as great as it once was.
 {: .prompt-info }
 
 Most likely this is due to facing mainly combo decks
 (however, many creatures that I faced were also favored against Guardian,
-e.g., Baleful Strix and Eldrazis),
+e.g., &#8288;<mtg-card>Baleful Strix</mtg-card> and Eldrazis),
 but I feel like Guardian no longer fills that versatile role
 as well as it did a year ago
 --- when UR Cori and UB Reanimator were top decks.
@@ -950,14 +991,17 @@ It's still a decent &#8288;<mtg-card>Shadowspear</mtg-card> carrier.
 Yeah, that card exists.
 In my testing it has **never once been better than Kappa**.
 Every time it did something,
-I was trying to establish whether Kappa would be able to achieve the same (or better) result.
+I was trying to establish whether Kappa would be able
+to achieve the same (or better) result.
+And pretty much every time that was the case.
 
 But drawing cards is cool.
 Especially if one can bring Krang back with Emry.
-So is flipping Tamiyo thanks to a single card
-(Krang draws up to 4 cards), and
+Flipping Tamiyo thanks to a single card
+(Krang draws up to four cards), and
 being an additional legendary creature for
-&#8288;<mtg-card>Otawara, Soaring City</mtg-card> and &#8288;<mtg-card>Mox Amber</mtg-card>.
+&#8288;<mtg-card>Otawara, Soaring City</mtg-card> and &#8288;<mtg-card>Mox Amber</mtg-card>
+is also cool.
 
 However, at that point, those may simply be win-more scenarios.
 
