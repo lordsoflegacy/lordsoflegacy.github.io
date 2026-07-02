@@ -37,11 +37,11 @@ compared to playing a "theoretically better" 75
 (or 95, because Yorion is a real card),
 which you don't have as many reps with.
 
-This will of course not apply to you
+This will, of course, not apply to you
 if you are a dedicated, very competitive player.
-But such person would have already developed an opinion
+But such a person would have already developed an opinion
 about what's best for them to play, practice,
-and register to an event.
+and register for an event.
 
 ## The deck
 
@@ -412,7 +412,7 @@ or leave the venue with my friends and get something to eat.
 
 I choose the latter,
 contemplating whether I should change my list
-and register &#8288;<mtg-card>Force of Will</mtg-card>s to the main event,
+and register &#8288;<mtg-card>Force of Will</mtg-card>s for the main event,
 based on the number of combo matchups I have faced.
 
 I choose not to.
